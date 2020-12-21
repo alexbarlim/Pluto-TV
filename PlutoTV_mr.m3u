@@ -18,10 +18,10 @@ https://akamai2-br.cdn.booyah.live/hls/1000020/master_34850987.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://i.imgur.com/jWO2OKt.png" tvg-shift="0" group-title="Abertos",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="https://i.imgur.com/1TpWFgh.png" tvg-shift="0" group-title="Abertos",Record TV
+#EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="https://imgur.com/Wfq5okf.png" tvg-shift="0" group-title="Abertos",Record TV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/CQCa3Bk.png" group-title="Abertos",Rede Brasil
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="Abertos",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rede Premium" tvg-logo="https://imgur.com/vV7vSvn.png" group-title="Abertos",Rede Premium
@@ -42,7 +42,7 @@ https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Abertos",TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Manchete" tvg-logo="https://imgur.com/OeybulN.png" tvg-shift="0" group-title="Abertos",TV Manchete
+#EXTINF:-1 tvg-id="" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Abertos",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Pampa - RedeTV! RS" tvg-logo="https://imgur.com/xLClDfk.png" tvg-shift="0" group-title="Abertos",TV Pampa RedeTV! RS
