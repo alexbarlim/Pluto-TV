@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Abertos",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bons Tempos TV" tvg-logo="https://imgur.com/B9ZpNy7.png" group-title="Abertos",Bons Tempos TV
+#EXTINF:-1 tvg-id="" tvg-name="Bons Tempos TV" tvg-logo="https://imgur.com/ualVUwe.png" group-title="Abertos",Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="Abertos",CNN Brasil
@@ -15,7 +15,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Abertos",Loading
 https://akamai2-br.cdn.booyah.live/hls/1000020/master_34850987.m3u8  
 
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://i.imgur.com/jWO2OKt.png" tvg-shift="0" group-title="Abertos",Record News
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://imgur.com/mWX1ThW.png" tvg-shift="0" group-title="Abertos",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="https://imgur.com/Wfq5okf.png" tvg-shift="0" group-title="Abertos",Record TV
