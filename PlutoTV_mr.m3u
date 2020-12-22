@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="https://imgur.com/EAwMcTz.png" tvg-shift="0" group-title="Abertos",All Sports TV
+https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Abertos",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
@@ -41,6 +44,9 @@ https://video-rvd-df-1.rnp.br/live/ocp(t(Fjvc5pNRuGA)r(fVR9ug)a(utDK3g)p(d(2xc)k
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="https://imgur.com/5FSHzvg.png" group-title="Abertos",TV Cultura
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="Abertos",TV Diário   
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb6NYUb0RKlhfK9QU7AiTnOY-fxZ6ep-YeQSCHgUVyA7LM0okrokZxwyvcHEn9sBL-g
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Abertos",TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
@@ -166,7 +172,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac60007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
 
 #EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" tvg-shift="0" group-title="Infantil",Turma da Mônica
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=494888a5-43ee-11eb-9e07-0242ac110002&sid=494888a5-43ee-11eb-9e07-0242ac110002&userId=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
 
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" tvg-shift="0" group-title="Infantil",Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
