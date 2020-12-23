@@ -40,13 +40,13 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="Abertos",TV Brasil
-https://video-rvd-df-1.rnp.br/live/ocp(t(Fjvc5pNRuGA)r(fVR9ug)a(utDK3g)p(d(2xc)k(q8A)m(KhGD2nw_uWDky60N16Ztcg)n(a(fB5whg)s(ss0)'a(CUJAuw)s(1GI)))s(s(-Ks)b(s1u55ECccHYJcqlqkhpuyoPLskD9ngRBm7kst5Y2vJXNHELb_A1fbsk8wLEJiGTLUzke6sAQI7ac6D_4_g)'s(oKs)b(Udf1Qiczup98P6LzmeasFfjg6JGo47bA9DRMxyF0lPDpS18mGqCYH9UIs2p1Nwah33InvmWEv7ky3wojyKIqGTdLhEAZhVD6Ozuz31VR)'s(Tfo)b(bzpsEFDP))m(0))/30_index.m3u8
+https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(2xc)k(q8M)m(xNer0KtizPDEQRmD_fYWEA)n(a(xQatgg)s(e0c)'a(JrQ5mg)s(eyo)))s(s(-78)b(3XZWwPbOo1QIl0CB4ftHCFJZF_0GU1O5aYWVu0oroCIDkhbJc1iG4bFJderJsOGJCNL7YiitDktHssRosg)'s(WNQ)b(uXPS4-uLuUHopZbGtBMTf5i3P4NpRkzM1j1baUj2AI_3RLqPhgCLnaHHQ5TNOLoc_y9-ac3eEiUUvjOjFY5AjJTabrLiHyFaaOHsZMNs)'s(F8U)b(qX7axyDP))m(0))/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Cultura" tvg-logo="https://imgur.com/5FSHzvg.png" group-title="Abertos",TV Cultura
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="Abertos",TV Diário   
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb6NYUb0RKlhfK9QU7AiTnOY-fxZ6ep-YeQSCHgUVyA7LM0okrokZxwyvcHEn9sBL-g
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQlZl3iAruAOSN5Lk1Di4Zk)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Abertos",TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
