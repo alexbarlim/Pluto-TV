@@ -51,7 +51,7 @@ https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(
 https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQlZl3iAruAOSN5Lk1Di4Zk)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Abertos",TV Gazeta
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+https://player-api.new.livestream.com/accounts/5381476/events/2395418/videos/199410263.secure.m3u8?token=5fe52d8b_69533c69c9847c6dbb9651e09ddf642c51e7fc54
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Abertos",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
