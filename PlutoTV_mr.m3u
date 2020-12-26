@@ -27,7 +27,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 https://livefocamundo.com:8081/8588/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading
-https://centurylink.br.cdn.booyah.live/hls/1000007/master_34850987.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000000/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/GasHQCF.png" group-title="Web TV",Latinasat Web TV
 https://livefocamundo.com:8081/8470/index.m3u8
