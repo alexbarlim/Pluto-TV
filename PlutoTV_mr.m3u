@@ -14,9 +14,6 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="https://imgur.com/SqLvHod.png" group-title="Abertos",Canal 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CATVE (TV Cultura)" tvg-logo="https://imgur.com/QKucyJq.png" group-title="Abertos",CATVE (TV Cultura)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="Abertos",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
@@ -46,6 +43,9 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz2
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="Abertos",TV Brasil
 https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(2xc)k(q8M)m(xNer0KtizPDEQRmD_fYWEA)n(a(xQatgg)s(e0c)'a(JrQ5mg)s(eyo)))s(s(-78)b(3XZWwPbOo1QIl0CB4ftHCFJZF_0GU1O5aYWVu0oroCIDkhbJc1iG4bFJderJsOGJCNL7YiitDktHssRosg)'s(WNQ)b(uXPS4-uLuUHopZbGtBMTf5i3P4NpRkzM1j1baUj2AI_3RLqPhgCLnaHHQ5TNOLoc_y9-ac3eEiUUvjOjFY5AjJTabrLiHyFaaOHsZMNs)'s(F8U)b(qX7axyDP))m(0))/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CATVE (TV Cultura)" tvg-logo="https://imgur.com/5FSHzvg.png" group-title="Abertos",TV Cultura
+https://www.dailymotion.com/cdn/live/video/x7wur7g.m3u8?sec=ni85bJvxdg_Y2OoYim0MmyWb4M3opjhnBtcE09rKG4PSk2WctBM3ar8jBwWZu2plZzmIP37MrDmAEXaDau7jyw
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="Abertos",TV Diário   
 https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQlZl3iAruAOSN5Lk1Di4Zk)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
