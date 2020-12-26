@@ -62,14 +62,17 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Pampa - RedeTV! RS" tvg-logo="https://imgur.com/xLClDfk.png" tvg-shift="0" group-title="Abertos",TV Pampa RedeTV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Séries" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Abertos",TV Séries
+#EXTINF:-1 tvg-id="" tvg-name="TV Séries" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Abertos",TV Séries A Mulher Biônica
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Séries" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Abertos",TV Séries Charlie's Angels
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Séries Star Trek" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Abertos",TV Séries Star Trek
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintage TV" tvg-logo="https://imgur.com/a8e5Fti.png" group-title="Abertos",Vintage TV
-https://stmv6.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 
 ####################MÚSICAL###########################################
 
