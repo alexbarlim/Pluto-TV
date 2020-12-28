@@ -68,9 +68,6 @@ https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine Trianon TV" tvg-logo="https://imgur.com/rePZLmI.png" group-title="Web TV",Cine Trianon TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w564310084.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DHT TV" tvg-logo="https://imgur.com/fb57wvK.png" tvg-shift="0" group-title="Web TV",DHT TV
-https://srv4.zcast.com.br/alangabriel2643/alangabriel2643/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://imgur.com/TuOnA8q.png" group-title="Web TV",ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
@@ -147,29 +144,28 @@ https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 ############################### TEMPORARIO ##################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/RTDqcBb.png" group-title="Temporário",Discovery Channel
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/discoverychannel_af3e1334_fec5c1c8aac2f382e6f47d5f948a17b80a9fc796/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE4MTU0O30%3D
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/discoverychannel_af3e1334_76462f5824dd50a8a54d5558da09ebaba94a7139/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyZTUwOjEzYjpiYjAwOmQ4NzozNTFiOjhiYzk6NzEyZCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjg4IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MDkxODM1NDI7fQ%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://imgur.com/DCTluL0.png" group-title="Temporário",Fox
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/fox_5a5b0f9b_e91c28ec38ed3ec56419717b268c42bdff014cf1/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTI5NTE1O30%3D
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/fox_5a5b0f9b_d440516d6f87a29f31b72f85c641135235a6786e/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyZTUwOjEzYjpiYjAwOmQ4NzozNTFiOjhiYzk6NzEyZCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjg4IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MDkxODI2NjY7fQ%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Love Nature
 https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="https://imgur.com/SPV4ifw.png" group-title="Temporário",MegaPix
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/megapix_a6f16ab4_d6caafa4f05ab3481dc9f2f30d4bc0e137b2f6dd/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3NDc4O30%3D
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/megapix_a6f16ab4_809dd31b6ce2ec00dbe84da0e71dcaf3c93d6581/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyZTUwOjEzYjpiYjAwOmQ4NzozNTFiOjhiYzk6NzEyZCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjg4IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MDkxODI5MjE7fQ%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://imgur.com/2SwZyNW.png" group-title="Temporário",Space
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/space_e6c3dd63_e7e29ea50183eb91f37833a41ece264b83899911/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3OTAzO30%3D
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/space_e6c3dd63_b87e57c92d754ff87473d090060f6a5e535d0ac1/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyZTUwOjEzYjpiYjAwOmQ4NzozNTFiOjhiYzk6NzEyZCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjg4IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MDkxODMzNTU7fQ%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://imgur.com/uuRRNX5.png" group-title="Temporário",TNT
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_246a1ff7031373acdded856f451833f84b2aae53/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3MjMyO30%3D
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_c2c3180d1a5fbf0f2f0c0d97ca5ce7701ce39659/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyZTUwOjEzYjpiYjAwOmQ4NzozNTFiOjhiYzk6NzEyZCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjg4IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MDkxODM0NTg7fQ%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="ToonCast" tvg-logo="https://imgur.com/jJlMWvI.png" group-title="Temporário",ToonCast
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tooncast_8effee40_8a86f20ce288f3260382eff82a2447ff0606a982/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE4Mjk2O30%3D
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tooncast_8effee40_201e78b41ddc60acb8e0bf960ef837f738f361ca/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyZTUwOjEzYjpiYjAwOmQ4NzozNTFiOjhiYzk6NzEyZCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjg4IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MDkxODMxNjI7fQ%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://imgur.com/zspd61T.png" group-title="Temporário",Warner Channel
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_f1f114c4b52cb3b4676ac2c3ebb236328b71e824/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3NjU3O30%3D
-
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/warnerchannel_0a57cb53_26992d92bd17fa23e81246531e0dd03c838f5783/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoyZTUwOjEzYjpiYjAwOmQ4NzozNTFiOjhiYzk6NzEyZCI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjg4IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MDkxODMyNzY7fQ%3D%3D
 
 ############################### PLUTO TV ####################################
 
