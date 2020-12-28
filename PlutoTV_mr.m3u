@@ -123,6 +123,29 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 #EXTINF:-1 tvg-logo="" group-title="Música",Greatest Hits TV
 https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 
+####################TESTE###########################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://imgur.com/DCTluL0.png" group-title="Temporário",Fox
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/fox_5a5b0f9b_e91c28ec38ed3ec56419717b268c42bdff014cf1/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3MDc1O30%3D
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://imgur.com/uuRRNX5.png" group-title="Temporário",TNT
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_246a1ff7031373acdded856f451833f84b2aae53/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3MjMyO30%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="https://imgur.com/SPV4ifw.png" group-title="Temporário",MegaPix
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/megapix_a6f16ab4_d6caafa4f05ab3481dc9f2f30d4bc0e137b2f6dd/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3NDc4O30%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://imgur.com/zspd61T.png" group-title="Temporário",Warner Channel
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_f1f114c4b52cb3b4676ac2c3ebb236328b71e824/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3NjU3O30%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://imgur.com/2SwZyNW.png" group-title="Temporário",Space
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/space_e6c3dd63_e7e29ea50183eb91f37833a41ece264b83899911/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE3OTAzO30%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/RTDqcBb.png" group-title="Temporário",Discovery Channel
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/discoverychannel_af3e1334_fec5c1c8aac2f382e6f47d5f948a17b80a9fc796/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE4MTU0O30%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="ToonCast" tvg-logo="https://imgur.com/jJlMWvI.png" group-title="Temporário",ToonCast
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tooncast_8effee40_8a86f20ce288f3260382eff82a2447ff0606a982/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDoyZTUwOjEyMzpjZDAwOmQ5ZjQ6YjAzYjoyZGZhOmVhOTIiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MTE4Mjk2O30%3D
 
 ####################PLUTO TV###########################################
 
