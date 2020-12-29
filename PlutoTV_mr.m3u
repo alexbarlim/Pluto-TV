@@ -65,9 +65,6 @@ https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine Livre 2" tvg-logo="https://imgur.com/BGigxZx.png" group-title="Web TV",Cine Livre 2
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Trianon TV" tvg-logo="https://imgur.com/rePZLmI.png" group-title="Web TV",Cine Trianon TV
-https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w564310084.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://imgur.com/TuOnA8q.png" group-title="Web TV",ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
@@ -100,6 +97,9 @@ https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Séries Star Trek" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Web TV",TV Séries Star Trek
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Tokyo" tvg-logo="https://imgur.com/982omeR.png" group-title="Web TV",TV Tokyo
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV VM" tvg-logo="https://imgur.com/w8c6u2S.png" tvg-shift="0" group-title="Web TV",TV VM Web TV
 https://livefocamundo.com:8081/8606/index.m3u8
