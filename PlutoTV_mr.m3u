@@ -12,7 +12,7 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading
-https://akamai2-br.cdn.booyah.live/hls/1000020/master_34850987.m3u8
+https://centurylink.br.cdn.booyah.live/hls/1000005/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://imgur.com/mWX1ThW.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -144,28 +144,28 @@ https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 ############################### TEMPORARIO ##################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/RTDqcBb.png" group-title="Temporário",Discovery Channel
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nZq5mda5/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nZq5mda5&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNDQ3NTAsImV4cCI6MTYwOTI1NTU1MH0.EJxYEhQ0WhYGA0SzHi38-k6wXiSX5QgbxrzkuBEC68c
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nZq5mda5/a/BZi1mdyXy2GXntG0nZq5mda5/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nZq5mda5&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTg5MzIsImV4cCI6MTYwOTI2OTczMn0.ZTHhSRngNPFQD8QBPYXB40N3-fW7jgvJkB0hPAaKrrc
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Channel" tvg-logo="https://imgur.com/DCTluL0.png" group-title="Temporário",Fox Channel
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyZoti4/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nJyZoti4&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNDQ3OTgsImV4cCI6MTYwOTI1NTU5OH0.Z2earUyCY95qTxLQnlqi_itKfYFZ---HHukqmtQNSRc
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyZoti4/a/BZi1mdyXy2GXntG0nJyZoti4/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJyZoti4&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTg5OTEsImV4cCI6MTYwOTI2OTc5MX0.d12FKqsCM-GSNhrqaQ9nmZvwIVF0vVNpem6waY2Jofs
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://imgur.com/1hjoS7t.png" group-title="Temporário",Fox Sports
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJy0nJi3/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nJy0nJi3&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNDQ2NjIsImV4cCI6MTYwOTI1NTQ2Mn0.wFWy7IRLKDiT7LhYfTQ_cH3PtpYhd7Ba06TjaFvgRxA
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJy0nJi3/a/BZi1mdyXy2GXntG0nJy0nJi3/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJy0nJi3&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkwNDgsImV4cCI6MTYwOTI2OTg0OH0.muqWLNh07U2l9AuLjUTJajseDLeAMvDzey0x7LmJhDY
+
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://imgur.com/8voJab2.png" group-title="Temporário",FX
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyXmZGZ/a/BZi1mdyXy2GXntG0nJyXmZGZ/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJyXmZGZ&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkzNDYsImV4cCI6MTYwOTI3MDE0Nn0.-VWFkE6TC5-Ydf3mN2P5LUmjW0wIjKmIVGw-WmEkH_4
 
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="https://imgur.com/nWrucTI.png" group-title="Temporário",NatGeo Wild
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nZK2mtq3/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nZK2mtq3&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNDQ4NTAsImV4cCI6MTYwOTI1NTY1MH0.u_Irg4hMQlKcDGlXs4xuh3kkxKX3qro6kkfdUmja1uY
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nZK2mtq3/a/BZi1mdyXy2GXntG0nZK2mtq3/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nZK2mtq3&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkxMjUsImV4cCI6MTYwOTI2OTkyNX0._F1hcfG9dQ_eFxaEA-FEcZW3mrO7MmeE-OVqYkTE8f8
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Love Nature
 https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://imgur.com/2SwZyNW.png" group-title="Temporário",Space
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyXntKX/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nJyXntKX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNDQ5MTAsImV4cCI6MTYwOTI1NTcxMH0.xgG1W6f_a-Qg0uTLuoPSb2w_pTTYxf5StG4syYzgBco
-
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://imgur.com/Sjicwxr.png" group-title="Temporário",TCM
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nZuWotuX/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nZuWotuX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNDQ5NzAsImV4cCI6MTYwOTI1NTc3MH0.GMT6k1GQJ2rjetuRpAUKp9OHwnnfH1NjM4InKIuHUw0
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyXntKX/a/BZi1mdyXy2GXntG0nJyXntKX/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJyXntKX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkxNzMsImV4cCI6MTYwOTI2OTk3M30.IRSupyxfU_CDskI2e8NM15z-oXPoHW4xls0VgO9Dn0g
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://imgur.com/uuRRNX5.png" group-title="Temporário",TNT
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJu3mZKX/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nJu3mZKX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNDUwMjUsImV4cCI6MTYwOTI1NTgyNX0.afswxqpQ7AstKtqWnuOw_XItUO6Yh4BiURoIgYbDKbA
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJu3mZKX/a/BZi1mdyXy2GXntG0nJu3mZKX/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJu3mZKX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkyOTgsImV4cCI6MTYwOTI3MDA5OH0.4ul3cnoG_19f3xlyEKoebUitVOHN-4Nqs5su0eIfxW0
 
 
 ############################### PLUTO TV ####################################
