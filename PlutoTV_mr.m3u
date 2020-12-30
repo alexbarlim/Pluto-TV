@@ -24,7 +24,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV Aberta",Rede Brasil
-https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT Interior SP" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV Aberta",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/playlist.m3u8
@@ -294,8 +294,10 @@ https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%
 
 
 
+############################### AGENTE 86 #####################################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86",Agente 86 T02 Ep.01 
+
+##EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86",Agente 86 T02 Ep.01 
 https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E01.Anatomy.of.a.Lover.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.02
@@ -385,6 +387,91 @@ https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip
 #EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.30
 https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E30.A.Man.Called.Smart.-.Part.03.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
  
+
+
+############################### CAVERNA DO DRAGÃO ###################################
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.01
+https://ia800106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.02
+https://ia800106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago02.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.03
+https://ia800106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago03.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.04
+https://ia800106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago04.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.05
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago05.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.06
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago06.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.07
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago07.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.08
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago08.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.09
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago09.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.10
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.11
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.12
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago12.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.13
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago13.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.14
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago14.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.15
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago15.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.16
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago16.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.17
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago17.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.18
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago18.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.19
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago19.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.20
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago20.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.21
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago21.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.22
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago22.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.23
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago23.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.24
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago24.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.25
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago25.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.26
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago26.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.27
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago27.mp4
 
 
 ############################### MÚSICAL #####################################
