@@ -12,7 +12,10 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading
-https://aws-br.cdn.booyah.live/hls/1000020/master_34850987.m3u8
+https://centurylink.br.cdn.booyah.live/hls/1000005/master_34850987.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="TV Aberta",Love Nature
+https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://imgur.com/mWX1ThW.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -114,6 +117,276 @@ http://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w745028546.m3u8
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 
+############################### SERIES ######################################
+
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.01
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_01.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.02
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_02.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.03
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_03.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.04
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_04.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.05
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_05.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.06
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_06.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.07
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_07.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.08
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_08.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.09
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_09.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.10
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_10.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.11
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_11.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.12
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_12.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.13
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_13.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.14
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_14.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.15
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_15.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.16
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_16.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.17
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_17.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.18
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_18.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.19
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_19.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.20
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_20.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.21
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_21.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.22
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_22.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.23
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_23.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.24
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_24.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.25
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_25.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.26
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_26.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.27
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_27.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.28
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_28.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.29
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_29.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.30
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_30.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.31
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_31.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.32
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_32.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.33
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_33.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.34
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_34.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.35
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_35.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.36
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_36.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.37
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_37.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.38
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_38.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://i.imgur.com/dVt13Dy.png" group-title="Ultraman 1966",Ultraman Ep.39
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp4
+
+
+############################### ELO PERDIDO ###################################
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.01 Cha Ka
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2001%20Cha%20Ka.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.02 O Deus dos Sleesstak
+https://ia902801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2002%20-%20O%20Deus%20dos%20Sleesstak.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.03 Dopey
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2003%20Dopey.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.04 Rio Abaixo
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2004%20Rio%20Abaixo.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.05 Equipe do Tag
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2005%20-%20Equipe%20do%20Tag.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.06 
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20perdido%20Epis%C3%B3dio%2006%20-%20%C3%81lbum.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.07 Álbum
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20perdido%20Epis%C3%B3dio%2007%20-%20%C3%81lbum.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.08 Skylons
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2008%20Skylons.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.09 O Buraco
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2009%20-%20O%20Buraco.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.10 O Paku Que Veio Para O Jantar
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2010%20-%20O%20Paku%20Que%20Veio%20Para%20O%20Jantar.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.11 A Pesquisa
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2011%20-%20A%20Pesquisa.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.12 A Possessão
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2012%20-%20A%20Possess%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.13 Seguindo Aquele Dinossauro
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2013%20-%20Seguindo%20Aquele%20Dinossauro.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.14 Sopa de Pedra
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2014%20-%20Sopa%20de%20Pedra.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.15 Em Outro Lugar
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2015%20-%20Em%20Outro%20Lugar.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.16 Furacão
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2016%20-%20Furac%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.17 Círculo
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2017%20-%20C%C3%ADrculo.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.01 
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E01.Anatomy.of.a.Lover.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.02
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E02.Strike.While.the.Agent.is.Hot.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.03
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E03.A.Spy.for.a.Spy.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.04
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E04.The.Only.Way.to.Die.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.05
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E05.Maxwell.Smart.Alias.Jimmy.Ballantine.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.06
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E06.Casablanca.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.07
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E07.The.Decoy.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.08
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E08.Hoo.Done.It.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.09
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E09.Three.Spies.in.a.Sub.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.10
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E10.The.Greatest.Spy.on.Earth.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.11
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E11.Island.of.the.Darned.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.12
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E12.Bronzefinger.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.13
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E13.Perils.in.a.Pet.Shop.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.14
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E14.The.Whole.Tooth.and.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.15
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E15.Kiss.of.Death.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.16
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E16.Takes.One.to.Know.One.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.17
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E17.Someone.Down.Here.Hates.Me.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.18
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E18.Cutback.at.CONTROL.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.19
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E19.The.Mummy.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.20
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E20.The.Girls.from.KAOS.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.21
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E21.The.Man.from.YENTA.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.22
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E22.Smart.Fit.the.Battle.of.Jericho.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.23
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E23.Where-What-How-Who.Am.I.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.24
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E24.The.Expendable.Agent.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.25
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E25.How.to.Succeed.in.the.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.26
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E26.Appointment.in.Sahara.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.27
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E27.Pussycats.Galore.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.28
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E28.A.Man.Called.Smart.-.Part.01.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.29
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E29.A.Man.Called.Smart.-.Part.02.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA"Agente 86 T02 Ep.30
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E30.A.Man.Called.Smart.-.Part.03.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+
+
 ############################### MÚSICAL #####################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/iFKAgBp.png" group-title="Música",1HD Music
@@ -139,33 +412,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 
 #EXTINF:-1 tvg-logo="" group-title="Música",Greatest Hits TV
 https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
-
-
-############################### TEMPORARIO ##################################
-
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/RTDqcBb.png" group-title="Temporário",Discovery Channel
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nZq5mda5/a/BZi1mdyXy2GXntG0nZq5mda5/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nZq5mda5&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTg5MzIsImV4cCI6MTYwOTI2OTczMn0.ZTHhSRngNPFQD8QBPYXB40N3-fW7jgvJkB0hPAaKrrc
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Channel" tvg-logo="https://imgur.com/DCTluL0.png" group-title="Temporário",Fox Channel
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyZoti4/a/BZi1mdyXy2GXntG0nJyZoti4/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJyZoti4&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTg5OTEsImV4cCI6MTYwOTI2OTc5MX0.d12FKqsCM-GSNhrqaQ9nmZvwIVF0vVNpem6waY2Jofs
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://imgur.com/1hjoS7t.png" group-title="Temporário",Fox Sports
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJy0nJi3/a/BZi1mdyXy2GXntG0nJy0nJi3/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJy0nJi3&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkwNDgsImV4cCI6MTYwOTI2OTg0OH0.muqWLNh07U2l9AuLjUTJajseDLeAMvDzey0x7LmJhDY
-
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://imgur.com/8voJab2.png" group-title="Temporário",FX
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyXmZGZ/a/BZi1mdyXy2GXntG0nJyXmZGZ/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJyXmZGZ&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkzNDYsImV4cCI6MTYwOTI3MDE0Nn0.-VWFkE6TC5-Ydf3mN2P5LUmjW0wIjKmIVGw-WmEkH_4
-
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="https://imgur.com/nWrucTI.png" group-title="Temporário",NatGeo Wild
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nZK2mtq3/a/BZi1mdyXy2GXntG0nZK2mtq3/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nZK2mtq3&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkxMjUsImV4cCI6MTYwOTI2OTkyNX0._F1hcfG9dQ_eFxaEA-FEcZW3mrO7MmeE-OVqYkTE8f8
-
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Love Nature
-https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://imgur.com/2SwZyNW.png" group-title="Temporário",Space
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyXntKX/a/BZi1mdyXy2GXntG0nJyXntKX/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJyXntKX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkxNzMsImV4cCI6MTYwOTI2OTk3M30.IRSupyxfU_CDskI2e8NM15z-oXPoHW4xls0VgO9Dn0g
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://imgur.com/uuRRNX5.png" group-title="Temporário",TNT
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJu3mZKX/a/BZi1mdyXy2GXntG0nJu3mZKX/720p/chunks.m3u8?ch=BZi1mdyXy2GXntG0nJu3mZKX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDkyNTkyOTgsImV4cCI6MTYwOTI3MDA5OH0.4ul3cnoG_19f3xlyEKoebUitVOHN-4Nqs5su0eIfxW0
 
 
 ############################### PLUTO TV ####################################
@@ -262,3 +508,4 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 
 #EXTINF:-1 tvg-id="" tvg-name="A Vida Moderna de Rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" tvg-shift="0" group-title="Infantil",A Vida Moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+
