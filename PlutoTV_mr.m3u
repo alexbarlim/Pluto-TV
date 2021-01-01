@@ -68,6 +68,9 @@ https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine Livre 2" tvg-logo="https://imgur.com/BGigxZx.png" group-title="Web TV",Cine Livre 2
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 
+#EXTINF:-1 tvg-id="Dragon Ball GT" tvg-name="Dragon Ball GT" tvg-logo="" group-title="Web TV",TESTE
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyXmZGZ/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nJyXmZGZ&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDk0NjgyMjgsImV4cCI6MTYwOTQ3OTAyOH0.kyh3QnoBoRF7ObxfzHOSodx9gQzT-hiuKX1taSUZnDw
+
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://imgur.com/TuOnA8q.png" group-title="Web TV",ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
