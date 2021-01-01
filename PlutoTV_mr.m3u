@@ -2,46 +2,46 @@
 
 ############################### ABERTOS #####################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV Aberta",Band
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV Aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV Aberta",CNN Brasil
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV Aberta",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading
+#EXTINF:-1 tvg-id="Loading" tvg-name="Loading" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading
 https://akamai2-br.cdn.booyah.live/hls/1000003/master_34850987.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="TV Aberta",Love Nature
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="TV Aberta",Love Nature
 https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://imgur.com/mWX1ThW.png" tvg-shift="0" group-title="TV Aberta",Record News
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://imgur.com/mWX1ThW.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Record TV" tvg-logo="https://imgur.com/Wfq5okf.png" tvg-shift="0" group-title="TV Aberta",Record TV
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/Wfq5okf.png" tvg-shift="0" group-title="TV Aberta",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV Aberta",Rede Brasil
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV Aberta",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT Interior SP" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV Aberta",SBT Interior SP
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Interior SP" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV Aberta",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV Aberta",TV Brasil
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV Aberta",TV Brasil
 https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(2xc)k(q8M)m(xNer0KtizPDEQRmD_fYWEA)n(a(xQatgg)s(e0c)'a(JrQ5mg)s(eyo)))s(s(-78)b(3XZWwPbOo1QIl0CB4ftHCFJZF_0GU1O5aYWVu0oroCIDkhbJc1iG4bFJderJsOGJCNL7YiitDktHssRosg)'s(WNQ)b(uXPS4-uLuUHopZbGtBMTf5i3P4NpRkzM1j1baUj2AI_3RLqPhgCLnaHHQ5TNOLoc_y9-ac3eEiUUvjOjFY5AjJTabrLiHyFaaOHsZMNs)'s(F8U)b(qX7axyDP))m(0))/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura PR(Catve)" tvg-logo="https://imgur.com/5FSHzvg.png" group-title="TV Aberta",TV Cultura PR (CATVE)
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura PR(Catve)" tvg-logo="https://imgur.com/5FSHzvg.png" group-title="TV Aberta",TV Cultura PR(Catve)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV Aberta",TV Diário   
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV Aberta",TV Diário   
 https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaVFhjXZ-HaJtHvXeECHY3g)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Pampa - RedeTV! RS" tvg-logo="https://imgur.com/xLClDfk.png" tvg-shift="0" group-title="TV Aberta",TV Pampa RedeTV! RS
+#EXTINF:-1 tvg-id="RedeTPampa.br" tvg-name="TV Pampa - RedeTV! RS" tvg-logo="https://imgur.com/xLClDfk.png" tvg-shift="0" group-title="TV Aberta",TV Pampa RedeTV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 
@@ -68,9 +68,6 @@ https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine Livre 2" tvg-logo="https://imgur.com/BGigxZx.png" group-title="Web TV",Cine Livre 2
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="" group-title="Web TV",TESTE
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2GXntG0nJyXmZGZ/a/playlist.m3u8?ch=BZi1mdyXy2GXntG0nJyXmZGZ&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NjAxNjM0OTAiLCJpYXQiOjE2MDk0NjgyMjgsImV4cCI6MTYwOTQ3OTAyOH0.kyh3QnoBoRF7ObxfzHOSodx9gQzT-hiuKX1taSUZnDw
-
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://imgur.com/TuOnA8q.png" group-title="Web TV",ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
@@ -89,22 +86,25 @@ https://stmv3.samcast.com.br/hugo3090/hugo3090/chunklist_w1615540760.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://imgur.com/mgHLYAn.png" group-title="Web TV",Retrô Cartoon
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="Web TV",Summer TV
+#EXTINF:-1 tvg-id="Spirit TV" tvg-name="Spirit TV" tvg-logo="https://imgur.com/j2Xxgsr.png" group-title="Web TV",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Summer TV" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="Web TV",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Web TV",TV Manchete Web TV
+#EXTINF:-1 tvg-id="TV Manchete" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Web TV",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Séries" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Web TV",TV Séries A Mulher Biônica
+#EXTINF:-1 tvg-id="TV Séries A Mulher Biônica" tvg-name="TV Séries A Mulher Biônica" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Web TV",TV Séries A Mulher Biônica
 https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Séries" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Web TV",TV Séries As Panteras
+#EXTINF:-1 tvg-id="TV Séries As Panteras" tvg-name="TV Séries As Panteras" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Web TV",TV Séries As Panteras
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Séries Star Trek" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Web TV",TV Séries Star Trek
+#EXTINF:-1 tvg-id="TV Séries Star Trek" tvg-name="TV Séries Star Trek" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Web TV",TV Séries Star Trek
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Tokyo" tvg-logo="https://imgur.com/982omeR.png" group-title="Web TV",TV Tokyo
+#EXTINF:-1 tvg-id="TV Tokyo" tvg-name="TV Tokyo" tvg-logo="https://imgur.com/982omeR.png" group-title="Web TV",TV Tokyo
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV VM" tvg-logo="https://imgur.com/w8c6u2S.png" tvg-shift="0" group-title="Web TV",TV VM Web TV
@@ -119,6 +119,8 @@ http://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w745028546.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEEAAH" tvg-logo="https://imgur.com/RuZxFXj.png" group-title="Web TV",YEEAAH
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
+
+******************************https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w1051957701.m3u8******************************
 
 ############################### SERIES ######################################
 
