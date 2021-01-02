@@ -253,6 +253,10 @@ https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VW.png" group-title="Web TV",Teste
 https://play-akamai.pongalo.com/bravestorm_pt/bravestorm_pt_1-1/hls_600_.m3u8?access-key=60cccb4bc50afbbde1b9ae909d28040eba65c396
 
+#EXTINF:-1 tvg-logo="https://imgur.com/VW.png" group-title="Web TV",Teste2
+http://89.187.179.138:80/live/jurema10/jurema10/36900.ts?token=ShVfUkRYFgJBVgRdVAYDVQYHWQEDAltVVwUMXFlSBVUJB1UHUlEDAVRGHhpEQBBRUl1nDQEWWQVVDQRVTUAWElRFaFpTEg4aUlQLDQ4MWxYfEkwNCFFBDFICBFxXUlNSAgYbEUdZUBpZRgcKAgNSFh8SXRwRURFYAlhrAQQUCgJUFQ1dQlxYFEELXGdTUQ9VXVQaXkcEQRpBXUcVQ1gNFF1bGxFVWUBKAhBXGg0WUAcBCBpIR1cMQw1ARhxDWEEjYxUbEVJIQF0NF1tXWRZYFkdDGkhHXRBpEVFHERMHAgxURRUJFQAWFEEJU0BoVw1aXVVbEAxbDUVBDhZUQ05BDF5ZXkdYQmtICgAQAhUGUw0DBAFGGA==
+
+
 ############################### AGENTE 86 #####################################
 
 
