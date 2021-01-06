@@ -118,7 +118,7 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
 https://centurylink.br.cdn.booyah.live/hls/1000009/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="TV Aberta",Love Nature
@@ -133,8 +133,8 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV Aberta",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Interior SP" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV Aberta",SBT Interior SP
-https://5a1c76baf08c0.streamlock.net/sbtinterior/1mav5vdk7hchgyjpwulrjtxf7lywjz24/playlist.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PI (TV Cidade Verde)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV Aberta",SBT PI (TV Cidade Verde)
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV Aberta",TV Brasil
 https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(2xc)k(q8M)m(xNer0KtizPDEQRmD_fYWEA)n(a(xQatgg)s(e0c)'a(JrQ5mg)s(eyo)))s(s(-78)b(3XZWwPbOo1QIl0CB4ftHCFJZF_0GU1O5aYWVu0oroCIDkhbJc1iG4bFJderJsOGJCNL7YiitDktHssRosg)'s(WNQ)b(uXPS4-uLuUHopZbGtBMTf5i3P4NpRkzM1j1baUj2AI_3RLqPhgCLnaHHQ5TNOLoc_y9-ac3eEiUUvjOjFY5AjJTabrLiHyFaaOHsZMNs)'s(F8U)b(qX7axyDP))m(0))/index.m3u8
@@ -148,7 +148,7 @@ https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8T
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta
 https://player-api.new.livestream.com/accounts/5381476/events/8947634/broadcasts/215502017.secure.m3u8?dw=14400&hdnea=st%3D1609634688~exp%3D1609636488~acl%3D%2Fi%2F5381476_8947634_lsi2u3o23dph9vvfk9y_1%40407644%2F%2A~hmac%3Da069a54a05b7debbeb57872c5a0fd75c3d033d25b564745054a9ede75b78ce03&token=5ff114ac_efccefb766fa8de682043a7319a11877bb029f67
 
-#EXTINF:-1 tvg-id="RedeTPampa.br" tvg-name="TV Pampa - RedeTV! RS" tvg-logo="https://imgur.com/xLClDfk.png" tvg-shift="0" group-title="TV Aberta",TV Pampa RedeTV! RS
+#EXTINF:-1 tvg-id="RedeTPampa.br" tvg-name="TV Pampa - RedeTV! RS" tvg-logo="https://imgur.com/xLClDfk.png" tvg-shift="0" group-title="TV Aberta",TV Pampa RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 ############################### WEB TV ######################################
@@ -156,14 +156,11 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="https://imgur.com/EAwMcTz.png" tvg-shift="0" group-title="Web TV",All Sports TV
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/peBLNdh.png" group-title="Web TV",Anime TV
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/3egKWgV.png" group-title="Web TV",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bons Tempos TV" tvg-logo="https://imgur.com/ualVUwe.png" group-title="Web TV",Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="https://imgur.com/4YuIjIY.png" group-title="Web TV",CTV
-https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 29 Wed TV" tvg-logo="https://imgur.com/SqLvHod.png" group-title="Web TV",Canal 29 Web TV
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
@@ -173,6 +170,18 @@ https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine Livre 2" tvg-logo="https://imgur.com/BGigxZx.png" group-title="Web TV",Cine Livre 2
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vrUFC8t.png" group-title="Web TV",Cine Trianon TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="https://imgur.com/4YuIjIY.png" group-title="Web TV",CTV
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GENIALL TV" tvg-logo="https://imgur.com/PlXLyuD.png" group-title="Web TV",GENIALL TV
+https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GUETTO TV" tvg-logo="https://imgur.com/9J0hyAF.png" group-title="Web TV",GUETTO TV
+https://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://imgur.com/TuOnA8q.png" group-title="Web TV",ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
@@ -213,13 +222,16 @@ https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Tokyo" tvg-name="TV Tokyo" tvg-logo="https://imgur.com/982omeR.png" group-title="Web TV",TV Tokyo
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV TUPI" tvg-name="TV TUPI" tvg-logo="https://imgur.com/aTUDjdK.png" group-title="Web TV",TV TUPI
+https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TV VM" tvg-logo="https://imgur.com/w8c6u2S.png" tvg-shift="0" group-title="Web TV",TV VM Web TV
 https://livefocamundo.com:8081/8606/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintage TV" tvg-logo="https://imgur.com/a8e5Fti.png" group-title="Web TV",Vintage TV
 https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Web TV RWCG" tvg-logo="https://imgur.com/l8afMW3.png" group-title="Web TV",Web TV RWCG
+#EXTINF:-1 tvg-id="" tvg-name="Web TV RWCG" tvg-logo="https://imgur.com/vFQWZ1x.png" group-title="Web TV",Web TV RWCG
 http://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w745028546.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="YEEAAH" tvg-logo="https://imgur.com/RuZxFXj.png" group-title="Web TV",YEEAAH
@@ -246,19 +258,33 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/et4L5VE.png" group-title="Web TV",Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Web TV",Greatest Hits TV
+#EXTINF:-1 tvg-logo="https://imgur.com/FS9Tz0j.png" group-title="Web TV",Greatest Hits TV
 https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgur.com/a/SUlOCcO.png" group-title="Web TV",Teste
-https://play-akamai.pongalo.com/bravestorm_pt/bravestorm_pt_1-1/hls_600_.m3u8?access-key=60cccb4bc50afbbde1b9ae909d28040eba65c396
-
-#EXTINF:-1 tvg-id="loney tunes" tvg-logo="https://imgur.com/a/SUlOCcO.png" group-title="Web TV",Teste
-https://ia601408.us.archive.org/25/items/t-01-ep-01/T01_EP01.mp4?cnt=0
 
 ############################### FILMES ########################################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KquwBTX.png" group-title="Filmes",Aladdin - O Gênio na Garrafa
+#EXTINF:-1 tvg-logo="https://imgur.com/KquwBTX.png" group-title="Cine Classic",Aladdin - O Gênio na Garrafa
 https://ia801002.us.archive.org/1/items/abrilvideo/Aladdin%20-%20O%20G%C3%AAnio%20na%20Garrafa%20%28dublado%29.mp4
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgur.com/arXXV80.png" group-title="Cine Classic",Minha Noiva É Um Colosso (1959)
+https://ia803109.us.archive.org/17/items/minhanoivaeumcolosso1959dublagemclassicaloucostello/Minha%20Noiva%20%C3%A9%20um%20Colosso%20%281959%29%20Dublagem%20Cl%C3%A1ssica%20-%20Lou%20Costello.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://imgur.com/nIZlnpB.png" group-title="Cine Classic",Tempos Modernos (1936)
+https://ia903109.us.archive.org/11/items/TemposModernos1936Dvd5Iso/TemposModernos1936Dvd5.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/js9KjKm.png" group-title="Cine Classic",Desafio De Lassie (1949)
+https://ia801803.us.archive.org/29/items/desafio-de-lassie-1949-dublagem-classica-herbert-richers/Desafio%20de%20Lassie%20%281949%29%20Dublagem%20Cl%C3%A1ssica%20Herbert%20Richers.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/XdS0ed1.png" group-title="Cine Classic",Patuscada (1948)
+https://ia801003.us.archive.org/3/items/patuscada1948dubladomexicanhayridedvdrip/Patuscada%20%281948%29%20Dublado%20%28Mexican%20Hayride%29%20DVDRip.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/zUukF4N.png" group-title="Cine Classic",Bancando Granfinos (1944)
+https://ia803104.us.archive.org/5/items/bancandogranfinos1944dvdripdublagemclassicaaicsaopaulo/Bancando%20Granfinos%20%281944%29%20DVDRip%20Dublagem%20Cl%C3%A1ssica%20AIC%20S%C3%A3o%20Paulo.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/cMV1eCk.png" group-title="Cine Classic",Super Mario Bros (1993)
+https://ia601705.us.archive.org/35/items/filmemario-2/Filmemario2.mp4
+
 
 ############################### AGENTE 86 #####################################
 
