@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Séries" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" tvg-shift="0" group-title="",Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceVersion=87.0.4280.88&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&deviceType=web&deviceMake=Chrome&sid=58559413-50ed-11eb-ae86-0242ac110002&advertisingId=&deviceLat=-10.0000&deviceLon=-55.0000&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://i.imgur.com/Fdz6e1D.png" group-title="",Rock
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceVersion=87.0.4280.88&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&deviceType=web&deviceMake=Chrome&sid=58559413-50ed-11eb-ae86-0242ac110002&advertisingId=&deviceLat=-10.0000&deviceLon=-55.0000&deviceDNT=0&deviceModel=web&userId=&appName=web
