@@ -127,7 +127,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/BRM8vas.png" group-title="TV Aberta",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV TO" tvg-logo="https://imgur.com/xLClDfk.png" tvg-shift="0" group-title="TV Aberta",RedeTV TO
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV TO" tvg-logo="https://imgur.com/nU1S67c.png" tvg-shift="0" group-title="TV Aberta",RedeTV TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PI (TV Cidade Verde)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV Aberta",SBT PI (TV Cidade Verde) 
