@@ -106,6 +106,9 @@ http://201.159.95.118:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV Aberta",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euro News" tvg-logo="https://imgur.com/fUSs8fT.png" tvg-shift="0" group-title="TV Aberta",Euro News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1610227479/ei/t8r5X8a_NYmOobIP0q-w-AU/ip/2804%3A2e50%3A11f%3Ab600%3A95ac%3Ab093%3Ab223%3Ab6d9/id/VOw7bts_rGQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZX4UthgjaGV-6gK44qgogJPKr4bY2qL_8nZtuBPgjCgCIQDqtkphVTItTrj5_lXsJg30IgFNT9IzfB4OMCuSFaTyAQ%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
@@ -115,7 +118,7 @@ https://centurylink.br.cdn.booyah.live/hls/1000016/master_34850987.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="TV Aberta",Love Nature
 https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/mWX1ThW.png" tvg-shift="0" group-title="TV Aberta",Record News
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/Wfq5okf.png" tvg-shift="0" group-title="TV Aberta",RecordTV
