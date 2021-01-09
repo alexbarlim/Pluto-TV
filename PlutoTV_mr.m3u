@@ -121,7 +121,7 @@ https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/Wfq5okf.png" tvg-shift="0" group-title="TV Aberta",RecordTV
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="TV Aberta",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/BRM8vas.png" group-title="TV Aberta",Rede Brasil
