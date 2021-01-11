@@ -101,7 +101,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV Aberta",Band News
-http://201.159.95.118:8000/play/a08g/index.m3u8
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV Aberta",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
