@@ -291,11 +291,45 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra SD
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
 
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://imgur.com/P6BciKg.png" group-title="Temporário",Fox Sports SD
+http://pdsrv.io:80/elton10/elton10/63146
+
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere 2 HD
 http://187.120.222.12:8000/play/PFC2/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere 2 SD
 http://201.1.151.74:2083/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://imgur.com/CTlYPLe.png" group-title="Temporário",Band Sports
+http://fonteangelusiptv.com:25461/c42fae920948/c42fae9/178605
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life" tvg-logo="https://imgur.com/VtqFu5K.png" group-title="Temporário",Fox Life
+http://cloud-nany.cc:80/hyr3cf7/36387/1221
+
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast HD" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast HD
+http://dns.velox4k.tech:2082/6893910914/6615263741/4255
+
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast SD
+http://dns.velox4k.tech:2082/6893910914/6615263741/4256
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="https://imgur.com/Kl7lEMA.png" group-title="Temporário",Cartoon Network
+http://yakisoba-delivery.xyz:80/sivaldo/102030/143310
+
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR SD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="Temporário",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/pfAR6Gc.png" group-title="Temporário",Nickelodeon
+http://pdsrv.io:80/elton10/elton10/4345
+
 
 
 
