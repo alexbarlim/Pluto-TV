@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",URL para EPG: http://bit.ly/PlutoTVEPG
+#EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA TOTALMENTE GRATUITA
 http://0.0.0.0
 
 ############################### PLUTO TV ####################################
@@ -333,7 +333,7 @@ http://pdsrv.io:80/elton10/elton10/4345
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID: Investigação Discovery" tvg-logo="https://imgur.com/F7FylcY.png" group-title="Temporário",ID: Investigação Discovery
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32706
 
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://imgur.com/Fu7dRYH.png" group-title="Temporário",Discovery Home & Health
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="D#iscovery H#ome & H#ealth" tvg-logo="https://imgur.com/Fu7dRYH.png" group-title="Temporário",Discovery Home & Health
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33048
 
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/Y7GRCS3.png" group-title="Temporário",Discovery Turbo
@@ -343,7 +343,10 @@ http://dns.velox4k.tech:2082/6893910914/6615263741/3953
 http://dns.velox4k.tech:2082/6893910914/6615263741/3938
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel2" tvg-logo="https://imgur.com/hZYNKo9.png" group-title="Temporário",Discovery Channel 2
-http://meumd.com:80/8594060937/rqLHRK4K/87870
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33059
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Rn4yVJt.png" group-title="Temporário",Animal Planet
+http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
 
 ############################### FILMES ########################################
 
