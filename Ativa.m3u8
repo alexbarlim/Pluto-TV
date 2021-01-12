@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",URL para EPG: http://bit.ly/PlutoTVEPG
 http://0.0.0.0
