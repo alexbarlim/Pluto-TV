@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.liveiptv.net/epg.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",URL para EPG: http://bit.ly/PlutoTVEPG
 http://0.0.0.0
@@ -110,7 +110,7 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
-https://akamai2-br.cdn.booyah.live/hls/1000019/master_34850987.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000026/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="TV Aberta",Love Nature
 https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
@@ -137,7 +137,7 @@ https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV Aberta",TV Diário
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQSUWpoGpHNPLCPac8_QzDw)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8TbzZgAHc0ozhaDQWQ9la_DLpfc5mL0bBNCYVBsPPLvlevTaxDdXU-kUVWPrXYlKAeFg
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA (TV Alternativa)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta MA (TV Alternativa)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
@@ -330,9 +330,20 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/pfAR6Gc.png" group-title="Temporário",Nickelodeon
 http://pdsrv.io:80/elton10/elton10/4345
 
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID: Investigação Discovery" tvg-logo="https://imgur.com/F7FylcY.png" group-title="Temporário",ID: Investigação Discovery
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32706
 
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://imgur.com/Fu7dRYH.png" group-title="Temporário",Discovery Home & Health
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33048
 
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/Y7GRCS3.png" group-title="Temporário",Discovery Turbo
+http://dns.velox4k.tech:2082/6893910914/6615263741/3953
 
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/hZYNKo9.png" group-title="Temporário",Discovery Channel
+http://dns.velox4k.tech:2082/6893910914/6615263741/3938
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel2" tvg-logo="https://imgur.com/hZYNKo9.png" group-title="Temporário",Discovery Channel 2
+http://meumd.com:80/8594060937/rqLHRK4K/87870
 
 ############################### FILMES ########################################
 
