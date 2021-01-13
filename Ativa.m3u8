@@ -112,9 +112,6 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
 https://akamai2-br.cdn.booyah.live/hls/1000026/master_34850987.m3u8
 
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="TV Aberta",Love Nature
-https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
@@ -137,7 +134,7 @@ https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV Aberta",TV Diário
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8TbzZgAHc0ozhaDQWQ9la_DLpfc5mL0bBNCYVBsPPLvlevTaxDdXU-kUVWPrXYlKAeFg
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb2cp_Su4AEewMhyGqKRgs2TC76vvxiaG0LYeMPvwc92-7hd9zvJ24NAhycJ0dPtpeA
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA (TV Alternativa)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta MA (TV Alternativa)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
