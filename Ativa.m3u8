@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA TOTALMENTE GRATUITA
+#EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA TOTALMENTE GRATUITA!
 http://0.0.0.0
 
 ############################### PLUTO TV ####################################
@@ -347,6 +347,17 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/33059
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Rn4yVJt.png" group-title="Temporário",Animal Planet
 http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
+
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Temporário",VH1 HD
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33776
+
+#EXTINF:-1 tvg-id="MTVLIVE.br" tvg-name="MTV LIVE" tvg-logo="https://imgur.com/5sfx0NQ.png" group-title="Temporário",MTV LIVE
+http://89.187.173.219:80/iptv708814/79852/4135
+
+#EXTINF:-1 tvg-id="Tracebrazuca.br" tvg-name="Trace Brazuca" tvg-logo="https://imgur.com/vXL021q.png" group-title="Temporário",Trace Brazuca
+http://dns.velox4k.tech:2082/6893910914/6615263741/6698
+
+
 
 ############################### FILMES ########################################
 
