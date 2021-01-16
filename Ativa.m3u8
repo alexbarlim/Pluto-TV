@@ -134,7 +134,7 @@ https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV Aberta",TV Diário
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb2cp_Su4AEewMhyGqKRgs2TC76vvxiaG0LYeMPvwc92-7hd9zvJ24NAhycJ0dPtpeA
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_ySRYDdSxbWaSkZ_VJFJYMd3QQTuvbN49efOms5oRx3rIZHc3utSCJiXHvrJ_MFJg
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA (TV Alternativa)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta MA (TV Alternativa)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
@@ -288,17 +288,17 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra SD
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://imgur.com/P6BciKg.png" group-title="Temporário",Fox Sports SD
-http://yakisoba-delivery.xyz:80/sivaldo/102030/143600
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://imgur.com/P6BciKg.png" group-title="Temporário",Fox Sports
+http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/152
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere 2 HD
-http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes HD
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32537
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere 2 SD
-http://201.1.151.74:2083/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes SD
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
 
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://imgur.com/CTlYPLe.png" group-title="Temporário",Band Sports
-http://fonteangelusiptv.com:25461/c42fae920948/c42fae9/178605
+http://dns.velox4k.tech:2082/6893910914/6615263741/6919
 
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life" tvg-logo="https://imgur.com/VtqFu5K.png" group-title="Temporário",Fox Life
 http://cloud-nany.cc:80/hyr3cf7/36387/1221
@@ -310,22 +310,19 @@ http://dns.velox4k.tech:2082/6893910914/6615263741/4255
 http://dns.velox4k.tech:2082/6893910914/6615263741/4256
 
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="https://imgur.com/Kl7lEMA.png" group-title="Temporário",Cartoon Network
-http://yakisoba-delivery.xyz:80/sivaldo/102030/143310
+http://vpnbr.top:80/539058/3c0ecb/2505
 
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR SD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8
-
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="Temporário",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel HD
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/pfAR6Gc.png" group-title="Temporário",Nick
-http://yakisoba-delivery.xyz:80/sivaldo/102030/143327
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" tvg-logo="https://imgur.com/pfAR6Gc.png" group-title="Temporário",Nickelodeon
+http://fonteangelusiptv.com:25461/c42fae920948/c42fae9/179051
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID: Investigação Discovery" tvg-logo="https://imgur.com/F7FylcY.png" group-title="Temporário",ID: Investigação Discovery
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32706
@@ -337,9 +334,6 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/33048
 http://dns.velox4k.tech:2082/6893910914/6615263741/3953
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/hZYNKo9.png" group-title="Temporário",Discovery Channel
-http://dns.velox4k.tech:2082/6893910914/6615263741/3938
-
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel2" tvg-logo="https://imgur.com/hZYNKo9.png" group-title="Temporário",Discovery Channel 2
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33059
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Rn4yVJt.png" group-title="Temporário",Animal Planet
@@ -349,7 +343,7 @@ http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33776
 
 #EXTINF:-1 tvg-id="MTVLIVE.br" tvg-name="MTV LIVE" tvg-logo="https://imgur.com/5sfx0NQ.png" group-title="Temporário",MTV LIVE
-http://89.187.173.219:80/iptv708814/79852/4135
+http://dns.velox4k.tech:2082/6893910914/6615263741/4019
 
 #EXTINF:-1 tvg-id="Tracebrazuca.br" tvg-name="Trace Brazuca" tvg-logo="https://imgur.com/vXL021q.png" group-title="Temporário",Trace Brazuca
 http://dns.velox4k.tech:2082/6893910914/6615263741/6698
