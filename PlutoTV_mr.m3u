@@ -227,6 +227,8 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 ################################ MUSICA ######################################
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Lhg5qT2.png" group-title="Música",Corno TV
+https://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/iFKAgBp.png" group-title="Música",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
@@ -260,6 +262,8 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FS9Tz0j.png" group-title="Música",Greatest Hits TV
 https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
+
+
 
 ############################### TEMPORARIO ########################################
 
@@ -299,6 +303,9 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
 
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://imgur.com/CTlYPLe.png" group-title="Temporário",Band Sports
 http://dns.velox4k.tech:2082/6893910914/6615263741/6919
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox" tvg-logo="https://imgur.com/EpOqPQQ.png" group-title="Temporário",Fox
+http://tv.minhalista.me/live/44986080/xefj07xef/50544.ts
 
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life" tvg-logo="https://imgur.com/VtqFu5K.png" group-title="Temporário",Fox Life
 http://cloud-nany.cc:80/hyr3cf7/36387/1221
@@ -341,6 +348,9 @@ http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
 
 #EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Temporário",VH1 HD
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/33776
+
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Temporário",VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1515898109&rn=-1916303254&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
 
 #EXTINF:-1 tvg-id="MTVLIVE.br" tvg-name="MTV LIVE" tvg-logo="https://imgur.com/5sfx0NQ.png" group-title="Temporário",MTV LIVE
 http://dns.velox4k.tech:2082/6893910914/6615263741/4019
