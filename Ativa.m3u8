@@ -109,6 +109,9 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Istv.br" tvg-name="ISTV" tvg-logo="https://imgur.com/TuOnA8q.png" group-title="TV Aberta",ISTV
+https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
+
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
 https://akamai2-br.cdn.booyah.live/hls/1000026/master_34850987.m3u8
 
@@ -175,9 +178,6 @@ https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GUETTO TV" tvg-logo="https://imgur.com/9J0hyAF.png" group-title="Web TV",GUETTO TV
 https://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://imgur.com/TuOnA8q.png" group-title="Web TV",ISTV Web
-https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Kronos Movie" tvg-logo="https://imgur.com/IhN2sZV.png" tvg-shift="0" group-title="Web TV",Kronos Movie Web TV
 https://livefocamundo.com:8081/8588/index.m3u8
 
@@ -193,10 +193,13 @@ https://stmv3.samcast.com.br/hugo3090/hugo3090/chunklist_w1615540760.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://imgur.com/mgHLYAn.png" group-title="Web TV",Retrô Cartoon
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/BDC3ggR.png" group-title="Web TV",Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u
+
 #EXTINF:-1 tvg-id="Summer TV" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="Web TV",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
 
-#EXTINF:-1 tvg-name="TV Clássicos" tvg-logo="https://imgur.com/60rkuA8.png" tvg-shift="0" group-title="Web TV", TV Clássicos
+#EXTINF:-1 tvg-name="TV Clássicos" tvg-logo="https://imgur.com/60rkuA8.png" tvg-shift="0" group-title="Web TV",TV Clássicos
 https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Manchete" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Web TV",TV Manchete
