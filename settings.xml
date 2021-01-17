@@ -1,0 +1,22 @@
+<settings version="2">
+    <setting id="_fresh">true</setting>
+    <setting id="_userdata">{&quot;last_run&quot;:1610905385}</setting>
+    <setting id="auto_merge">true</setting>
+    <setting id="boot_merge" default="true">false</setting>
+    <setting id="chunksize">4096</setting>
+    <setting id="default_quality" default="true">0</setting>
+    <setting id="http_retries">2</setting>
+    <setting id="http_timeout">30</setting>
+    <setting id="iptv_merge_proxy">true</setting>
+    <setting id="kiosk" default="true">false</setting>
+    <setting id="max_bandwidth">7</setting>
+    <setting id="output_dir" default="true">special://userdata/addon_data/plugin.program.iptv.merge</setting>
+    <setting id="page_size">200</setting>
+    <setting id="reload_time_hours">12</setting>
+    <setting id="restart_pvr">true</setting>
+    <setting id="service_delay" default="true">0</setting>
+    <setting id="start_ch_no">1</setting>
+    <setting id="use_ia_hls_live">true</setting>
+    <setting id="use_ia_hls_vod" default="true">false</setting>
+    <setting id="verify_ssl">true</setting>
+</settings>
