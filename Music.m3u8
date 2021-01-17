@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml"
 
 
 #EXTINF:-1 group-title="Music;Pluto TV" tvg-id="mr73fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" tvg-name="Live Music Replay",Live Music Replay
