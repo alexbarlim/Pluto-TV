@@ -148,9 +148,6 @@ https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8T
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA (TV Alternativa)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta MA (TV Alternativa)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVnordestina.br" tvg-name="TV Nordestina" tvg-logo="https://imgur.com/NGd7BkB.png" tvg-shift="0" group-title="TV Aberta",TV Nordestina
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1610844834/ei/QjYDYKivLYmU1sQPvouNOA/ip/2804%3A2e50%3A175%3A9300%3A187a%3A1a0f%3Abe32%3A1bce/id/Zjyfogd3WHM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgezdxnlZC4pP_T5rRia32R476UwEq1iRSZBFwe8RnX6ACIQDtPkk4cbIGPpITMdN8ttbkTnJXwRXZYOPDaFAzJCtJ7w%3D%3D/file/index.m3u8
-
 
 ############################### WEB TV ######################################
 
