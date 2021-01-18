@@ -47,3 +47,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098
 
 #EXTINF:-1 group-title="Pluto TV Music" tvg-id="mr32f26bcd8aea00071240e5" tvg-logo="https://imgur.com/9cN546b.png" tvg-name="Vevo '70s",Vevo '70s
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=102d0816-59c8-11eb-810a-75393cde8db3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d568b7a-abb1-41a0-b655-b380c4660b68&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="hillsong-channel" tvg-logo="http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/solidLogoPNG.png" group-title="Pluto TV Music", Hillsong Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=102a48f0-59c8-11eb-810a-75393cde8db3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7882d908-8433-4547-9123-cab338c697e8&userId=&serverSideAds=true
