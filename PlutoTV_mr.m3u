@@ -113,7 +113,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
-https://verizon.br.cdn.booyah.live/hls/1000002/master_34850987.m3u8
+https://aws-br.cdn.booyah.live/hls/1000002/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -137,7 +137,7 @@ https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV Aberta",TV Diário
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_ySRYDdSxbWaSkZ_VJFJYMd3QQTuvbN49efOms5oRx3rIZHc3utSCJiXHvrJ_MFJg
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_UF-imxbPo78Upcq33pN5c3qp61jG8230bebx3fBqBZ_U61mq8ZKTlxJmouS_fmcQ
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA (TV Alternativa)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta MA (TV Alternativa)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
@@ -204,6 +204,9 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Nova Onda" tvg-name="TV Nova Onda" tvg-logo="https://imgur.com/Z4Yca7z.png" tvg-shift="0" group-title="Web TV",TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvpontadaserra.br" tvg-name="TV Ponta da Serra" tvg-logo="https://imgur.com/sL6RifW.png" tvg-shift="0" group-title="Web TV",TV Ponta da Serra
+https://stmv1.mestrestreamvideo.xyz/juanes7525/juanes7525/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Via Morena" tvg-name="TV Via Morena" tvg-logo="https://imgur.com/g3TwbPa.png" group-title="Web TV",TV Via Morena
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
@@ -310,11 +313,20 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://imgur.com/CTlYPLe.png" group-title="Temporário",Band Sports
 http://dns.velox4k.tech:2082/6893910914/6615263741/6919
 
+#EXTINF:-1 tvg-id="Blkextreme.br" tvg-name="BLK Extreme" tvg-logo="https://imgur.com/FQoyYEH.png" group-title="Temporário",BLK Extreme
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1nZi5nty/a/playlist.m3u8?ch=BZi1mdyXy2G1nZi5nty&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MTEzNjc5MDAsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImV4cCI6MTYxMTM3ODcwMH0.VR1ojWbhbe939_kTDLNuU2apwnmilJDmEP6gKEZ5q4g
+
+#EXTINF:-1 tvg-id="Blkfamily.br" tvg-name="BLK Family" tvg-logo="https://imgur.com/YUG0FWP.png" group-title="Temporário",BLK Family
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1ntK0nZi/a/BZi1mdyXy2G1ntK0nZi/720p/chunks.m3u8?ch=BZi1mdyXy2G1ntK0nZi&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MTEzNjgwNDAsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImV4cCI6MTYxMTM3ODg0MH0.zEyevzp0OdxqNWlWpYu01j5vq0qEF9FsXxhU9iu_Fek
+
+#EXTINF:-1 tvg-id="Blkkids.br" tvg-name="BLK Kids" tvg-logo="https://imgur.com/vLyusDQ.png" group-title="Temporário",BLK Kids
+https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1oda3otG/a/playlist.m3u8?ch=BZi1mdyXy2G1oda3otG&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MTEzNjc0NTksInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImV4cCI6MTYxMTM3ODI1OX0.dTPopBu7616dBHaKYnEYI52N8aFhVAueemrQoTPZb7M
+
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox" tvg-logo="https://imgur.com/EpOqPQQ.png" group-title="Temporário",Fox
 http://tv.minhalista.me/live/44986080/xefj07xef/50544.ts
 
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life" tvg-logo="https://imgur.com/VtqFu5K.png" group-title="Temporário",Fox Life
-http://cloud-nany.cc:80/hyr3cf7/36387/1221
+http://hmtvhd.life:80/paixao321/paixao123/45
 
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast HD" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast HD
 http://dns.velox4k.tech:2082/6893910914/6615263741/4255
@@ -353,16 +365,16 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/33059
 http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
 
 #EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Temporário",VH1 HD
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/33776
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/32304
 
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Temporário",VH1 Italia
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1515898109&rn=-1916303254&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Temporário",VH12
+http://n.srv1.xyz:8880/rogerrocha/estherlorena/33809
 
 #EXTINF:-1 tvg-id="MTVLIVE.br" tvg-name="MTV LIVE" tvg-logo="https://imgur.com/5sfx0NQ.png" group-title="Temporário",MTV LIVE
-http://dns.velox4k.tech:2082/6893910914/6615263741/4019
+http://rec2.distv.net:80/elso/123456/236
 
 #EXTINF:-1 tvg-id="Tracebrazuca.br" tvg-name="Trace Brazuca" tvg-logo="https://imgur.com/vXL021q.png" group-title="Temporário",Trace Brazuca
-http://dns.velox4k.tech:2082/6893910914/6615263741/6698
+http://hmtvhd.life:80/paixao321/paixao123/27445
 
 
 
