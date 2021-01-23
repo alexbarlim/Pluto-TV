@@ -239,9 +239,6 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qo1GKxf.png" group-title="Música",TLN Tele Lazio Nord
 http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Lhg5qT2.png" group-title="Música",Corno TV
-https://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/iFKAgBp.png" group-title="Música",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
