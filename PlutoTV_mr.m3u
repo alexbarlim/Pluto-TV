@@ -313,15 +313,6 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://imgur.com/CTlYPLe.png" group-title="Temporário",Band Sports
 http://dns.velox4k.tech:2082/6893910914/6615263741/6919
 
-#EXTINF:-1 tvg-id="Blkextreme.br" tvg-name="BLK Extreme" tvg-logo="https://imgur.com/FQoyYEH.png" group-title="Temporário",BLK Extreme
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1nZi5nty/a/playlist.m3u8?ch=BZi1mdyXy2G1nZi5nty&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MTEzNjc5MDAsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImV4cCI6MTYxMTM3ODcwMH0.VR1ojWbhbe939_kTDLNuU2apwnmilJDmEP6gKEZ5q4g
-
-#EXTINF:-1 tvg-id="Blkfamily.br" tvg-name="BLK Family" tvg-logo="https://imgur.com/YUG0FWP.png" group-title="Temporário",BLK Family
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1ntK0nZi/a/BZi1mdyXy2G1ntK0nZi/720p/chunks.m3u8?ch=BZi1mdyXy2G1ntK0nZi&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MTEzNjgwNDAsInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImV4cCI6MTYxMTM3ODg0MH0.zEyevzp0OdxqNWlWpYu01j5vq0qEF9FsXxhU9iu_Fek
-
-#EXTINF:-1 tvg-id="Blkkids.br" tvg-name="BLK Kids" tvg-logo="https://imgur.com/vLyusDQ.png" group-title="Temporário",BLK Kids
-https://tv.bahialink.net.br/media/n/BZi1mdyXy2G1oda3otG/a/playlist.m3u8?ch=BZi1mdyXy2G1oda3otG&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MTEzNjc0NTksInN1YiI6ImRlZmF1bHQjMTU2MDE2MzQ5MCIsImV4cCI6MTYxMTM3ODI1OX0.dTPopBu7616dBHaKYnEYI52N8aFhVAueemrQoTPZb7M
-
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox" tvg-logo="https://imgur.com/EpOqPQQ.png" group-title="Temporário",Fox
 http://tv.minhalista.me/live/44986080/xefj07xef/50544.ts
 
@@ -380,37 +371,37 @@ http://hmtvhd.life:80/paixao321/paixao123/27445
 
 ############################### FILMES ########################################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KquwBTX.png" group-title="Cine Classic",Aladdin - O Gênio na Garrafa
+#EXTINF:-1 tvg-logo="https://imgur.com/KquwBTX.png" group-title="Clássicos",Aladdin - O Gênio na Garrafa
 https://ia801002.us.archive.org/1/items/abrilvideo/Aladdin%20-%20O%20G%C3%AAnio%20na%20Garrafa%20%28dublado%29.mp4
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://imgur.com/arXXV80.png" group-title="Cine Classic",Minha Noiva É Um Colosso (1959)
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgur.com/arXXV80.png" group-title="Clássicos",Minha Noiva É Um Colosso (1959)
 https://ia803109.us.archive.org/17/items/minhanoivaeumcolosso1959dublagemclassicaloucostello/Minha%20Noiva%20%C3%A9%20um%20Colosso%20%281959%29%20Dublagem%20Cl%C3%A1ssica%20-%20Lou%20Costello.mp4
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://imgur.com/nIZlnpB.png" group-title="Cine Classic",Tempos Modernos (1936)
+#EXTINF:-1 tvg-id="2" tvg-logo="https://imgur.com/nIZlnpB.png" group-title="Clássicos",Tempos Modernos (1936)
 https://ia903109.us.archive.org/11/items/TemposModernos1936Dvd5Iso/TemposModernos1936Dvd5.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/js9KjKm.png" group-title="Cine Classic",Desafio De Lassie (1949)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/js9KjKm.png" group-title="Clássicos",Desafio De Lassie (1949)
 https://ia801803.us.archive.org/29/items/desafio-de-lassie-1949-dublagem-classica-herbert-richers/Desafio%20de%20Lassie%20%281949%29%20Dublagem%20Cl%C3%A1ssica%20Herbert%20Richers.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/XdS0ed1.png" group-title="Cine Classic",Patuscada (1948)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/XdS0ed1.png" group-title="Clássicos",Patuscada (1948)
 https://ia801003.us.archive.org/3/items/patuscada1948dubladomexicanhayridedvdrip/Patuscada%20%281948%29%20Dublado%20%28Mexican%20Hayride%29%20DVDRip.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/zUukF4N.png" group-title="Cine Classic",Bancando Granfinos (1944)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/zUukF4N.png" group-title="Clássicos",Bancando Granfinos (1944)
 https://ia803104.us.archive.org/5/items/bancandogranfinos1944dvdripdublagemclassicaaicsaopaulo/Bancando%20Granfinos%20%281944%29%20DVDRip%20Dublagem%20Cl%C3%A1ssica%20AIC%20S%C3%A3o%20Paulo.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/cMV1eCk.png" group-title="Cine Classic",Super Mario Bros (1993)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/cMV1eCk.png" group-title="Clássicos",Super Mario Bros (1993)
 https://ia601705.us.archive.org/35/items/filmemario-2/Filmemario2.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/NXSnbfX.png" group-title="Cine Classic",Drácula (1931)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/NXSnbfX.png" group-title="Clássicos",Drácula (1931)
 https://ia803102.us.archive.org/4/items/dracula1931dublagemclassicaaicsaopaulo/Dr%C3%A1cula%20%281931%29%20Dublagem%20Cl%C3%A1ssica%20AIC%20S%C3%A3o%20Paulo.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/PGPvRnq.png" group-title="Cine Classic",Ordinário, Marche! (1941)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/PGPvRnq.png" group-title="Clássicos",Ordinário, Marche! (1941)
 https://ia903106.us.archive.org/9/items/ordinariomarche1941dvdripdublado/Ordin%C3%A1rio%2C%20Marche%21%20%281941%29%20DVDRip%20Dublado.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/OYe4Ax0.png" group-title="Cine Classic",Bud Abbott & Lou Costello Em Hollywood (1945)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/OYe4Ax0.png" group-title="Clássicos",Bud Abbott & Lou Costello Em Hollywood (1945)
 https://ia803102.us.archive.org/6/items/budabbottloucostelloemhollywood1945dualaudiodvdrip/Bud%20Abbott%20%26%20Lou%20Costello%20em%20Hollywood%20%281945%29%20Dual%20Audio%20DVDRip.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/YuHq8T5.png" group-title="Cine Classic",Vontade Indômita (1949)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/YuHq8T5.png" group-title="Clássicos",Vontade Indômita (1949)
 https://ia801502.us.archive.org/32/items/vontade-indomita-1949-dublagem-classica/Vontade%20Ind%C3%B4mita%20%281949%29%20Dublagem%20Cl%C3%A1ssica.mp4
 
 
