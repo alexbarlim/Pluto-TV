@@ -131,7 +131,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV Aberta",TV Brasil
-https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FlM1wl5KB-Y)r(fVR9ug)a(qLWpag)p(d(2xc)k(q8M)m(xNer0KtizPDEQRmD_fYWEA)n(a(xQatgg)s(e0c)'a(JrQ5mg)s(eyo)))s(s(-78)b(3XZWwPbOo1QIl0CB4ftHCFJZF_0GU1O5aYWVu0oroCIDkhbJc1iG4bFJderJsOGJCNL7YiitDktHssRosg)'s(WNQ)b(uXPS4-uLuUHopZbGtBMTf5i3P4NpRkzM1j1baUj2AI_3RLqPhgCLnaHHQ5TNOLoc_y9-ac3eEiUUvjOjFY5AjJTabrLiHyFaaOHsZMNs)'s(F8U)b(qX7axyDP))m(0))/index.m3u8
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura PR(Catve)" tvg-logo="https://imgur.com/5FSHzvg.png" group-title="TV Aberta",TV Cultura PR (Catve)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
@@ -410,6 +410,79 @@ https://ia803102.us.archive.org/6/items/budabbottloucostelloemhollywood1945duala
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/YuHq8T5.png" group-title="Clássicos",Vontade Indômita (1949)
 https://ia801502.us.archive.org/32/items/vontade-indomita-1949-dublagem-classica/Vontade%20Ind%C3%B4mita%20%281949%29%20Dublagem%20Cl%C3%A1ssica.mp4
+
+
+############################### Thundercats ###################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.01 Êxodo
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.02 Aliança Profana
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_02.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.03 Berbils
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_03.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.04 Os Escravos do Castelo Plun-Dar
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_04.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.05 É questão de Tempo
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_05.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.06 Pumm-ra
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_06.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.07 O Pirata Mão de Martelo
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_07.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.08 A Torre das Armadilhas
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_08.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.09 O Jardim das Delícias
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_09.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.10 Mandora, a caçadora do mal
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.11 O Guerreiro Fantasma
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.12 O Olhar Fatal
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_12.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.13 Senhor da Neves
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_13.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.14 A Espaçonave Enterrada
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_14.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.15 A Cápsula do Tempo
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_15.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.16 As Bolas de Fogo do Castelo Plun-Dar
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_16.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.17 A Espada de Omens
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_17.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.18 Imagem Distorcida
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_18.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.19 Primeiro dia do Ungido de Lion: Prova de Força
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_19.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.20 Segundo dia do Ungido de Lion: Prova de Velocidade
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_20.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.21 Terceiro dia do Ungido de Lion: Prova de Agilidade
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_21.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.22 Quarto dia do Ungido de Lion: Prova do Poder da Mente
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_22.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.23 Quinto dia do Ungido de Lion: Prova do Demônio
+https://ia601405.us.archive.org/15/items/thundercats_/Episodio_23.mp4
+
 
 
 ############################### CYBERCOP ######################################
