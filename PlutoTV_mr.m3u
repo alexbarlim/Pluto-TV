@@ -193,6 +193,10 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BDC3ggR.png" group-title="Web TV",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u
 
+#EXTINF:-1 tvg-id="SFTV" tvg-name="SFTV" tvg-logo="https://imgur.com/Paggcct.png" tvg-shift="0" group-title="Web TV",SFTV (Sistema Familiar De Televisão)
+https://stream.mux.com/sRwj2xcxjGjoLLwQzakVLdVuzdaWrIjB.m3u8
+
+
 #EXTINF:-1 tvg-id="Summer TV" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="Web TV",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
 
