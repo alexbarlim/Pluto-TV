@@ -5,7 +5,7 @@ http://0.0.0.0
 
 ############################### PLUTO TV ####################################
 
-#EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/featuredImage.jpg" group-title="Pluto TV", Guia de Canais
+#EXTINF:0 channel-id="guia-de-canais" tvg-logo="http://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="Pluto TV", Guia de Canais
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4873661-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=35fb568b-bb02-469f-835f-4f233301b7eb&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-star-trek-ptv1" tvg-logo="http://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="Pluto TV", Pluto TV Star Trek
