@@ -113,7 +113,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
-https://centurylink.br.cdn.booyah.live/hls/1000009/master_34850987.m3u8
+https://aws-br.cdn.booyah.live/hls/1000027/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -145,8 +145,6 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 ############################### WEB TV ######################################
 
-#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="https://imgur.com/EAwMcTz.png" tvg-shift="0" group-title="Web TV",All Sports TV
-https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/3egKWgV.png" group-title="Web TV",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -211,9 +209,6 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Nova Onda" tvg-name="TV Nova Onda" tvg-logo="https://imgur.com/Z4Yca7z.png" tvg-shift="0" group-title="Web TV",TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvpontadaserra.br" tvg-name="TV Ponta da Serra" tvg-logo="https://imgur.com/sL6RifW.png" tvg-shift="0" group-title="Web TV",TV Ponta da Serra
-https://stmv1.mestrestreamvideo.xyz/juanes7525/juanes7525/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Via Morena" tvg-name="TV Via Morena" tvg-logo="https://imgur.com/g3TwbPa.png" group-title="Web TV",TV Via Morena
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
