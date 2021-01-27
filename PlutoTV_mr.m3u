@@ -276,6 +276,9 @@ https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 ############################### TEMPORARIO ########################################
 
 
+#EXTINF:0 channel-id="vida-real" tvg-logo="http://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Pluto TV BR", VIDA REAL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=b5e9880a-9053-4108-9b38-7e142ada9f94&clientModelNumber=na&deviceDNT=false&deviceId=b5e9880a-9053-4108-9b38-7e142ada9f94&deviceLat=-34.6022&deviceLon=-58.3845&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=86d03452-5e9e-11eb-a786-0242ac110002&sid=86d03452-5e9e-11eb-a786-0242ac110002&userId=
+
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 
