@@ -23,7 +23,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f000078
 #EXTINF:0 channel-id="pluto-tv-cine-drama-1" tvg-logo="http://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Cine Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a483db00-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac80848b-f60f-4789-896b-0b426106bcac&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="pluto-tv-filmes-suspense" tvg-logo="http://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png" group-title="Pluto TV BR", Filmes Suspense
+#EXTINF:0 channel-id="pluto-tv-filmes-suspense" tvg-logo="http://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Pluto TV BR", Filmes Suspense
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=067de931-61d7-11eb-871b-058916e8f84e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21c3f345-0212-40fb-8622-aec2290ef821&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-cine-terror-1" tvg-logo="http://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Cine Terror
@@ -59,7 +59,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c
 #EXTINF:0 channel-id="pluto-tv-investigacao-ptv1" tvg-logo="http://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Investigação
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a48624f0-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f2085334-bf45-4ce1-9235-6fd32f4fa59d&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="pluto-tv-vida-real-ptv1" tvg-logo="http://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoPNG.png" group-title="Pluto TV BR", Pluto TV Vida Real
+#EXTINF:0 channel-id="pluto-tv-vida-real-ptv1" tvg-logo="http://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Vida Real
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=067e8570-61d7-11eb-871b-058916e8f84e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=296ad953-852b-4329-ac8f-5f3fc7c59324&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-natureza" tvg-logo="http://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Natureza
