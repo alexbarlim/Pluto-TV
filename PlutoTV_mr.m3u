@@ -23,6 +23,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f000078
 #EXTINF:0 channel-id="pluto-tv-cine-drama-1" tvg-logo="http://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Cine Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a483db00-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac80848b-f60f-4789-896b-0b426106bcac&userId=&serverSideAds=true
 
+#EXTINF:0 channel-id="pluto-tv-filmes-suspense" tvg-logo="http://images.pluto.tv/channels/5f171d3442a0500007362f22/solidLogoPNG.png" group-title="Pluto TV BR", Filmes Suspense
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=067de931-61d7-11eb-871b-058916e8f84e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21c3f345-0212-40fb-8622-aec2290ef821&userId=&serverSideAds=true
+
 #EXTINF:0 channel-id="pluto-tv-cine-terror-1" tvg-logo="http://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Cine Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4840210-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9024c1fe-3d31-4834-baed-bc305687331e&userId=&serverSideAds=true
 
@@ -56,6 +59,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c
 #EXTINF:0 channel-id="pluto-tv-investigacao-ptv1" tvg-logo="http://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Investigação
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a48624f0-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f2085334-bf45-4ce1-9235-6fd32f4fa59d&userId=&serverSideAds=true
 
+#EXTINF:0 channel-id="pluto-tv-vida-real-ptv1" tvg-logo="http://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoPNG.png" group-title="Pluto TV BR", Pluto TV Vida Real
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=067e8570-61d7-11eb-871b-058916e8f84e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=296ad953-852b-4329-ac8f-5f3fc7c59324&userId=&serverSideAds=true
+
 #EXTINF:0 channel-id="pluto-tv-natureza" tvg-logo="http://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Natureza
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4847740-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca3f95d8-1041-4459-9b66-b5047a1da826&userId=&serverSideAds=true
 
@@ -67,6 +73,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080
 
 #EXTINF:0 channel-id="porta-dos-fundos" tvg-logo="http://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="Pluto TV BR", Porta dos Fundos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a48624f1-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d1fdd4d-776c-4953-8846-490e42654e09&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="tastemade-ptv2" tvg-logo="http://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="Pluto TV BR", Tastemade
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=06805a31-61d7-11eb-871b-058916e8f84e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602e376-3828-4a01-934b-a40171c3010f&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="fashionbox" tvg-logo="http://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="Pluto TV BR", Pluto TV Fashionbox
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a4867311-59a6-11eb-a278-2bcf32d9964d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7e377356-3d83-4d8d-b07c-e457df79746c&userId=&serverSideAds=true
@@ -383,7 +392,7 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV Aberta",TV Diário
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_UF-imxbPo78Upcq33pN5c3qp61jG8230bebx3fBqBZ_U61mq8ZKTlxJmouS_fmcQ
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb8LYX1D0qCSiPgygY6cdhFkoObJrnk0uIh3M9hKMz5U8sznD5zC__gQGxOHpnXhS-A
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA (TV Alternativa)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta MA (TV Alternativa)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
@@ -391,8 +400,6 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 ############################### WEB TV ######################################
 
-#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="https://imgur.com/EAwMcTz.png" tvg-shift="0" group-title="Web TV",All Sports TV
-https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/3egKWgV.png" group-title="Web TV",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -438,10 +445,6 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BDC3ggR.png" group-title="Web TV",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u
-
-#EXTINF:-1 tvg-id="SFTV" tvg-name="SFTV" tvg-logo="https://imgur.com/Paggcct.png" tvg-shift="0" group-title="Web TV",SFTV (Sistema Familiar De Televisão)
-https://stream.mux.com/sRwj2xcxjGjoLLwQzakVLdVuzdaWrIjB.m3u8
-
 
 #EXTINF:-1 tvg-id="Summer TV" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="Web TV",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
@@ -662,7 +665,7 @@ https://ia801502.us.archive.org/32/items/vontade-indomita-1949-dublagem-classica
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8zLpyyr.png" group-title="CSI Las Vegas",CSI Las Vegas T01 EP.01
-https://ia601404.us.archive.org/16/items/csilv/CSILV.01x01.by-DB.mp4
+https://archive.org/download/csilv/CSILV.01x01.by-DB.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8zLpyyr.png" group-title="CSI Las Vegas",CSI Las Vegas T01 EP.02
 https://archive.org/download/csilv/CSILV.01x02.by-DB.mkv
@@ -735,73 +738,73 @@ https://archive.org/download/csilv/CSILV.01x23.by-DB.mkv
 ############################### Thundercats ###################################
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.01 Êxodo
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_01.mp4
+https://archive.org/download/thundercats_/Episodio_01.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.02 Aliança Profana
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_02.mp4
+https://archive.org/download/thundercats_/Episodio_02.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.03 Berbils
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_03.mp4
+https://archive.org/download/thundercats_/Episodio_03.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.04 Os Escravos do Castelo Plun-Dar
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_04.mp4
+https://archive.org/download/thundercats_/Episodio_04.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.05 É questão de Tempo
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_05.mp4
+https://archive.org/download/thundercats_/Episodio_05.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.06 Pumm-ra
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_06.mp4
+https://archive.org/download/thundercats_/Episodio_06.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.07 O Pirata Mão de Martelo
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_07.mp4
+https://archive.org/download/thundercats_/Episodio_07.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.08 A Torre das Armadilhas
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_08.mp4
+https://archive.org/download/thundercats_/Episodio_08.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.09 O Jardim das Delícias
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_09.mp4
+https://archive.org/download/thundercats_/Episodio_09.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.10 Mandora A Caçadora do Mal
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_10.mp4
+https://archive.org/download/thundercats_/Episodio_10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.11 O Guerreiro Fantasma
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_11.mp4
+https://archive.org/download/thundercats_/Episodio_11.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.12 O Olhar Fatal
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_12.mp4
+https://archive.org/download/thundercats_/Episodio_12.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.13 Senhor da Neves
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_13.mp4
+https://archive.org/download/thundercats_/Episodio_13.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.14 A Espaçonave Enterrada
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_14.mp4
+https://archive.org/download/thundercats_/Episodio_14.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.15 A Cápsula do Tempo
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_15.mp4
+https://archive.org/download/thundercats_/Episodio_15.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.16 As Bolas de Fogo do Castelo Plun-Dar
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_16.mp4
+https://archive.org/download/thundercats_/Episodio_16.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.17 A Espada de Omens
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_17.mp4
+https://archive.org/download/thundercats_/Episodio_17.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.18 Imagem Distorcida
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_18.mp4
+https://archive.org/download/thundercats_/Episodio_18.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.19 Primeiro dia do Ungido de Lion: Prova de Força
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_19.mp4
+https://archive.org/download/thundercats_/Episodio_19.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.20 Segundo dia do Ungido de Lion: Prova de Velocidade
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_20.mp4
+https://archive.org/download/thundercats_/Episodio_20.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.21 Terceiro dia do Ungido de Lion: Prova de Agilidade
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_21.mp4
+https://archive.org/download/thundercats_/Episodio_21.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.22 Quarto dia do Ungido de Lion: Prova do Poder da Mente
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_22.mp4
+https://archive.org/download/thundercats_/Episodio_22.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.23 Quinto dia do Ungido de Lion: Prova do Demônio
-https://ia601405.us.archive.org/15/items/thundercats_/Episodio_23.mp4
+https://archive.org/download/thundercats_/Episodio_23.mp4
 
 
 
@@ -809,106 +812,106 @@ https://ia601405.us.archive.org/15/items/thundercats_/Episodio_23.mp4
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.01
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_01.mp4
+https://archive.org/download/cybercops/Cybercops_01.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.02
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_02.mp4
+https://archive.org/download/cybercops/Cybercops_02.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.03
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_03.mp4
+https://archive.org/download/cybercops/Cybercops_03.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.04
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_04.mp4
+https://archive.org/download/cybercops/Cybercops_04.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.05
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_05.mp4
+https://archive.org/download/cybercops/Cybercops_05.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.06
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_06.mp4
+https://archive.org/download/cybercops/Cybercops_06.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.07
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_07.mp4
+https://archive.org/download/cybercops/Cybercops_07.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.08
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_08.mp4
+https://archive.org/download/cybercops/Cybercops_08.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.09
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_09.mp4
+https://archive.org/download/cybercops/Cybercops_09.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.10
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_10.mp4
+https://archive.org/download/cybercops/Cybercops_10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.11
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_11.mp4
+https://archive.org/download/cybercops/Cybercops_11.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.12
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_12.mp4
+https://archive.org/download/cybercops/Cybercops_12.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.13
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_13.mp4
+https://archive.org/download/cybercops/Cybercops_13.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.14
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_14.mp4
+https://archive.org/download/cybercops/Cybercops_14.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.15
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_15.mp4
+https://archive.org/download/cybercops/Cybercops_15.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.16
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_16.mp4
+https://archive.org/download/cybercops/Cybercops_16.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.17
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_17.mp4
+https://archive.org/download/cybercops/Cybercops_17.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.18
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_18.mp4
+https://archive.org/download/cybercops/Cybercops_18.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.19
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_19.mp4
+https://archive.org/download/cybercops/Cybercops_19.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.20
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_20.mp4
+https://archive.org/download/cybercops/Cybercops_20.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.21
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_21.mp4
+https://archive.org/download/cybercops/Cybercops_21.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.22
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_22.mp4
+https://archive.org/download/cybercops/Cybercops_22.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.23
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_23.mp4
+https://archive.org/download/cybercops/Cybercops_23.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.24
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_24.mp4
+https://archive.org/download/cybercops/Cybercops_24.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.25
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_25.mp4
+https://archive.org/download/cybercops/Cybercops_25.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.26
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_26.mp4
+https://archive.org/download/cybercops/Cybercops_26.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.27
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_27.mp4
+https://archive.org/download/cybercops/Cybercops_27.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.28
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_28.mp4
+https://archive.org/download/cybercops/Cybercops_28.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.29
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_29.mp4
+https://archive.org/download/cybercops/Cybercops_29.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.30
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_30.mp4
+https://archive.org/download/cybercops/Cybercops_30.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.31
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_31.mp4
+https://archive.org/download/cybercops/Cybercops_31.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.32
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_32.mp4
+https://archive.org/download/cybercops/Cybercops_32.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.33
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_33.mp4
+https://archive.org/download/cybercops/Cybercops_33.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uUa14D9.png" group-title="Cybercop Os Policiais do Futuro",Cybercop Os Policiais do Futuro - EP.34
-https://ia601503.us.archive.org/32/items/cybercops/Cybercops_34.mp4
+https://archive.org/download/cybercops/Cybercops_34.mp4
 
 
 
@@ -1039,76 +1042,76 @@ https://archive.org/download/familia_dinossauro_2/39.%20Final%20de%20Semana%20Se
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.01
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep1.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.02
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep2.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep2.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.03
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep3.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.04
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep4.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep4.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.05
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep5.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep5.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.06
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep6.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep6.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.07
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep7.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep7.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.08
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep8.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep8.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.09
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep9.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep9.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.10
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep10.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep10.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.11
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep11.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep11.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.12
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep12.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep12.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.13
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep13.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep13.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.14
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep14.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep14.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.15
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep15.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep15.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.16
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep16.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep16.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.17
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep17.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep17.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.18
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep18.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep18.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.19
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep19.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep19.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.20
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep20.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep20.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.21
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep21.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep21.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.22
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep22.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep22.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.23
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep23.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep23.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.24
-https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep24.mp4
+https://archive.org/download/xena-a-princesa-guerreira/ep24.mp4
 
 
 
@@ -1117,61 +1120,62 @@ https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep24.mp4
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Ceia dos Veteranos
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20%20A%20CEIA%20DOS%20VETERANOS.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20%20A%20CEIA%20DOS%20VETERANOS.mp4
+           https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.avi
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Herança Assombrada
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Liberdade e seus Perigos
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20LIBERDADE%20E%20SEUS%20PERIGOS.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20LIBERDADE%20E%20SEUS%20PERIGOS.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Dois Detetives da Pesada
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DOIS%20DETETIVES%20DA%20PESADA.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DOIS%20DETETIVES%20DA%20PESADA.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Duas Babás para um Bebê
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DUAS%20BAB%C3%81S%20PARA%20UM%20BEB%C3%8A.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DUAS%20BAB%C3%81S%20PARA%20UM%20BEB%C3%8A.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Entrega a Domicílio
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ENTREGA%20A%20DOMIC%C3%8DLIO.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ENTREGA%20A%20DOMIC%C3%8DLIO.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Ladrão que rouba Ladrão
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20LADR%C3%83O%20QUE%20ROUBA%20LADR%C3%83O.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20LADR%C3%83O%20QUE%20ROUBA%20LADR%C3%83O.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Marujos Trapalhões
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20MARUJOS%20TRAPALH%C3%95ES%281%29.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20MARUJOS%20TRAPALH%C3%95ES%281%29.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - O Destruidor de Lares
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20DESTRUIDOR%20DE%20LARES.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20DESTRUIDOR%20DE%20LARES.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - O Grande Negócio
-https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20GRANDE%20NEG%C3%93CIO.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20GRANDE%20NEG%C3%93CIO.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Orquestra Maluca
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ORQUESTRA%20MALUCA.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ORQUESTRA%20MALUCA.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Os Boemios do Barulho
-https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20OS%20BOEMIOS%20DO%20BARULHO.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20OS%20BOEMIOS%20DO%20BARULHO.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Papai e Mamãe por Acaso
-https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20PAPAI%20E%20MAM%C3%83E%20POR%20ACASO.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20PAPAI%20E%20MAM%C3%83E%20POR%20ACASO.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Amor de Cabrita
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20AMOR%20DE%20CABRITA.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20AMOR%20DE%20CABRITA.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Duelo de Amor
-https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20DUELO%20DE%20AMOR.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20DUELO%20DE%20AMOR.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Furo de Reportagem
-https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20FURO%20DE%20REPORTAGEM%2000_00_05-00_17_31.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20FURO%20DE%20REPORTAGEM%2000_00_05-00_17_31.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Momento de Glória
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20MOMENTO%20DE%20GL%C3%93RIA.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20MOMENTO%20DE%20GL%C3%93RIA.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Uma Luta de Risos
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20DE%20RISOS.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20DE%20RISOS.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Uma Luta sem Igual
-https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4
+https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4
 
 
 
