@@ -420,7 +420,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
-https://akamai2-br.cdn.booyah.live/hls/1000012/master_34850987.m3u8
+https://aws-br.cdn.booyah.live/hls/1000002/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -448,6 +448,45 @@ https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8T
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA (TV Alternativa)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta MA (TV Alternativa)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+
+############################### RADIO ################################################
+
+
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/pSo2Puy.png" radio=true,Rádio Nativa FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/tEtNB5Z.png" radio=true,Rádio Mega FM
+http://216-155-149-152.webnow.com.br:80/mega.mp3
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/sa8jiwA.png" radio=true,Rádio Atlãndida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/AZRhhCW.png" radio=true,Rádio Band Vale FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/p1xuLvQ.png" radio=true,Rádio Band News FM
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/b0BBIXR.png" radio=true,Rádio Band FM
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/1k07VjA.png" radio=true,Rádio Disney FM
+https://us-b4-p-e-zx8-audio.cdn.mdstrm.com/live-audio/5b7dcf9b7f880d076b1ed74d/5ddfc57f4bee0054b9b3f511/icecast.audio?pid=wXaH2z4aPPEdbzaydWv6UI1WOjoBdiVf&sid=chx6bHwckeidWPxIHSQlsShziQPHn3Zk&uid=UEbDRwzu08UOrL3sqqXlIOuar4vX99ZC&es=us-b4-p-e-zx8-audio.cdn.mdstrm.com&ote=1612288310048&ot=XLBLVrSgCkzHDBHG3llehw&proto=https&pz=us&cP=128000
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/mmbIcXI.png" radio=true,Rádio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/1WQFAIO.png" radio=true,Rádio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/cIuwgEJ.png" radio=true,Rádio Anos Dourados FM
+http://stm1.xcast.com.br:7882/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/CQa7P7j.png" radio=true,Rádio O Som Mágico dos Anos 70
+http://199.233.234.34:25418/stream
+
 
 
 ############################### WEB TV ######################################
