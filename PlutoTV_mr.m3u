@@ -420,7 +420,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
-https://akamai2-br.cdn.booyah.live/hls/1000002/master_34850987.m3u8
+https://aws-br.cdn.booyah.live/hls/1000002/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -468,6 +468,9 @@ http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/p1xuLvQ.png" radio=true,Rádio Band News FM
 http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/p0dZYnQ.png" radio=true,Rádio Stereo Vale 
+https://evpp.mm.uol.com.br/band/stereovale/playlist.m3u8
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/b0BBIXR.png" radio=true,Rádio Band FM
 http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
@@ -750,6 +753,50 @@ https://ia803102.us.archive.org/6/items/budabbottloucostelloemhollywood1945duala
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/YuHq8T5.png" group-title="Clássicos",Vontade Indômita (1949)
 https://ia801502.us.archive.org/32/items/vontade-indomita-1949-dublagem-classica/Vontade%20Ind%C3%B4mita%20%281949%29%20Dublagem%20Cl%C3%A1ssica.mp4
+
+
+############################### FUTURAMA ##########################################
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.01 Piloto Espacial 3000
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2001-%20%20Piloto.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.02 Uma Viagem à Lua
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2002-%20Uma%20Viagem%20%C3%A0%20Lua.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.03 Um Amigo Robô
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2003-%20%20Um%20Amigo%20Rob%C3%B4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.04 À Procura de um Amor
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2004-%20%20%C3%80%20Procura%20de%20um%20Amor.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.05 Humanos Aqui Não Entram
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2005-%20Humanos%20Aqui%20n%C3%A3o%20Entram.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.06 A Minha Fortuna São os Meus Amigos
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2006-%20%20A%20Minha%20Fortuna%20S%C3%A3o%20os%20Meus%20Amigos.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.07 Imperador por um Dia
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2007-%20Imperador%20Por%20um%20Dia.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.08 O Mal do Século XX
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2008-%20O%20Mal%20do%20S%C3%A9culo%20XX.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.09 O Inferno dos Robôs
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2009-%20O%20Inferno%20dos%20Rob%C3%B4s.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.10 O Titanic do Espaço
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2010-%20%20O%20Titanic%20do%20Espa%C3%A7o.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.11 O Macaco Gênio
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2011-%20O%20Macaco%20G%C3%AAnio.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.12 A Magia da Televisão
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2012-%20%20A%20Magia%20da%20Televis%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/InVf4Xq.png" group-title="Futurama",Futurama T01 EP.13 O Refrigerante Secreto
+https://archive.org/download/futurama_2000/Epis%C3%B3dio%2013-%20O%20Refrigerante%20Secreto.mp4
+
 
 
 ############################### CSI ##########################################
