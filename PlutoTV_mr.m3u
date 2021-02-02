@@ -451,8 +451,8 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/pSo2Puy.png" radio="true",Rádio Nativa FM
-http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/CeQaZjr.png" radio="true",Nativa FM
+https://evpp.mm.uol.com.br/band/nativa_sp/media_w1335147635_11892.aac
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/tEtNB5Z.png" radio="true",Rádio Mega FM
 http://216-155-149-152.webnow.com.br:80/mega.mp3
