@@ -416,7 +416,7 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 group-title="Local" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png",ITV
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png",ITV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
@@ -453,13 +453,13 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 ############################### RADIO ################################################
 
 
-#EXTINF:-1  tvg-logo="https://98live.com.br/assets/logo-98@2x.png",98 Live
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://98live.com.br/assets/logo-98@2x.png",98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN Rio
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN São Paulo
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/CeQaZjr.png" radio="true",Nativa FM
