@@ -1327,68 +1327,84 @@ https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8T
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 
-############################### RADIO ################################################
+############################### RADIOS ################################################
 
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://98live.com.br/assets/logo-98@2x.png",98 Live
+#EXTINF:-1 tvg-logo="https://imgur.com/4WhBsGn.png" group-title="RADIO", 98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN Rio
+#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="RADIO", CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN São Paulo
+#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="RADIO", CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-####EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/CeQaZjr.png" radio="true",Nativa FM
-####https://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8s
-
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/tEtNB5Z.png" radio="true",Mega FM
+#EXTINF:-1 tvg-logo="https://imgur.com/tEtNB5Z.png" group-title="RADIO", Mega FM
 http://216-155-149-152.webnow.com.br:80/mega.mp3
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/sa8jiwA.png" radio="true",Atlãndida FM
+#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="RADIO", Atlãndida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
-#####EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/AZRhhCW.png" radio="true",Band Vale FM
-####http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qdu42QX.png" group-title="RADIO", Transamerica
+http://transamerica.crossradio.com.br:9112/stream/1/
 
-#####EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/p1xuLvQ.png" radio="true",Band News FM
-####http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="RADIO", Beat 98
+http://streaming13.hstbr.net:8072/live
 
-#####EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/p0dZYnQ.png" radio="true",Stereo Vale 
-####https://evpp.mm.uol.com.br/band/stereovale/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/b0BBIXR.png" group-title="RADIO", BandFM SP
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w845145933.m3u8 
 
-#####EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/b0BBIXR.png" radio="true",Band FM
-####http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="RADIO", Antena 1 SP
+https://antenaone.crossradio.com.br/stream/1;?type=mp4
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/1k07VjA.png" radio="true",Disney FM
+#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="RADIO", Antena 1 RJ
+http://a1rj.streams.com.br:7801/sm
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NgI153k.png" group-title="RADIO", Feliz FM BA
+http://felizfm.sateg.com.br:11520/stream/1/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JjSUiXP.png" group-title="RADIO", Radio Gaucha
+https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_09320081-f8c6-4b18-9e45-6369294c111b.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="RADIO", Difusora Acreana
+http://midia.ac.gov.br/difusora
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IE4wLHC.png" group-title="RADIO", Aldeia FM 96.9 Rio Branco
+http://midia.ac.gov.br/aldeiafm 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="RADIO", Jovem Pan AM (Maceio) 1020
+http://radios.cabreuvoip.com.br:7056/;
+
+#EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="RADIO", Jovempan FM 106.7 Goiania
+http://sh2.upx.com.br:8052/stream/1/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eLOy0cZ.png" group-title="RADIO", Cultura FM 95.1
+http://srv04.brasilstream.com.br:8040/mp3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1k07VjA.png" group-title="RADIO", Disney FM
 https://us-b4-p-e-zx8-audio.cdn.mdstrm.com/live-audio/5b7dcf9b7f880d076b1ed74d/5ddfc57f4bee0054b9b3f511/icecast.audio?pid=wXaH2z4aPPEdbzaydWv6UI1WOjoBdiVf&sid=chx6bHwckeidWPxIHSQlsShziQPHn3Zk&uid=UEbDRwzu08UOrL3sqqXlIOuar4vX99ZC&es=us-b4-p-e-zx8-audio.cdn.mdstrm.com&ote=1612288310048&ot=XLBLVrSgCkzHDBHG3llehw&proto=https&pz=us&cP=128000
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://cdn.gelestatic.it/capital/sites/2/2019/01/webradio-radio-capital-classic-rock-1200x627.jpg" radio="true",RADIO CAPITAL CLASSIC ROCK
-https://capital-wr-02-lh.akamaized.net/i/WebRadio2_1@117624/master.m3u8
-
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://cdn.gelestatic.it/capital/sites/2/2019/01/webradio-radio-capital-music-1200x627.jpg" radio="true",RADIO CAPITAL MUSIC
-https://capital-wr-01-lh.akamaized.net/i/WebRadio1_1@14078/master.m3u8
-
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/mmbIcXI.png" radio="true",RADIO CAPITAL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/mmbIcXI.png" group-title="RADIO", CAPITAL TV
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/1WQFAIO.png" radio="true",RADIO 51 TV
+#EXTINF:-1 tvg-logo="https://imgur.com/1WQFAIO.png" group-title="RADIO", RADIO 51 TV
 https://59d8c0cee6f3d.streamlock.net/canale51/canale51/playlist.m3u8
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/zt6kQo8.png",FM O Dia 100.5
+#EXTINF:-1 tvg-logo="https://imgur.com/zt6kQo8.png" group-title="RADIO", FM O Dia 100.5
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/hvm6Npo.png",HOT FM 107 SP
+#EXTINF:-1 tvg-logo="https://imgur.com/hvm6Npo.png" group-title="RADIO", HOT FM 107 SP
 http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/45Vvrld.png" radio="true",89 FM A RADIO ROCK
+#EXTINF:-1 tvg-logo="https://imgur.com/45Vvrld.png" group-title="RADIO", 89 FM A RADIO ROCK
 http://streamingV2.shoutcast.com:80/89-a-radio-rock-sao-paulo-
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/g3TQqiW.png" radio="true",Vanguarda FM 94.9
+#EXTINF:-1 tvg-logo="https://imgur.com/g3TQqiW.png" group-title="RADIO", Vanguarda FM 94.9
 https://cast3.hoost.com.br:20030/live
 
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/cIuwgEJ.png" radio="true",Anos Dourados FM
+#EXTINF:-1 tvg-logo="https://imgur.com/cIuwgEJ.png" group-title="RADIO", Anos Dourados FM
 http://stm1.xcast.com.br:7882/;
+
 
 
 
