@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml"
+#EXTM3U8  url-tvg="https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml"
 
 #EXTINF:0 channel-id="pluto-tv-kids" tvg-logo="http://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/solidLogoPNG.png" group-title="Kids", Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ff3c0e60-6643-11eb-9003-cfab0a61c735&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07487045-cf45-4304-9e40-6d3a162a9e30&userId=&serverSideAds=true
