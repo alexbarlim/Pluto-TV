@@ -245,7 +245,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 #EXTINF:0 channel-id="kenan-y-kel-ptv1" tvg-logo="https://imgur.com/45EJ73Z.png" group-title="Pluto TV Argentina", Kenan y Kel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff4bb60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bb7672d-32f3-4e6a-9ff0-3e2488d68da1&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="yu-gi-oh-pvt1" tvg-logo="https://imgur.com/ol6B34n.png" group-title="Pluto TV Argentina",Pluto TV Yu-Gi-Oh
+#EXTINF:0 channel-id="yu-gi-oh-pvt1" tvg-logo="https://imgur.com/ol6B34n.png" group-title="Pluto TV Argentina",Yu-Gi-Oh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
 
 
@@ -395,8 +395,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074
 ################################################ PLUTO TV US ####################################
 
 
-
-#EXTM3U
 
 #EXTINF:0 channel-id="pluto-tv-kids" tvg-logo="http://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Pluto TV Estados Unidos", Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=15e10d30-6641-11eb-ba7b-198429cca5be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a337853b-c8b6-497d-b629-f9ee760756cd&userId=&serverSideAds=true
@@ -1166,7 +1164,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d
 #EXTINF:0 channel-id="unsolved-mysteries-esp" tvg-logo="http://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png" group-title="Pluto TV Estados Unidos", Unsolved Mysteries ESP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=15e9bfc2-6641-11eb-ba7b-198429cca5be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f334cd6-2ad7-48c7-9ff3-2bbe485d92df&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="yu-gi-oh-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Pluto TV Estados Unidos", Yu-Gi-Oh
+#EXTINF:0 channel-id="yu-gi-oh" tvg-logo="http://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Pluto TV Estados Unidos", Yu-Gi-Oh
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=15e9bfc3-6641-11eb-ba7b-198429cca5be&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=627493d9-8bae-4e16-8e4c-840ee1c48b78&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="the-design-network" tvg-logo="http://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" group-title="Pluto TV Estados Unidos", The Design Network
@@ -1342,7 +1340,7 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/CeQaZjr.png" radio="true",Nativa FM
-https://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+https://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8s
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/tEtNB5Z.png" radio="true",Mega FM
 http://216-155-149-152.webnow.com.br:80/mega.mp3
