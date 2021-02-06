@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml,https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml,https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA TOTALMENTE GRATUITA!
 http://0.0.0.0
@@ -1293,8 +1293,11 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
+#EXTINF:-1 group-title="TV Aberta" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png",ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
-https://verizon.br.cdn.booyah.live/hls/1000015/master_34850987.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000029/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -1462,7 +1465,7 @@ https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qo1GKxf.png" group-title="Web TV",TLN Tele Lazio Nord
 http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Manchete" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Web TV",TV Manchete
+#EXTINF:-1 tvg-id="Tvmanchete" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="Web TV",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvnacional" tvg-name="TV Nacional" tvg-logo="https://imgur.com/tCpGCMV.png" tvg-shift="0" group-title="Web TV",TV Nacional
@@ -1847,6 +1850,101 @@ https://archive.org/download/thundercats_/Episodio_31.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.32 O Sexto Sentido
 https://archive.org/download/thundercats_/Episodio_32.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.33
+https://archive.org/download/thundercats_2/Episodio_33.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.34
+https://archive.org/download/thundercats_2/Episodio_34.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.35
+https://archive.org/download/thundercats_2/Episodio_35.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.36
+https://archive.org/download/thundercats_2/Episodio_36.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.37
+https://archive.org/download/thundercats_2/Episodio_37.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.38
+https://archive.org/download/thundercats_2/Episodio_38.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.39
+https://archive.org/download/thundercats_2/Episodio_39.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.40
+https://archive.org/download/thundercats_2/Episodio_40.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.41
+https://archive.org/download/thundercats_2/Episodio_41.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.42
+https://archive.org/download/thundercats_2/Episodio_42.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.43
+https://archive.org/download/thundercats_2/Episodio_43.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.44
+https://archive.org/download/thundercats_2/Episodio_44.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.45
+https://archive.org/download/thundercats_2/Episodio_45.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.46
+https://archive.org/download/thundercats_2/Episodio_46.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.47
+https://archive.org/download/thundercats_2/Episodio_47.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.48
+https://archive.org/download/thundercats_2/Episodio_48.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.49
+https://archive.org/download/thundercats_2/Episodio_49.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.50
+https://archive.org/download/thundercats_2/Episodio_50.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.51
+https://archive.org/download/thundercats_2/Episodio_51.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.52
+https://archive.org/download/thundercats_2/Episodio_52.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.53
+https://archive.org/download/thundercats_2/Episodio_53.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.54
+https://archive.org/download/thundercats_2/Episodio_54.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.55
+https://archive.org/download/thundercats_2/Episodio_55.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.56
+https://archive.org/download/thundercats_2/Episodio_56.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.57
+https://archive.org/download/thundercats_2/Episodio_57.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.58
+https://archive.org/download/thundercats_2/Episodio_58.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.59
+https://archive.org/download/thundercats_2/Episodio_59.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.60
+https://archive.org/download/thundercats_2/Episodio_60.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.61
+https://archive.org/download/thundercats_2/Episodio_61.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.62
+https://archive.org/download/thundercats_2/Episodio_62.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PARhSlo.png" group-title="ThunderCats",ThunderCats - EP.63
+https://archive.org/download/thundercats_2/Episodio_63.mp4
+
+
 
 
 
