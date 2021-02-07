@@ -1281,125 +1281,130 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d00079
 
 ############################### ABERTOS #####################################
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV Aberta",Band
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Abertos",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV Aberta",Band News
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Abertos",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV Aberta",CNN Brasil
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="Abertos",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
+#EXTINF:-1 tvg-id="France24.br" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Abertos",France 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Abertos",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading TV
-https://akamai2-br.cdn.booyah.live/hls/1000004/master_34850987.m3u8
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Abertos",Loading TV
+https://aws-br.cdn.booyah.live/hls/1000004/master_34850987.m3u8
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV Aberta",Record News
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="Abertos",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="TV Aberta",RecordTV
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="Abertos",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/BRM8vas.png" group-title="TV Aberta",Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="Abertos",TV Brasil Oeste (Rede Brasil)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV TO" tvg-logo="https://imgur.com/nU1S67c.png" tvg-shift="0" group-title="TV Aberta",RedeTV TO
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV TO" tvg-logo="https://imgur.com/nU1S67c.png" tvg-shift="0" group-title="Abertos",RedeTV TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PI (TV Cidade Verde)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV Aberta",SBT PI (TV Cidade Verde) 
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="Abertos",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV Aberta",TV Brasil
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="Abertos",TV Brasil
 http://dns.cdnsecurity.live:80/nelson999/9239632466/350985
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura PR(Catve)" tvg-logo="https://imgur.com/5FSHzvg.png" group-title="TV Aberta",TV Cultura PR (Catve)
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve (Cultura PR)" tvg-logo="https://imgur.com/YodQvTw.png" group-title="Abertos",Catve (Cultura PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV Aberta",TV Diário
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="Abertos",TV Diário
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb78ABL-IyEC_AgnVT_YBZJVYiHBTrBRQEKKtPrjEfvBnsCkBP05315Vlg9xfVSkztA
 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA (TV Alternativa)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV Aberta",TV Gazeta MA (TV Alternativa)
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Abertos",TV Alternativa (TV Gazeta MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 
 ############################### RADIOS ################################################
 
+#EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="Rádios",Catve FM Cascavel 91.7
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4WhBsGn.png" group-title="RADIO", 98 Live
+#EXTINF:-1 tvg-logo="https://imgur.com/4WhBsGn.png" group-title="Rádios", 98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="RADIO", CBN Rio
+#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="Rádios", CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="RADIO", CBN São Paulo
+#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="Rádios", CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tEtNB5Z.png" group-title="RADIO", Mega FM
+#EXTINF:-1 tvg-logo="https://imgur.com/tEtNB5Z.png" group-title="Rádios", Mega FM
 http://216-155-149-152.webnow.com.br:80/mega.mp3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="RADIO", Atlãndida FM
+#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="Rádios", Atlãndida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/qdu42QX.png" group-title="RADIO", Transamerica
+#EXTINF:-1 tvg-logo="https://imgur.com/qdu42QX.png" group-title="Rádios", Transamerica
 http://transamerica.crossradio.com.br:9112/stream/1/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="RADIO", Beat 98
+#EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="Rádios", Beat 98
 http://streaming13.hstbr.net:8072/live
 
-#EXTINF:-1 tvg-logo="https://imgur.com/b0BBIXR.png" group-title="RADIO", BandFM SP
+#EXTINF:-1 tvg-logo="https://imgur.com/b0BBIXR.png" group-title="Rádios", BandFM SP
 http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w845145933.m3u8 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="RADIO", Antena 1 SP
+#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="Rádios", Antena 1 SP
 https://antenaone.crossradio.com.br/stream/1;?type=mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="RADIO", Antena 1 RJ
+#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="Rádios", Antena 1 RJ
 http://a1rj.streams.com.br:7801/sm
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NgI153k.png" group-title="RADIO", Feliz FM BA
+#EXTINF:-1 tvg-logo="https://imgur.com/NgI153k.png" group-title="Rádios", Feliz FM BA
 http://felizfm.sateg.com.br:11520/stream/1/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JjSUiXP.png" group-title="RADIO", Radio Gaucha
+#EXTINF:-1 tvg-logo="https://imgur.com/JjSUiXP.png" group-title="Rádios", Radio Gaucha
 https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_09320081-f8c6-4b18-9e45-6369294c111b.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="RADIO", Difusora Acreana
+#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="Rádios", Difusora Acreana
 http://midia.ac.gov.br/difusora
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IE4wLHC.png" group-title="RADIO", Aldeia FM 96.9 Rio Branco
+#EXTINF:-1 tvg-logo="https://imgur.com/IE4wLHC.png" group-title="Rádios", Aldeia FM 96.9 Rio Branco
 http://midia.ac.gov.br/aldeiafm 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="RADIO", Jovem Pan AM (Maceio) 1020
+#EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="Rádios", Jovem Pan AM (Maceio) 1020
 http://radios.cabreuvoip.com.br:7056/;
 
-#EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="RADIO", Jovempan FM 106.7 Goiania
+#EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="Rádios", Jovempan FM 106.7 Goiania
 http://sh2.upx.com.br:8052/stream/1/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eLOy0cZ.png" group-title="RADIO", Cultura FM 95.1
+#EXTINF:-1 tvg-logo="https://imgur.com/eLOy0cZ.png" group-title="Rádios", Cultura FM 95.1
 http://srv04.brasilstream.com.br:8040/mp3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1k07VjA.png" group-title="RADIO", Disney FM
+#EXTINF:-1 tvg-logo="https://imgur.com/1k07VjA.png" group-title="Rádios", Disney FM
 https://us-b4-p-e-zx8-audio.cdn.mdstrm.com/live-audio/5b7dcf9b7f880d076b1ed74d/5ddfc57f4bee0054b9b3f511/icecast.audio?pid=wXaH2z4aPPEdbzaydWv6UI1WOjoBdiVf&sid=chx6bHwckeidWPxIHSQlsShziQPHn3Zk&uid=UEbDRwzu08UOrL3sqqXlIOuar4vX99ZC&es=us-b4-p-e-zx8-audio.cdn.mdstrm.com&ote=1612288310048&ot=XLBLVrSgCkzHDBHG3llehw&proto=https&pz=us&cP=128000
 
-#EXTINF:-1 tvg-logo="https://imgur.com/mmbIcXI.png" group-title="RADIO", CAPITAL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/mmbIcXI.png" group-title="Rádios", CAPITAL TV
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1WQFAIO.png" group-title="RADIO", RADIO 51 TV
+#EXTINF:-1 tvg-logo="https://imgur.com/1WQFAIO.png" group-title="Rádios", RADIO 51 TV
 https://59d8c0cee6f3d.streamlock.net/canale51/canale51/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/zt6kQo8.png" group-title="RADIO", FM O Dia 100.5
+#EXTINF:-1 tvg-logo="https://imgur.com/zt6kQo8.png" group-title="Rádios", FM O Dia 100.5
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hvm6Npo.png" group-title="RADIO", HOT FM 107 SP
+#EXTINF:-1 tvg-logo="https://imgur.com/hvm6Npo.png" group-title="Rádios", HOT FM 107 SP
 http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/45Vvrld.png" group-title="RADIO", 89 FM A RADIO ROCK
+#EXTINF:-1 tvg-logo="https://imgur.com/45Vvrld.png" group-title="Rádios", 89 FM A RADIO ROCK
 http://streamingV2.shoutcast.com:80/89-a-radio-rock-sao-paulo-
 
-#EXTINF:-1 tvg-logo="https://imgur.com/g3TQqiW.png" group-title="RADIO", Vanguarda FM 94.9
+#EXTINF:-1 tvg-logo="https://imgur.com/g3TQqiW.png" group-title="Rádios", Vanguarda FM 94.9
 https://cast3.hoost.com.br:20030/live
 
-#EXTINF:-1 tvg-logo="https://imgur.com/cIuwgEJ.png" group-title="RADIO", Anos Dourados FM
+#EXTINF:-1 tvg-logo="https://imgur.com/cIuwgEJ.png" group-title="Rádios", Anos Dourados FM
 http://stm1.xcast.com.br:7882/;
 
 
