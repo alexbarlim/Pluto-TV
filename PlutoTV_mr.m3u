@@ -1534,7 +1534,7 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 #EXTINF:-1 group-title="Rádios" tvg-logo="https://m3upt.com/logos/CMC.png",Country Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="Rádios",Catve FM Cascavel 91.7
+#EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="Rádios",Catve FM 91.7
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="98 Live" tvg-logo="https://imgur.com/4WhBsGn.png" group-title="Rádios", 98 Live
