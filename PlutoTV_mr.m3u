@@ -1428,7 +1428,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a0
 #EXTINF:0 channel-id="glory-kickboxing" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Pluto TV Canada", GLORY Kickboxing
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71e49f0-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a116e69-0c7f-4263-8249-90d0c48a5f55&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="mst3k" tvg-logo="http://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="Pluto TV Canada, MST3K
+#EXTINF:0 channel-id="mst3k" tvg-logo="http://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="Pluto TV Canada", MST3K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71e7100-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=537ac3ff-d93a-4fa3-ab55-add541a6995b&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="bloomberg-tv" tvg-logo="http://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="Pluto TV Canada", Bloomberg TV
@@ -1460,25 +1460,22 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d0
 ############################### ABERTOS #####################################
 
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" grouTV="Abertos",Band
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve (Cultura PR)" tvg-logo="https://imgur.com/YodQvTw.png" group-title="TV",Catve (Cultura PR)
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve (Cultura PR)" tvg-logo="https://imgur.com/yg60ANb.png" group-title="TV",Catve (Cultura PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
-
-#EXTINF:-1 tvg-id="Canalonce.br" tvg-name="Canal Once" tvg-logo="https://imgur.com/WrprGsb.png" group-title="TV",Canal Once
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://m3upt.com/logos/Euronews.png",Euronews (PT)
-http://euronews-pt-p11-cdn.hexaglobe.net/c5df570f5b9ffa7c324747850cc60a97/6021eca1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://imgur.com/C3M9AeJ.png",Euronews (PT)
+http://euronews-pt-p12-cdn.hexaglobe.net/e6fc4dfd73c9639dcc2c3d950f99a9a9/60227942/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24.br" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
+#EXTINF:-1 tvg-id="France24.br" tvg-name="France 24 (I)" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV",Globo RJ
@@ -1492,6 +1489,9 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="TV",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="RTP 1" tvg-logo="https://m3upt.com/logos/RTP1.png",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV",TV Alternativa (TV Gazeta MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
@@ -1512,7 +1512,7 @@ https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2Vyd
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV",TV Diário
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb78ABL-IyEC_AgnVT_YBZJVYiHBTrBRQEKKtPrjEfvBnsCkBP05315Vlg9xfVSkztA
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_XqJPgUuID4JtFlbX6hq4yzQsgwAlqYyiSYpsiKgxuf9_HwVhAdNFtoFH5ZQWtInA
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV TO" tvg-logo="https://imgur.com/nU1S67c.png" tvg-shift="0" group-title="TV",RedeTV TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
@@ -1524,6 +1524,15 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bVpeZUU.png" group-title="Rádios",On FM 93.8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://m3upt.com/logos/FM-Italia-TV.png",FM Italia TV
+https://stream2.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://m3upt.com/logos/CMC.png",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://m3upt.com/logos/CMC.png",Country Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="Rádios",Catve FM Cascavel 91.7
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
@@ -1648,7 +1657,7 @@ https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede HTV" tvg-logo="https://imgur.com/kiHXaVb.png" tvg-shift="0" group-title="Web TV",Rede HTV
 https://stmv3.samcast.com.br/hugo3090/hugo3090/chunklist_w1615540760.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://imgur.com/mgHLYAn.png" group-title="Web TV",Retrô Cartoon
+#EXTINF:-1 tvg-id="Retrô Cartoon" tvg-name="Retrô Cartoon" tvg-logo="https://imgur.com/mgHLYAn.png" group-title="Web TV",Retrô Cartoon
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BDC3ggR.png" group-title="Web TV",Retro Plus TV
@@ -1700,7 +1709,7 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 ################################ MUSICA ######################################
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/iFKAgBp.png" group-title="Música",1HD Music
+#EXTINF:-1 tvg-id="1HD Music" tvg-logo="https://imgur.com/iFKAgBp.png" group-title="Música",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/K9Bgg9r.png" group-title="Música",Retrô Music
