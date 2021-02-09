@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml,https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml,https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml,https://m3upt.com/epg"
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA TOTALMENTE GRATUITA!
 http://0.0.0.0
@@ -1459,53 +1459,71 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d0
 
 ############################### ABERTOS #####################################
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="Abertos",Band
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" grouTV="Abertos",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Abertos",Band News
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="Abertos",CNN Brasil
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-
-#EXTINF:-1 tvg-id="France24.br" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="Abertos",France 24
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="Abertos",Globo RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="Abertos",Loading TV
-https://aws-br.cdn.booyah.live/hls/1000004/master_34850987.m3u8
-
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="Abertos",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="Abertos",RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="Abertos",TV Brasil Oeste (Rede Brasil)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV TO" tvg-logo="https://imgur.com/nU1S67c.png" tvg-shift="0" group-title="Abertos",RedeTV TO
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="Abertos",TV Cidade Verde (SBT PI) 
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="Abertos",TV Brasil
-http://dns.cdnsecurity.live:80/nelson999/9239632466/350985
-
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve (Cultura PR)" tvg-logo="https://imgur.com/YodQvTw.png" group-title="Abertos",Catve (Cultura PR)
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve (Cultura PR)" tvg-logo="https://imgur.com/YodQvTw.png" group-title="TV",Catve (Cultura PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="Abertos",TV Diário
+#EXTINF:-1 tvg-id="Canalonce.br" tvg-name="Canal Once" tvg-logo="https://imgur.com/WrprGsb.png" group-title="TV",Canal Once
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://m3upt.com/logos/Euronews.png",Euronews (PT)
+http://euronews-pt-p11-cdn.hexaglobe.net/c5df570f5b9ffa7c324747850cc60a97/6021eca1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.br" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
+https://aws-br.cdn.booyah.live/hls/1000004/master_34850987.m3u8
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="TV",RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV",TV Alternativa (TV Gazeta MA)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV",TV Brasil
+http://dns.cdnsecurity.live:80/nelson999/9239632466/350985
+
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="TV",TV Brasil Oeste (Rede Brasil)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjEgMjowOjMgQU0maGFzaF92YWx1ZT15ZG9qMjFHR3BoaXZtQnVDcnFwYlZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTIxY2U3ODktZWY3YS00MmZiLTgyNzctZDZmNWJjZTJiZjI3
+
+#EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjEgMjowOjMgQU0maGFzaF92YWx1ZT1RTVJhNitUTkgxVVNlR0xRU1JmcC9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzQ1YTIzZjYtZWE5YS00MWFkLTgzNTgtYzY5MzBhZGJjNDJi
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV",TV Diário
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb78ABL-IyEC_AgnVT_YBZJVYiHBTrBRQEKKtPrjEfvBnsCkBP05315Vlg9xfVSkztA
 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="Abertos",TV Alternativa (TV Gazeta MA)
-http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV TO" tvg-logo="https://imgur.com/nU1S67c.png" tvg-shift="0" group-title="TV",RedeTV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
+
 
 
 ############################### RADIOS ################################################
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bVpeZUU.png" group-title="Rádios",On FM 93.8
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="Rádios",Catve FM Cascavel 91.7
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
