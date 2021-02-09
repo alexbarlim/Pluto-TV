@@ -1537,7 +1537,7 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="Rádios",Catve FM Cascavel 91.7
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4WhBsGn.png" group-title="Rádios", 98 Live
+#EXTINF:-1 tvg-id="98 Live" tvg-logo="https://imgur.com/4WhBsGn.png" group-title="Rádios", 98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="Rádios", CBN Rio
@@ -1558,7 +1558,7 @@ http://transamerica.crossradio.com.br:9112/stream/1/
 #EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="Rádios", Beat 98
 http://streaming13.hstbr.net:8072/live
 
-#EXTINF:-1 tvg-logo="https://imgur.com/b0BBIXR.png" group-title="Rádios", BandFM SP
+#EXTINF:-1 tvg-logo="https://imgur.com/b0BBIXR.png" group-title="Rádios", Band FM SP
 http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w845145933.m3u8 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="Rádios", Antena 1 SP
