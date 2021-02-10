@@ -1473,7 +1473,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://imgur.com/C3M9AeJ.png",Euronews (PT)
-http://euronews-pt-p12-cdn.hexaglobe.net/e6fc4dfd73c9639dcc2c3d950f99a9a9/60227942/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
+http://euronews-pt-p7-cdn.hexaglobe.net/bf5b4f6ca906f23746caaf73e5070f8e/6023cac1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France24.br" tvg-name="France 24 (I)" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -1482,13 +1482,16 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
-https://centurylink.br.cdn.booyah.live/hls/1000016/master_34850987.m3u8
+https://aws-br.cdn.booyah.live/hls/1000004/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="TV",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! SP
+http://177.20.208.58:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 1" tvg-logo="https://m3upt.com/logos/RTP1.png",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
@@ -1497,16 +1500,16 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV",TV Brasil
-http://dns.cdnsecurity.live:80/nelson999/9239632466/350985
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="TV",TV Brasil Oeste (Rede Brasil)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjEgMjowOjMgQU0maGFzaF92YWx1ZT15ZG9qMjFHR3BoaXZtQnVDcnFwYlZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTIxY2U3ODktZWY3YS00MmZiLTgyNzctZDZmNWJjZTJiZjI3
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIxIDEyOjA6NCBQTSZoYXNoX3ZhbHVlPUkrcnJ3ZWo5cnM5OEFxNGJ4OVljTUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMDcyYzAzMy0yNWZhLTRhZDMtYWY1OS1jMzgwOGIyNDczNDc=
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
-https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjEgMjowOjMgQU0maGFzaF92YWx1ZT1RTVJhNitUTkgxVVNlR0xRU1JmcC9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzQ1YTIzZjYtZWE5YS00MWFkLTgzNTgtYzY5MzBhZGJjNDJi
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIxIDEyOjA6NSBQTSZoYXNoX3ZhbHVlPWdEQXJ1Smk5SUtKOXJFZ0MvbUMxOGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMGE3ZmYwNi0wYTRlLTRmYzItOGY2MS0wYzliYTU5YWJiYjc=
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
@@ -1514,13 +1517,16 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/a0WMWAh.png" group-title="TV",TV Diário
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb_XqJPgUuID4JtFlbX6hq4yzQsgwAlqYyiSYpsiKgxuf9_HwVhAdNFtoFH5ZQWtInA
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV TO" tvg-logo="https://imgur.com/nU1S67c.png" tvg-shift="0" group-title="TV",RedeTV TO
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
+##RedeTV TO
+##https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
 
 
 
 ############################### RADIOS ################################################
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/h5QDYpR.png" group-title="Rádios",Estação Coca Cola
+http://srv.maxptv.net:8080/Liza/1234/13085
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bVpeZUU.png" group-title="Rádios",On FM 93.8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
@@ -1790,13 +1796,13 @@ http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/148
 http://hmtvhd.life:80/paixao321/paixao123/45
 
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast HD" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast HD
-http://dns.velox4k.tech:2082/6893910914/6615263741/4255
+http://srv.maxptv.net:8080/Liza/1234/17
 
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast SD
 http://dns.velox4k.tech:2082/6893910914/6615263741/4256
 
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="https://imgur.com/Kl7lEMA.png" group-title="Temporário",Cartoon Network
-http://rec2.distv.net:80/plinio/123/124
+http://srv.maxptv.net:8080/Liza/1234/524
 
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
@@ -1811,10 +1817,10 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32706
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/hZYNKo9.png" group-title="Temporário",Discovery Channel
-http://rec2.distv.net:80/plinio/123/130
+http://srv.maxptv.net:8080/Liza/1234/195
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Rn4yVJt.png" group-title="Temporário",Animal Planet
-http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
+http://srv.maxptv.net:8080/Liza/1234/232
 
 #EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Temporário",VH1 HD
 http://srv.p2phx.site:37001/mauro16/6hfkejm71/6804
