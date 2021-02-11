@@ -1473,16 +1473,16 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://imgur.com/C3M9AeJ.png",Euronews (PT)
-http://euronews-pt-p7-cdn.hexaglobe.net/bf5b4f6ca906f23746caaf73e5070f8e/6023cac1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
+http://euronews-pt-p9-cdn.hexaglobe.net/66cabc79e93803569d254361a823f762/60248fa1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24.br" tvg-name="France 24 (I)" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
+#EXTINF:-1 tvg-id="France24.br" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
-https://centurylink.br.cdn.booyah.live/hls/1000029/master_34850987.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000029/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -1494,10 +1494,10 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 1" tvg-logo="https://imgur.com/aNKdcHJ.png",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP 2" tvg-logo="https://imgur.com/laEwBv9.png",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?pxt_rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP INTERNACIONAL" tvg-logo="https://imgur.com/0G0WJaj.png",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
