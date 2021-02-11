@@ -1472,9 +1472,6 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="EURONEWS" tvg-logo="https://imgur.com/C3M9AeJ.png",Euronews (PT)
-http://euronews-pt-p9-cdn.hexaglobe.net/66cabc79e93803569d254361a823f762/60248fa1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="France24.br" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
@@ -1512,16 +1509,16 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIxIDEyOjA6NCBQTSZoYXNoX3ZhbHVlPUkrcnJ3ZWo5cnM5OEFxNGJ4OVljTUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMDcyYzAzMy0yNWZhLTRhZDMtYWY1OS1jMzgwOGIyNDczNDc=
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIxIDI6MDoxMyBBTSZoYXNoX3ZhbHVlPWF0OUQzZDZqTHNTNkNGUndpVGtNeWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zMWM3ZGFhZi1hNzk5LTQ1N2MtOTkwMy00ODc4YjA2ZDJhM2M=
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
-https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIxIDEyOjA6NSBQTSZoYXNoX3ZhbHVlPWdEQXJ1Smk5SUtKOXJFZ0MvbUMxOGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMGE3ZmYwNi0wYTRlLTRmYzItOGY2MS0wYzliYTU5YWJiYjc=
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIxIDI6MDoxMyBBTSZoYXNoX3ZhbHVlPUVwN1V0ZXNpNXZsQTJwVGwvNWhFNmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNmI5MzNjYy0wYzc2LTQzMDItYjBjNy1mOTEwMjQyNjRjOGY=
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-##RedeTV TO
-##https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
+#EXTINF:-1 ,Rai Movie HD
+https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie1/playlist_ma.m3u8?hdnea=st=1613074532~exp=1613074682~acl=/*~hmac=7934a29e09498cddafcae474dea31ac61d4ebc5d4d48c3adb98164f953972eae
 
 
 
