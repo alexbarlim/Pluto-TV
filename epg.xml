@@ -1,13 +1,783 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="98 Live">
-    <display-name lang="pt">98 Live</display-name>
-    <icon src="../canais/nuevelitoral.gif|../canais/eltrece.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.tvi.pt</url>
   </channel>
-  <channel id="CATVE">
-    <display-name lang="pt">CATVE</display-name>
-    <icon src="../canais/tvjockey.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="TVI24">
+    <display-name lang="pt">TVI24</display-name>
+    <url>http://www.tvi.pt</url>
   </channel>
+  <channel id="RTP1">
+    <display-name lang="en">RTP1</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP2">
+    <display-name lang="en">RTP2</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP3">
+    <display-name lang="en">RTP3</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP Memória">
+    <display-name lang="en">RTP Memória</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP África">
+    <display-name lang="en">RTP África</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP Internacional">
+    <display-name lang="en">RTP Internacional</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <programme start="20210212000000 +0000" stop="20210212020000 +0000" channel="TVI">
+    <title lang="pt">Big Brother</title>
+  </programme>
+  <programme start="20210212020000 +0000" stop="20210212022400 +0000" channel="TVI">
+    <title lang="pt">Big Brother</title>
+  </programme>
+  <programme start="20210212022400 +0000" stop="20210212030500 +0000" channel="TVI">
+    <title lang="pt">Urgências de Chicago</title>
+  </programme>
+  <programme start="20210212030500 +0000" stop="20210212035500 +0000" channel="TVI">
+    <title lang="pt">Circulatura do quadrado</title>
+  </programme>
+  <programme start="20210212035500 +0000" stop="20210212041500 +0000" channel="TVI">
+    <title lang="pt">Santa Bárbara</title>
+  </programme>
+  <programme start="20210212041500 +0000" stop="20210212054500 +0000" channel="TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20210212060500 +0000" stop="20210212063000 +0000" channel="TVI">
+    <title lang="pt">Curious George</title>
+  </programme>
+  <programme start="20210212063000 +0000" stop="20210212070000 +0000" channel="TVI">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20210212070000 +0000" stop="20210212101200 +0000" channel="TVI">
+    <title lang="pt">Esta manhã</title>
+  </programme>
+  <programme start="20210212101200 +0000" stop="20210212130000 +0000" channel="TVI">
+    <title lang="pt">Dois às 10</title>
+  </programme>
+  <programme start="20210212130000 +0000" stop="20210212145000 +0000" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20210212145000 +0000" stop="20210212154000 +0000" channel="TVI">
+    <title lang="pt">A Única Mulher</title>
+  </programme>
+  <programme start="20210212154000 +0000" stop="20210212161200 +0000" channel="TVI">
+    <title lang="pt">Destinos Cruzados</title>
+  </programme>
+  <programme start="20210212161200 +0000" stop="20210212181000 +0000" channel="TVI">
+    <title lang="pt">Goucha</title>
+  </programme>
+  <programme start="20210212181000 +0000" stop="20210212191000 +0000" channel="TVI">
+    <title lang="pt">Big Brother</title>
+  </programme>
+  <programme start="20210212191000 +0000" stop="20210212195700 +0000" channel="TVI">
+    <title lang="pt">Big Brother</title>
+  </programme>
+  <programme start="20210212195700 +0000" stop="20210212215500 +0000" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20210212215500 +0000" stop="20210212224500 +0000" channel="TVI">
+    <title lang="pt">Bem me Quer</title>
+  </programme>
+  <programme start="20210212224500 +0000" stop="20210213000000 +0000" channel="TVI">
+    <title lang="pt">Amar Demais</title>
+  </programme>
+  <programme start="20210212000000 +0000" stop="20210212020000 +0000" channel="TVI24">
+    <title lang="pt">Big Brother</title>
+  </programme>
+  <programme start="20210212020000 +0000" stop="20210212022400 +0000" channel="TVI24">
+    <title lang="pt">Big Brother</title>
+  </programme>
+  <programme start="20210212022400 +0000" stop="20210212030500 +0000" channel="TVI24">
+    <title lang="pt">Urgências de Chicago</title>
+  </programme>
+  <programme start="20210212030500 +0000" stop="20210212035500 +0000" channel="TVI24">
+    <title lang="pt">Circulatura do quadrado</title>
+  </programme>
+  <programme start="20210212035500 +0000" stop="20210212041500 +0000" channel="TVI24">
+    <title lang="pt">Santa Bárbara</title>
+  </programme>
+  <programme start="20210212041500 +0000" stop="20210212054500 +0000" channel="TVI24">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20210212060500 +0000" stop="20210212063000 +0000" channel="TVI24">
+    <title lang="pt">Curious George</title>
+  </programme>
+  <programme start="20210212063000 +0000" stop="20210212070000 +0000" channel="TVI24">
+    <title lang="pt">Diário da Manhã</title>
+  </programme>
+  <programme start="20210212070000 +0000" stop="20210212101200 +0000" channel="TVI24">
+    <title lang="pt">Esta manhã</title>
+  </programme>
+  <programme start="20210212101200 +0000" stop="20210212130000 +0000" channel="TVI24">
+    <title lang="pt">Dois às 10</title>
+  </programme>
+  <programme start="20210212130000 +0000" stop="20210212145000 +0000" channel="TVI24">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20210212145000 +0000" stop="20210212154000 +0000" channel="TVI24">
+    <title lang="pt">A Única Mulher</title>
+  </programme>
+  <programme start="20210212154000 +0000" stop="20210212161200 +0000" channel="TVI24">
+    <title lang="pt">Destinos Cruzados</title>
+  </programme>
+  <programme start="20210212161200 +0000" stop="20210212181000 +0000" channel="TVI24">
+    <title lang="pt">Goucha</title>
+  </programme>
+  <programme start="20210212181000 +0000" stop="20210212191000 +0000" channel="TVI24">
+    <title lang="pt">Big Brother</title>
+  </programme>
+  <programme start="20210212191000 +0000" stop="20210212195700 +0000" channel="TVI24">
+    <title lang="pt">Big Brother</title>
+  </programme>
+  <programme start="20210212195700 +0000" stop="20210212215500 +0000" channel="TVI24">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20210212215500 +0000" stop="20210212224500 +0000" channel="TVI24">
+    <title lang="pt">Bem me Quer</title>
+  </programme>
+  <programme start="20210212224500 +0000" stop="20210213000000 +0000" channel="TVI24">
+    <title lang="pt">Amar Demais</title>
+  </programme>
+  <programme start="20210212063000 +0000" stop="20210212100000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+  </programme>
+  <programme start="20210212100000 +0000" stop="20210212130000 +0000" channel="RTP1">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+  </programme>
+  <programme start="20210212130000 +0000" stop="20210212142400 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia.(n)</desc>
+  </programme>
+  <programme start="20210212142400 +0000" stop="20210212150600 +0000" channel="RTP1">
+    <title lang="en">Filha da Lei</title>
+    <desc lang="en">Filha da Lei, série criminal sobre uma Inspetora-Chefe e a investigação do caso policial mais importante ocorrido em Portugal nos últimos 20 anos.(n)</desc>
+  </programme>
+  <programme start="20210212150600 +0000" stop="20210212155900 +0000" channel="RTP1">
+    <title lang="en">Os Nossos Dias</title>
+    <desc lang="en">Um espelho dos nossos tempos e da nossa gente, com um registo dramático, alguma comédia e muita emoção!(n)</desc>
+  </programme>
+  <programme start="20210212155900 +0000" stop="20210212173000 +0000" channel="RTP1">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar.(n)</desc>
+  </programme>
+  <programme start="20210212173000 +0000" stop="20210212190800 +0000" channel="RTP1">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Dina Aguiar dá-lhe a conhecer tudo o que de mais importante se passa no país.(n)</desc>
+  </programme>
+  <programme start="20210212190800 +0000" stop="20210212195900 +0000" channel="RTP1">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No.(n)</desc>
+  </programme>
+  <programme start="20210212195900 +0000" stop="20210212210100 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00.(n)</desc>
+  </programme>
+  <programme start="20210212210100 +0000" stop="20210212214600 +0000" channel="RTP1">
+    <title lang="en">Sexta às 9</title>
+    <desc lang="en">Paraíso da Impunidade.(n)</desc>
+  </programme>
+  <programme start="20210212214600 +0000" stop="20210212224800 +0000" channel="RTP1">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 75.000 euros.(n)</desc>
+  </programme>
+  <programme start="20210212224800 +0000" stop="20210212234500 +0000" channel="RTP1">
+    <title lang="en">A Pereira da Tia Miséria</title>
+    <desc lang="en">Adaptação cinematográfica do conto popular.(n)</desc>
+  </programme>
+  <programme start="20210212234500 +0000" stop="20210213004300 +0000" channel="RTP1">
+    <title lang="en">Trovas Antigas, Saudade Louca</title>
+    <desc lang="en">Fados e Fadistas - Andam Cantigas a Bailar de Boca em Boca.(n)</desc>
+  </programme>
+  <programme start="20210212070000 +0000" stop="20210212070100 +0000" channel="RTP2">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos.(n)</desc>
+  </programme>
+  <programme start="20210212070100 +0000" stop="20210212070200 +0000" channel="RTP2">
+    <title lang="en">Banda Zig Zag</title>
+  </programme>
+  <programme start="20210212070200 +0000" stop="20210212072600 +0000" channel="RTP2">
+    <title lang="en">Wow! Wow! Wubbzy!</title>
+    <desc lang="en">Junta-te a Wubbzy e a todos os seus amigos de Wuzzleburg!(n)</desc>
+  </programme>
+  <programme start="20210212072600 +0000" stop="20210212073500 +0000" channel="RTP2">
+    <title lang="en">As Aventuras de Duarte, o Grande</title>
+    <desc lang="en">Apesar de pequeno, Duarte é um grande explorador!(n)</desc>
+  </programme>
+  <programme start="20210212073500 +0000" stop="20210212074900 +0000" channel="RTP2">
+    <title lang="en">Robocar Poli</title>
+    <desc lang="en">A nossa fantástica equipa de resgate vai viver novas aventuras e receber novos amigos!(n)</desc>
+  </programme>
+  <programme start="20210212074900 +0000" stop="20210212080200 +0000" channel="RTP2">
+    <title lang="en">Robocar Poli</title>
+    <desc lang="en">A nossa fantástica equipa de resgate vai viver novas aventuras e receber novos amigos!(n)</desc>
+  </programme>
+  <programme start="20210212080200 +0000" stop="20210212080500 +0000" channel="RTP2">
+    <title lang="en">Lengalongas</title>
+    <desc lang="en">Uma forma leve e bem humorada de aprender as noções elementares de contagem, medição, cálculo e geometria.(n)</desc>
+  </programme>
+  <programme start="20210212080500 +0000" stop="20210212081600 +0000" channel="RTP2">
+    <title lang="en">Pirata &amp; Capitão</title>
+    <desc lang="en">Não há nada melhor que ser pirata e capitão!(n)</desc>
+  </programme>
+  <programme start="20210212081600 +0000" stop="20210212082700 +0000" channel="RTP2">
+    <title lang="en">Pirata &amp; Capitão</title>
+    <desc lang="en">Não há nada melhor que ser pirata e capitão!(n)</desc>
+  </programme>
+  <programme start="20210212082700 +0000" stop="20210212083400 +0000" channel="RTP2">
+    <title lang="en">Grizzy e os Lemingues</title>
+    <desc lang="en">O urso Grizzy e os desmiolados Lemmingues estão de volta!(n)</desc>
+  </programme>
+  <programme start="20210212083400 +0000" stop="20210212084100 +0000" channel="RTP2">
+    <title lang="en">Grizzy e os Lemingues</title>
+    <desc lang="en">O urso Grizzy e os desmiolados Lemmingues estão de volta!(n)</desc>
+  </programme>
+  <programme start="20210212084100 +0000" stop="20210212085300 +0000" channel="RTP2">
+    <title lang="en">Vicky</title>
+    <desc lang="en">Não percas as novas aventuras de Vicky!(n)</desc>
+  </programme>
+  <programme start="20210212085300 +0000" stop="20210212090500 +0000" channel="RTP2">
+    <title lang="en">Vicky</title>
+    <desc lang="en">Não percas as novas aventuras de Vicky!(n)</desc>
+  </programme>
+  <programme start="20210212090500 +0000" stop="20210212091700 +0000" channel="RTP2">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">Toda a informação do mundo graúdo trocada por miúdos!(n)</desc>
+  </programme>
+  <programme start="20210212091700 +0000" stop="20210212092900 +0000" channel="RTP2">
+    <title lang="en">Ollie e Moon</title>
+    <desc lang="en">Ollie e Moon são dois gatos muito amigos que vivem e aprendem a aceitar as diferenças ao percorrer o mundo em grandes e divertiras aventuras.(n)</desc>
+  </programme>
+  <programme start="20210212092900 +0000" stop="20210212094000 +0000" channel="RTP2">
+    <title lang="en">Ollie e Moon</title>
+    <desc lang="en">Ollie e Moon são dois gatos muito amigos que vivem e aprendem a aceitar as diferenças ao percorrer o mundo em grandes e divertiras aventuras.(n)</desc>
+  </programme>
+  <programme start="20210212094000 +0000" stop="20210212095200 +0000" channel="RTP2">
+    <title lang="en">Waffle, o Cão Maravilha</title>
+  </programme>
+  <programme start="20210212095200 +0000" stop="20210212100400 +0000" channel="RTP2">
+    <title lang="en">Mundo das Palavras</title>
+    <desc lang="en">Imagina um lugar lindo onde as palavras ganham vida e os amigos das palavras são heróis todos os dias.(n)</desc>
+  </programme>
+  <programme start="20210212100400 +0000" stop="20210212101900 +0000" channel="RTP2">
+    <title lang="en">Mundo das Palavras</title>
+    <desc lang="en">Imagina um lugar lindo onde as palavras ganham vida e os amigos das palavras são heróis todos os dias.(n)</desc>
+  </programme>
+  <programme start="20210212101900 +0000" stop="20210212102600 +0000" channel="RTP2">
+    <title lang="en">Woolly e Tig</title>
+    <desc lang="en">Tig e Wolly são as maiores amigas!(n)</desc>
+  </programme>
+  <programme start="20210212102600 +0000" stop="20210212103400 +0000" channel="RTP2">
+    <title lang="en">Ioga para Crianças</title>
+    <desc lang="en">Uma série divertida com a qual as crianças tomarão contacto com o mundo mágico do ioga.(n)</desc>
+  </programme>
+  <programme start="20210212103400 +0000" stop="20210212104600 +0000" channel="RTP2">
+    <title lang="en">Peg e o Gato</title>
+    <desc lang="en">Com Peg e o seu gato aprender matemática é divertido!(n)</desc>
+  </programme>
+  <programme start="20210212104600 +0000" stop="20210212105800 +0000" channel="RTP2">
+    <title lang="en">Shane, O Chef</title>
+    <desc lang="en">Shane, o chef da pequenada!(n)</desc>
+  </programme>
+  <programme start="20210212105800 +0000" stop="20210212111000 +0000" channel="RTP2">
+    <title lang="en">Blinky Bill</title>
+    <desc lang="en">Blinky Bill é um ursinho simpático que ensina a lidar com o meio ambiente.(n)</desc>
+  </programme>
+  <programme start="20210212111000 +0000" stop="20210212112100 +0000" channel="RTP2">
+    <title lang="en">Mini Ninjas</title>
+    <desc lang="en">Histórias épicas... com um toque de humor Ninja!(n)</desc>
+  </programme>
+  <programme start="20210212112100 +0000" stop="20210212113200 +0000" channel="RTP2">
+    <title lang="en">Mini Ninjas</title>
+    <desc lang="en">Histórias épicas... com um toque de humor Ninja!(n)</desc>
+  </programme>
+  <programme start="20210212113200 +0000" stop="20210212115300 +0000" channel="RTP2">
+    <title lang="en">Nas Profundezas</title>
+    <desc lang="en">Vem conhecer os Nektons, uma família de incríveis exploradores subaquáticos que enfrentam criaturas surpreendentes, piratas perigosos e misteriosos guardiões!(n)</desc>
+  </programme>
+  <programme start="20210212115300 +0000" stop="20210212122000 +0000" channel="RTP2">
+    <title lang="en">Era Uma Vez... A Vida</title>
+    <desc lang="en">Era uma vez... uma viagem fantástica pelo nosso corpo!(n)</desc>
+  </programme>
+  <programme start="20210212122000 +0000" stop="20210212130500 +0000" channel="RTP2">
+    <title lang="en">Escola Noturna - Os Sonhos Nunca Dormem</title>
+    <desc lang="en">Série colombiana de 25 episódios que acompanha os dramas e paixões de oito estudantes do ensino nocturno convictos de que nunca é tarde para começar... porque os sonhos nunca dormem!(n)</desc>
+  </programme>
+  <programme start="20210212130500 +0000" stop="20210212133300 +0000" channel="RTP2">
+    <title lang="en">Esec-Tv</title>
+    <desc lang="en">Um programa cultural produzido por profissionais, alunos e estagiários da licenciatura em Comunicação Social.(n)</desc>
+  </programme>
+  <programme start="20210212133300 +0000" stop="20210212140000 +0000" channel="RTP2">
+    <title lang="en">Geração Cientista</title>
+    <desc lang="en">A nova geração de cientistas portugueses.(n)</desc>
+  </programme>
+  <programme start="20210212140000 +0000" stop="20210212150300 +0000" channel="RTP2">
+    <title lang="en">Sociedade Civil</title>
+    <desc lang="en">Rádios Regionais.(n)</desc>
+  </programme>
+  <programme start="20210212150300 +0000" stop="20210212153500 +0000" channel="RTP2">
+    <title lang="en">A Fé dos Homens</title>
+    <desc lang="en">As diversas confissões religiosas existentes em Portugal!(n)</desc>
+  </programme>
+  <programme start="20210212153500 +0000" stop="20210212160000 +0000" channel="RTP2">
+    <title lang="en">Indisciplinas</title>
+    <desc lang="en">A ciência no quotidiano individual e coletivo.(n)</desc>
+  </programme>
+  <programme start="20210212160000 +0000" stop="20210212165200 +0000" channel="RTP2">
+    <title lang="en">Ano Novo Chinês</title>
+    <desc lang="en">Por ocasião do Ano Novo Chinês, que se inicia a 16 de fevereiro, a RTP2 apresenta cinco documentários dedicados à cultura chinesa e às suas tradições e rituais.(n)</desc>
+  </programme>
+  <programme start="20210212165200 +0000" stop="20210212165300 +0000" channel="RTP2">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos.(n)</desc>
+  </programme>
+  <programme start="20210212165300 +0000" stop="20210212171600 +0000" channel="RTP2">
+    <title lang="en">Wow! Wow! Wubbzy!</title>
+    <desc lang="en">Junta-te a Wubbzy e a todos os seus amigos de Wuzzleburg!(n)</desc>
+  </programme>
+  <programme start="20210212171600 +0000" stop="20210212173000 +0000" channel="RTP2">
+    <title lang="en">Robocar Poli</title>
+    <desc lang="en">A nossa fantástica equipa de resgate vai viver novas aventuras e receber novos amigos!(n)</desc>
+  </programme>
+  <programme start="20210212173000 +0000" stop="20210212174200 +0000" channel="RTP2">
+    <title lang="en">Mundo das Palavras</title>
+    <desc lang="en">Imagina um lugar lindo onde as palavras ganham vida e os amigos das palavras são heróis todos os dias.(n)</desc>
+  </programme>
+  <programme start="20210212174200 +0000" stop="20210212175700 +0000" channel="RTP2">
+    <title lang="en">Mundo das Palavras</title>
+    <desc lang="en">Imagina um lugar lindo onde as palavras ganham vida e os amigos das palavras são heróis todos os dias.(n)</desc>
+  </programme>
+  <programme start="20210212175700 +0000" stop="20210212180900 +0000" channel="RTP2">
+    <title lang="en">Vicky</title>
+    <desc lang="en">Não percas as novas aventuras de Vicky!(n)</desc>
+  </programme>
+  <programme start="20210212180900 +0000" stop="20210212182100 +0000" channel="RTP2">
+    <title lang="en">Vicky</title>
+    <desc lang="en">Não percas as novas aventuras de Vicky!(n)</desc>
+  </programme>
+  <programme start="20210212182100 +0000" stop="20210212182800 +0000" channel="RTP2">
+    <title lang="en">Grizzy e os Lemingues</title>
+    <desc lang="en">O urso Grizzy e os desmiolados Lemmingues estão de volta!(n)</desc>
+  </programme>
+  <programme start="20210212182800 +0000" stop="20210212183100 +0000" channel="RTP2">
+    <title lang="en">Banda Zig Zag</title>
+    <desc lang="en">!(n)</desc>
+  </programme>
+  <programme start="20210212183100 +0000" stop="20210212185600 +0000" channel="RTP2">
+    <title lang="en">A Carrinha Mágica Volta à Estrada</title>
+    <desc lang="en">Vem conhecer o incrível mundo da ciência!(n)</desc>
+  </programme>
+  <programme start="20210212185600 +0000" stop="20210212190700 +0000" channel="RTP2">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">Toda a informação do mundo graúdo trocada por miúdos!(n)</desc>
+  </programme>
+  <programme start="20210212190700 +0000" stop="20210212191900 +0000" channel="RTP2">
+    <title lang="en">O Meu Cavaleiro e Eu</title>
+    <desc lang="en">Jimmy, Cat e Henri vão iluminar a Idade das Trevas!(n)</desc>
+  </programme>
+  <programme start="20210212191900 +0000" stop="20210212193000 +0000" channel="RTP2">
+    <title lang="en">O Meu Cavaleiro e Eu</title>
+    <desc lang="en">Jimmy, Cat e Henri vão iluminar a Idade das Trevas!(n)</desc>
+  </programme>
+  <programme start="20210212193000 +0000" stop="20210212194200 +0000" channel="RTP2">
+    <title lang="en">Bell e Sebastião</title>
+    <desc lang="en">Bell e Sebastião: a amizade pode mesmo mover montanhas!(n)</desc>
+  </programme>
+  <programme start="20210212194200 +0000" stop="20210212195500 +0000" channel="RTP2">
+    <title lang="en">Bell e Sebastião</title>
+    <desc lang="en">Bell e Sebastião: a amizade pode mesmo mover montanhas!(n)</desc>
+  </programme>
+  <programme start="20210212195500 +0000" stop="20210212200700 +0000" channel="RTP2">
+    <title lang="en">Max &amp; Maestro</title>
+    <desc lang="en">Max luta e ultrapassa todos os obstáculos para atingir o seu maior sonho: ser músico!(n)</desc>
+  </programme>
+  <programme start="20210212200700 +0000" stop="20210212201900 +0000" channel="RTP2">
+    <title lang="en">Max &amp; Maestro</title>
+    <desc lang="en">Max luta e ultrapassa todos os obstáculos para atingir o seu maior sonho: ser músico!(n)</desc>
+  </programme>
+  <programme start="20210212201900 +0000" stop="20210212203200 +0000" channel="RTP2">
+    <title lang="en">Conta Um Conto</title>
+    <desc lang="en">Vinte contos que promovem a Gentileza, a Inclusão e a Diversidade!(n)</desc>
+  </programme>
+  <programme start="20210212203200 +0000" stop="20210212203800 +0000" channel="RTP2">
+    <title lang="en">Banda Zig Zag</title>
+  </programme>
+  <programme start="20210212203800 +0000" stop="20210212213000 +0000" channel="RTP2">
+    <title lang="en">Antes de Colombo: Os Verdadeiros Descobridores da América</title>
+    <desc lang="en">A história dos aventureiros que pisaram as terras da América antes de Colombo.(n)</desc>
+  </programme>
+  <programme start="20210212213000 +0000" stop="20210212220100 +0000" channel="RTP2">
+    <title lang="en">Jornal 2</title>
+  </programme>
+  <programme start="20210212220100 +0000" stop="20210212220500 +0000" channel="RTP2">
+    <title lang="en">Folha de Sala</title>
+    <desc lang="en">Propostas de cultura em formato de agenda.  Todos os dias na RTP2.(n)</desc>
+  </programme>
+  <programme start="20210212220500 +0000" stop="20210212225300 +0000" channel="RTP2">
+    <title lang="en">O Dia</title>
+    <desc lang="en">Os dois lados de um crime numa série dramática belga de 12 episódios.(n)</desc>
+  </programme>
+  <programme start="20210212225300 +0000" stop="20210213010000 +0000" channel="RTP2">
+    <title lang="en">Verão</title>
+    <desc lang="en">Uma ode ao Rock´n´Roll num filme do cineasta russo Kirill Serebrennikov.(n)</desc>
+  </programme>
+  <programme start="20210212063000 +0000" stop="20210212083000 +0000" channel="RTP3">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+  </programme>
+  <programme start="20210212083000 +0000" stop="20210212084000 +0000" channel="RTP3">
+    <title lang="en">Mundo Automóvel</title>
+    <desc lang="en">Notícias do Mundo Automóvel.(n)</desc>
+  </programme>
+  <programme start="20210212084000 +0000" stop="20210212100000 +0000" channel="RTP3">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+  </programme>
+  <programme start="20210212100000 +0000" stop="20210212110000 +0000" channel="RTP3">
+    <title lang="en">3 às 10</title>
+    <desc lang="en">Informação de Portugal e do mundo.(n)</desc>
+  </programme>
+  <programme start="20210212110000 +0000" stop="20210212120000 +0000" channel="RTP3">
+    <title lang="en">3 às 11</title>
+    <desc lang="en">Notícias de Portugal e do mundo.(n)</desc>
+  </programme>
+  <programme start="20210212120000 +0000" stop="20210212130000 +0000" channel="RTP3">
+    <title lang="en">Jornal das 12</title>
+    <desc lang="en">Ao meio-dia as notícias de Portugal e do mundo.(n)</desc>
+  </programme>
+  <programme start="20210212130000 +0000" stop="20210212134000 +0000" channel="RTP3">
+    <title lang="en">Linha da Frente</title>
+    <desc lang="en">A grande reportagem que retrata todas as realidades!(n)</desc>
+  </programme>
+  <programme start="20210212134000 +0000" stop="20210212140000 +0000" channel="RTP3">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e seus autores.(n)</desc>
+  </programme>
+  <programme start="20210212140000 +0000" stop="20210212150000 +0000" channel="RTP3">
+    <title lang="en">3 às 14</title>
+    <desc lang="en">Informação de Portugal e do mundo.(n)</desc>
+  </programme>
+  <programme start="20210212150000 +0000" stop="20210212153000 +0000" channel="RTP3">
+    <title lang="en">3 às 15</title>
+    <desc lang="en">Informação de Portugal e do mundo.(n)</desc>
+  </programme>
+  <programme start="20210212153000 +0000" stop="20210212154500 +0000" channel="RTP3">
+    <title lang="en">Eixo Norte Sul</title>
+    <desc lang="en">A informação regional de norte a sul.(n)</desc>
+  </programme>
+  <programme start="20210212154500 +0000" stop="20210212160000 +0000" channel="RTP3">
+    <title lang="en">Zoom África</title>
+    <desc lang="en">Ligados a África... um continente em constante mudança.(n)</desc>
+  </programme>
+  <programme start="20210212160000 +0000" stop="20210212170000 +0000" channel="RTP3">
+    <title lang="en">3 às 16</title>
+    <desc lang="en">Informação durante a tarde.(n)</desc>
+  </programme>
+  <programme start="20210212170000 +0000" stop="20210212180000 +0000" channel="RTP3">
+    <title lang="en">3 às 17</title>
+    <desc lang="en">Informação durante a tarde.(n)</desc>
+  </programme>
+  <programme start="20210212180000 +0000" stop="20210212184500 +0000" channel="RTP3">
+    <title lang="en">18/20</title>
+    <desc lang="en">Com diretos e reportagens, mostramos-lhe o essencial do que já aconteceu e está a acontecer em cada fim de tarde.(n)</desc>
+  </programme>
+  <programme start="20210212184500 +0000" stop="20210212190000 +0000" channel="RTP3">
+    <title lang="en">As Horas Extraordinárias</title>
+    <desc lang="en">Magazine cultural da RTP 3.(n)</desc>
+  </programme>
+  <programme start="20210212190000 +0000" stop="20210212200000 +0000" channel="RTP3">
+    <title lang="en">18/20</title>
+    <desc lang="en">Com diretos e reportagens, mostramos-lhe o essencial do que já aconteceu e está a acontecer em cada fim de tarde.(n)</desc>
+  </programme>
+  <programme start="20210212200000 +0000" stop="20210212203000 +0000" channel="RTP3">
+    <title lang="en">Eurodeputados</title>
+    <desc lang="en">Os grandes temas que preocupam os cidadãos europeus em debate, semanalmente.(n)</desc>
+  </programme>
+  <programme start="20210212203000 +0000" stop="20210212210000 +0000" channel="RTP3">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e seus autores.(n)</desc>
+  </programme>
+  <programme start="20210212210000 +0000" stop="20210212220000 +0000" channel="RTP3">
+    <title lang="en">360º</title>
+    <desc lang="en">Os vários ângulos da Notícia.  Todos os dias às 21H00.(n)</desc>
+  </programme>
+  <programme start="20210212220000 +0000" stop="20210212230000 +0000" channel="RTP3">
+    <title lang="en">Janela Global</title>
+    <desc lang="en">A atualidade comentada por especialistas e moderação de Márcia Rodrigues.(n)</desc>
+  </programme>
+  <programme start="20210212230000 +0000" stop="20210212230500 +0000" channel="RTP3">
+    <title lang="en">3 às 23</title>
+    <desc lang="en">Síntese de notícias.(n)</desc>
+  </programme>
+  <programme start="20210212230500 +0000" stop="20210213000000 +0000" channel="RTP3">
+    <title lang="en">O Último Apaga a Luz</title>
+    <desc lang="en">A semana comentada com algum humor.(n)</desc>
+  </programme>
+  <programme start="20210212070000 +0000" stop="20210212074400 +0000" channel="RTP Memória">
+    <title lang="en">Os Nossos Dias</title>
+    <desc lang="en">Um espelho dos nossos tempos e da nossa gente, com um registo dramático, alguma comédia e muita emoção!(n)</desc>
+  </programme>
+  <programme start="20210212074400 +0000" stop="20210212081500 +0000" channel="RTP Memória">
+    <title lang="en">Cinzas</title>
+    <desc lang="en">A história de um homem rico com segredos irreveláveis.(n)</desc>
+  </programme>
+  <programme start="20210212081500 +0000" stop="20210212084400 +0000" channel="RTP Memória">
+    <title lang="en">Nós os Ricos</title>
+    <desc lang="en">Para quem acha que vida de rico é fácil.(n)</desc>
+  </programme>
+  <programme start="20210212084400 +0000" stop="20210212090000 +0000" channel="RTP Memória">
+    <title lang="en">Cuidado com a Língua!</title>
+  </programme>
+  <programme start="20210212090000 +0000" stop="20210212093000 +0000" channel="RTP Memória">
+    <title lang="en">Matemática - 1.º ano</title>
+    <desc lang="en">Módulo de Matemática para 1.º ano.(n)</desc>
+  </programme>
+  <programme start="20210212093000 +0000" stop="20210212100000 +0000" channel="RTP Memória">
+    <title lang="en">Orientação para Trabalho Autónomo - 1.º ao 4.º ano</title>
+    <desc lang="en">Módulo de Orientação para Trabalho Autónomo - 1.º ao 4.º ano.(n)</desc>
+  </programme>
+  <programme start="20210212100000 +0000" stop="20210212103000 +0000" channel="RTP Memória">
+    <title lang="en">Educação Física - 1.º ao 4.º ano</title>
+    <desc lang="en">Módulo de Educação Física do 1.º ao 4.º ano.(n)</desc>
+  </programme>
+  <programme start="20210212103000 +0000" stop="20210212110000 +0000" channel="RTP Memória">
+    <title lang="en">Estudo do Meio e Cidadania - 3.º e 4.º anos</title>
+    <desc lang="en">Módulo de Estudo do Meio e Cidadania para o 3.º e 4.º anos.(n)</desc>
+  </programme>
+  <programme start="20210212110000 +0000" stop="20210212113000 +0000" channel="RTP Memória">
+    <title lang="en">Inglês - 3.º e 4.º anos</title>
+    <desc lang="en">Módulo de Inglês para o 3.º e 4.º anos.(n)</desc>
+  </programme>
+  <programme start="20210212113000 +0000" stop="20210212120000 +0000" channel="RTP Memória">
+    <title lang="en">Matemática - 5.º e 6.º anos</title>
+    <desc lang="en">Módulo de Matemática para 5.º e 6.º anos.(n)</desc>
+  </programme>
+  <programme start="20210212120000 +0000" stop="20210212123000 +0000" channel="RTP Memória">
+    <title lang="en">História e Geografia de Portugal - 5.º e 6.º anos</title>
+    <desc lang="en">Módulo de História e Geografia de Portugal para 5.º e 6.º anos.(n)</desc>
+  </programme>
+  <programme start="20210212123000 +0000" stop="20210212130000 +0000" channel="RTP Memória">
+    <title lang="en">Orientação para Trabalho Autónomo - 5.º e 6.º anos</title>
+    <desc lang="en">Módulo de Orientação para Trabalho Autónomo para o 5.º e 6.º anos.(n)</desc>
+  </programme>
+  <programme start="20210212130000 +0000" stop="20210212133000 +0000" channel="RTP Memória">
+    <title lang="en">Educação Artística - 5.º ao 9.º ano</title>
+    <desc lang="en">Módulo de Educação Artística do 5.º ao 9.º ano.(n)</desc>
+  </programme>
+  <programme start="20210212133000 +0000" stop="20210212140000 +0000" channel="RTP Memória">
+    <title lang="en">Ciências Naturais e Cidadania - 7.º e 8.º anos</title>
+    <desc lang="en">Módulo de Ciências Naturais e Cidadania para 7.º e 8.º anos.(n)</desc>
+  </programme>
+  <programme start="20210212140000 +0000" stop="20210212143000 +0000" channel="RTP Memória">
+    <title lang="en">Português - 7.º e 8.º anos</title>
+    <desc lang="en">Módulo de Português para 7.º e 8.º anos.(n)</desc>
+  </programme>
+  <programme start="20210212143000 +0000" stop="20210212150000 +0000" channel="RTP Memória">
+    <title lang="en">Educação Física - 7.º ao 9.º ano</title>
+    <desc lang="en">Módulo de Educação Física pardo 7.º ao 9.º ano.(n)</desc>
+  </programme>
+  <programme start="20210212150000 +0000" stop="20210212153000 +0000" channel="RTP Memória">
+    <title lang="en">Espanhol II - 7.º ao 9.º ano</title>
+    <desc lang="en">Módulo de Espanhol II do 7.º ao 9.º ano.(n)</desc>
+  </programme>
+  <programme start="20210212153000 +0000" stop="20210212160000 +0000" channel="RTP Memória">
+    <title lang="en">Matemática - 9.º ano</title>
+    <desc lang="en">Módulo de Matemática para o 9.º ano.(n)</desc>
+  </programme>
+  <programme start="20210212160000 +0000" stop="20210212163000 +0000" channel="RTP Memória">
+    <title lang="en">Físico-Química - 9.º ano</title>
+    <desc lang="en">Módulo de Físico-Química para o 9.º ano.(n)</desc>
+  </programme>
+  <programme start="20210212163000 +0000" stop="20210212170000 +0000" channel="RTP Memória">
+    <title lang="en">Salvador</title>
+    <desc lang="en">Coragem, optimismo e integração de pessoas que marcam a diferença.(n)</desc>
+  </programme>
+  <programme start="20210212170000 +0000" stop="20210212175000 +0000" channel="RTP Memória">
+    <title lang="en">Desencontros</title>
+    <desc lang="en">Siga as investigações de uma Brigada da Polícia nesta novela envolvente.(n)</desc>
+  </programme>
+  <programme start="20210212175000 +0000" stop="20210212183000 +0000" channel="RTP Memória">
+    <title lang="en">Com a Verdade M´Enganas</title>
+    <desc lang="en">Para rever o concurso que foi das grandes apostas da programação de 1993.(n)</desc>
+  </programme>
+  <programme start="20210212183000 +0000" stop="20210212183500 +0000" channel="RTP Memória">
+    <title lang="en">A Música Portuguesa a Gostar Dela Própria</title>
+    <desc lang="en">Porque é importante a preservação da memória musical de um país.(n)</desc>
+  </programme>
+  <programme start="20210212183500 +0000" stop="20210212192400 +0000" channel="RTP Memória">
+    <title lang="en">Isto é o Agildo</title>
+    <desc lang="en">Série de humor e entretenimento apresentada pelo ator e humorista brasileiro Agildo Ribeiro.(n)</desc>
+  </programme>
+  <programme start="20210212192400 +0000" stop="20210212201000 +0000" channel="RTP Memória">
+    <title lang="en">Liga dos Últimos</title>
+    <desc lang="en">Um programa desportivo onde todos os que vão em último são as estrelas.(n)</desc>
+  </programme>
+  <programme start="20210212201000 +0000" stop="20210212210000 +0000" channel="RTP Memória">
+    <title lang="en">Magnum</title>
+    <desc lang="en">Tom Selleck é Magnum, um investigador privado no Havai.(n)</desc>
+  </programme>
+  <programme start="20210212210000 +0000" stop="20210212215000 +0000" channel="RTP Memória">
+    <title lang="en">Os Imortais</title>
+    <desc lang="en">Série baseada no filme Duelo Imortal, que segue as aventuras do imortal Duncan MacLeod na busca pelo Prémio.(n)</desc>
+  </programme>
+  <programme start="20210212215000 +0000" stop="20210212221500 +0000" channel="RTP Memória">
+    <title lang="en">Uma Família às Direitas</title>
+    <desc lang="en">Archie, Edith, Gloria e Mike são o rosto de.(n)</desc>
+  </programme>
+  <programme start="20210212221500 +0000" stop="20210212231000 +0000" channel="RTP Memória">
+    <title lang="en">Liberdade 21</title>
+    <desc lang="en">O dia-a-dia da.(n)</desc>
+  </programme>
+  <programme start="20210212231000 +0000" stop="20210213000000 +0000" channel="RTP Memória">
+    <title lang="en">Voo Directo - A Vida a 900 à Hora</title>
+    <desc lang="en">Quatro amigas, assistentes de bordo, que vivem entre Lisboa e Luanda, partilham segredos, problemas e alegrias.(n)</desc>
+  </programme>
+  <programme start="20210212060000 +0000" stop="20210212070000 +0000" channel="RTP África">
+    <title lang="en">Passou Voltou</title>
+  </programme>
+  <programme start="20210212070000 +0000" stop="20210212100000 +0000" channel="RTP África">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+  </programme>
+  <programme start="20210212100000 +0000" stop="20210212103100 +0000" channel="RTP África">
+    <title lang="en">África Global</title>
+    <desc lang="en">Os mais variados temas do continente africano, num magazine semanal.(n)</desc>
+  </programme>
+  <programme start="20210212103100 +0000" stop="20210212111000 +0000" channel="RTP África">
+    <title lang="en">Bastidores</title>
+    <desc lang="en">A curiosidade do telespectador em saber o que se passa atrás das câmaras...(n)</desc>
+  </programme>
+  <programme start="20210212111000 +0000" stop="20210212115300 +0000" channel="RTP África">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Perdoar é um Clássico.(n)</desc>
+  </programme>
+  <programme start="20210212115300 +0000" stop="20210212120900 +0000" channel="RTP África">
+    <title lang="en">Cuidado com a Língua!</title>
+    <desc lang="en">Ilha de Porto Santo.(n)</desc>
+  </programme>
+  <programme start="20210212120900 +0000" stop="20210212130000 +0000" channel="RTP África">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros.(n)</desc>
+  </programme>
+  <programme start="20210212130000 +0000" stop="20210212141700 +0000" channel="RTP África">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia.(n)</desc>
+  </programme>
+  <programme start="20210212141700 +0000" stop="20210212144900 +0000" channel="RTP África">
+    <title lang="en">Repórter África - 1ª Edição</title>
+    <desc lang="en">A atualidade africana e da diáspora.(n)</desc>
+  </programme>
+  <programme start="20210212144900 +0000" stop="20210212151800 +0000" channel="RTP África">
+    <title lang="en">Desconversando</title>
+  </programme>
+  <programme start="20210212151800 +0000" stop="20210212154800 +0000" channel="RTP África">
+    <title lang="en">Design PT</title>
+    <desc lang="en">Sena da Silva.(n)</desc>
+  </programme>
+  <programme start="20210212154800 +0000" stop="20210212160000 +0000" channel="RTP África">
+    <title lang="en">Zoom África</title>
+    <desc lang="en">Ligados a África... um continente em constante mudança.(n)</desc>
+  </programme>
+  <programme start="20210212160000 +0000" stop="20210212165600 +0000" channel="RTP África">
+    <title lang="en">Passou Voltou</title>
+  </programme>
+  <programme start="20210212165600 +0000" stop="20210212190000 +0000" channel="RTP África">
+    <title lang="en">Bem-vindos</title>
+  </programme>
+  <programme start="20210212190000 +0000" stop="20210212193000 +0000" channel="RTP África">
+    <title lang="en">Desconversando</title>
+  </programme>
+  <programme start="20210212193000 +0000" stop="20210212195900 +0000" channel="RTP África">
+    <title lang="en">Repórter África - 2ª Edição</title>
+    <desc lang="en">A atualidade africana e da diáspora.(n)</desc>
+  </programme>
+  <programme start="20210212195900 +0000" stop="20210212210200 +0000" channel="RTP África">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00.(n)</desc>
+  </programme>
+  <programme start="20210212210200 +0000" stop="20210212220300 +0000" channel="RTP África">
+    <title lang="en">Causa e Efeito</title>
+    <desc lang="en">A análise dos principais acontecimentos da semana!(n)</desc>
+  </programme>
+  <programme start="20210212220300 +0000" stop="20210212223300 +0000" channel="RTP África">
+    <title lang="en">Biosfera</title>
+    <desc lang="en">Histórias Que Nos Inspiram.(n)</desc>
+  </programme>
+  <programme start="20210212223300 +0000" stop="20210212230000 +0000" channel="RTP África">
+    <title lang="en">Portugueses Pelo Mundo</title>
+    <desc lang="en">Especial Luanda - Bruno Neto.(n)</desc>
+  </programme>
+  <programme start="20210212230000 +0000" stop="20210213000000 +0000" channel="RTP África">
+    <title lang="en">Músicas d´África</title>
+    <desc lang="en">A melhor música que se faz em África!(n)</desc>
+  </programme>
+  <programme start="20210212063000 +0000" stop="20210212100000 +0000" channel="RTP Internacional">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+  </programme>
+  <programme start="20210212100000 +0000" stop="20210212130000 +0000" channel="RTP Internacional">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+  </programme>
+  <programme start="20210212130000 +0000" stop="20210212141700 +0000" channel="RTP Internacional">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia.(n)</desc>
+  </programme>
+  <programme start="20210212141700 +0000" stop="20210212150100 +0000" channel="RTP Internacional">
+    <title lang="en">Filha da Lei</title>
+    <desc lang="en">Irreversível.(n)</desc>
+  </programme>
+  <programme start="20210212150100 +0000" stop="20210212155300 +0000" channel="RTP Internacional">
+    <title lang="en">Os Nossos Dias</title>
+    <desc lang="en">Um espelho dos nossos tempos e da nossa gente, com um registo dramático, alguma comédia e muita emoção!(n)</desc>
+  </programme>
+  <programme start="20210212155300 +0000" stop="20210212155900 +0000" channel="RTP Internacional">
+    <title lang="en">Memória Fotográfica</title>
+    <desc lang="en">Política Cultural.(n)</desc>
+  </programme>
+  <programme start="20210212155900 +0000" stop="20210212173000 +0000" channel="RTP Internacional">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar.(n)</desc>
+  </programme>
+  <programme start="20210212173000 +0000" stop="20210212190800 +0000" channel="RTP Internacional">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Dina Aguiar dá-lhe a conhecer tudo o que de mais importante se passa no país.(n)</desc>
+  </programme>
+  <programme start="20210212190800 +0000" stop="20210212195900 +0000" channel="RTP Internacional">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No.(n)</desc>
+  </programme>
+  <programme start="20210212195900 +0000" stop="20210212210100 +0000" channel="RTP Internacional">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00.(n)</desc>
+  </programme>
+  <programme start="20210212210100 +0000" stop="20210212214500 +0000" channel="RTP Internacional">
+    <title lang="en">Sexta às 9</title>
+    <desc lang="en">Jornalismo de investigação com a devida isenção!(n)</desc>
+  </programme>
+  <programme start="20210212214500 +0000" stop="20210212224500 +0000" channel="RTP Internacional">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 75.000 euros.(n)</desc>
+  </programme>
+  <programme start="20210212224500 +0000" stop="20210212232700 +0000" channel="RTP Internacional">
+    <title lang="en">Histórias do Fado</title>
+    <desc lang="en">Nova Vaga: Gaspar Varela, João Filipe e Teresinha Landeiro.(n)</desc>
+  </programme>
+  <programme start="20210212232700 +0000" stop="20210212235300 +0000" channel="RTP Internacional">
+    <title lang="en">Peixe Fora d´Água</title>
+    <desc lang="en">Pena de Vida.(n)</desc>
+  </programme>
+  <programme start="20210212235300 +0000" stop="20210213000000 +0000" channel="RTP Internacional">
+    <title lang="en">Memória Fotográfica</title>
+    <desc lang="en">Refugiados 1936 -1945.(n)</desc>
+  </programme>
 </tv>

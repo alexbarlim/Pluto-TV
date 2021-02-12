@@ -1490,13 +1490,13 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! SP
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP 1" tvg-logo="https://imgur.com/aNKdcHJ.png",RTP 1
+#EXTINF:-1 group-title="TV" tvg-id="RTP1" tvg-logo="https://imgur.com/aNKdcHJ.png",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP 2" tvg-logo="https://imgur.com/laEwBv9.png",RTP 2
+#EXTINF:-1 group-title="TV" tvg-id="RTP2" tvg-logo="https://imgur.com/laEwBv9.png",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP INTERNACIONAL" tvg-logo="https://imgur.com/0G0WJaj.png",RTP Internacional
+#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="https://imgur.com/0G0WJaj.png",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV",TV Alternativa (TV Gazeta MA)
