@@ -32,6 +32,10 @@
     <display-name lang="en">RTP Internacional</display-name>
     <url>http://www.rpt.pt</url>
   </channel>
+  <channel id="FRANCE 24">
+    <display-name lang="pt">FRANCE 24</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
   <programme start="20210212000000 +0000" stop="20210212020000 +0000" channel="TVI">
     <title lang="pt">Big Brother</title>
   </programme>
@@ -779,5 +783,237 @@
   <programme start="20210212235300 +0000" stop="20210213000000 +0000" channel="RTP Internacional">
     <title lang="en">Memória Fotográfica</title>
     <desc lang="en">Refugiados 1936 -1945.(n)</desc>
+  </programme>
+    <programme start="20210212070000 +0000" stop="20210212070100 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212070100 +0000" stop="20210212070200 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+  </programme>
+  <programme start="20210212070200 +0000" stop="20210212072600 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212072600 +0000" stop="20210212073500 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212073500 +0000" stop="20210212074900 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212074900 +0000" stop="20210212080200 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212080200 +0000" stop="20210212080500 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212080500 +0000" stop="20210212081600 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212081600 +0000" stop="20210212082700 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212082700 +0000" stop="20210212083400 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212083400 +0000" stop="20210212084100 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212084100 +0000" stop="20210212085300 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212085300 +0000" stop="20210212090500 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212090500 +0000" stop="20210212091700 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212091700 +0000" stop="20210212092900 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212092900 +0000" stop="20210212094000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212094000 +0000" stop="20210212095200 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+  </programme>
+  <programme start="20210212095200 +0000" stop="20210212100400 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212100400 +0000" stop="20210212101900 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212101900 +0000" stop="20210212102600 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212102600 +0000" stop="20210212103400 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212103400 +0000" stop="20210212104600 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212104600 +0000" stop="20210212105800 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212105800 +0000" stop="20210212111000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212111000 +0000" stop="20210212112100 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212112100 +0000" stop="20210212113200 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212113200 +0000" stop="20210212115300 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212115300 +0000" stop="20210212122000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212122000 +0000" stop="20210212130500 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212130500 +0000" stop="20210212133300 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212133300 +0000" stop="20210212140000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212140000 +0000" stop="20210212150300 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212150300 +0000" stop="20210212153500 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212153500 +0000" stop="20210212160000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212160000 +0000" stop="20210212165200 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212165200 +0000" stop="20210212165300 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212165300 +0000" stop="20210212171600 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212171600 +0000" stop="20210212173000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212173000 +0000" stop="20210212174200 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212174200 +0000" stop="20210212175700 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212175700 +0000" stop="20210212180900 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212180900 +0000" stop="20210212182100 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212182100 +0000" stop="20210212182800 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212182800 +0000" stop="20210212183100 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212183100 +0000" stop="20210212185600 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212185600 +0000" stop="20210212190700 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212190700 +0000" stop="20210212191900 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212191900 +0000" stop="20210212193000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212193000 +0000" stop="20210212194200 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212194200 +0000" stop="20210212195500 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212195500 +0000" stop="20210212200700 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212200700 +0000" stop="20210212201900 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212201900 +0000" stop="20210212203200 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212203200 +0000" stop="20210212203800 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+  </programme>
+  <programme start="20210212203800 +0000" stop="20210212213000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212213000 +0000" stop="20210212220100 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+  </programme>
+  <programme start="20210212220100 +0000" stop="20210212220500 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212220500 +0000" stop="20210212225300 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
+  </programme>
+  <programme start="20210212225300 +0000" stop="20210213010000 +0000" channel="FRANCE 24">
+    <title lang="en">FRANCE 24</title>
+    <desc lang="en">FRANCE 24</desc>
   </programme>
 </tv>
