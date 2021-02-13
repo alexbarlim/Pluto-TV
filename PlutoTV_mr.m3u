@@ -1831,8 +1831,11 @@ http://srv.maxptv.net:8080/Liza/1234/232
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central" tvg-logo="https://imgur.com/HIZwxu3.png" group-title="Temporário",Comedy Central HD
 http://srv.maxptv.net:8080/Liza/1234/199
 
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Temporário",VH1 HD
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Música",VH1 HD
 http://srv.p2phx.site:37001/mauro16/6hfkejm71/6804
+
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/kdXnBlZ.png" group-title="Música",VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
 
