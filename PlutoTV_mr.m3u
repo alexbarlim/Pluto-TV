@@ -1481,6 +1481,9 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
 https://akamai2-br.cdn.booyah.live/hls/1000029/master_34850987.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="RaiNews24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
@@ -1491,7 +1494,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP1" tvg-logo="https://imgur.com/aNKdcHJ.png",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?pxt_rtp
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP2" tvg-logo="https://imgur.com/laEwBv9.png",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
@@ -1509,16 +1512,14 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIxIDI6MDoxMyBBTSZoYXNoX3ZhbHVlPWF0OUQzZDZqTHNTNkNGUndpVGtNeWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zMWM3ZGFhZi1hNzk5LTQ1N2MtOTkwMy00ODc4YjA2ZDJhM2M=
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIxIDEyOjA6NCBQTSZoYXNoX3ZhbHVlPUkrcnJ3ZWo5cnM5OEFxNGJ4OVljTUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMDcyYzAzMy0yNWZhLTRhZDMtYWY1OS1jMzgwOGIyNDczNDc=
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
-https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIxIDI6MDoxMyBBTSZoYXNoX3ZhbHVlPUVwN1V0ZXNpNXZsQTJwVGwvNWhFNmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNmI5MzNjYy0wYzc2LTQzMDItYjBjNy1mOTEwMjQyNjRjOGY=
+https://video-auth8.iol.pt/live_edge/tvi24_abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDEyOjI3OjIxIFBNJmhhc2hfdmFsdWU9eWdyZHFWc29qYkhBUFFucmlWZDJiZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiMjQ4N2JiLTYwZTctNGMxNC05ZDZiLWM3Nzg5ZGFjN2FkMg==
+
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
-
-#EXTINF:-1 ,Rai Movie HD
-https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie1/playlist_ma.m3u8?hdnea=st=1613074532~exp=1613074682~acl=/*~hmac=7934a29e09498cddafcae474dea31ac61d4ebc5d4d48c3adb98164f953972eae
 
 
 
