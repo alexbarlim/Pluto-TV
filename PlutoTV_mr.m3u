@@ -1494,13 +1494,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP1" tvg-logo="https://imgur.com/aNKdcHJ.png",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?pxt_rtp
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP2" tvg-logo="https://imgur.com/laEwBv9.png",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RTP Internacional" tvg-logo="https://imgur.com/0G0WJaj.png",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
+http://stream.angels.red:80/539058/3c0ecb/45954
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV",TV Alternativa (TV Gazeta MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
@@ -1512,22 +1506,22 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIxIDEyOjA6NCBQTSZoYXNoX3ZhbHVlPUkrcnJ3ZWo5cnM5OEFxNGJ4OVljTUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMDcyYzAzMy0yNWZhLTRhZDMtYWY1OS1jMzgwOGIyNDczNDc=
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDQ6MDozIFBNJmhhc2hfdmFsdWU9ejV5MldyKzkwZ05nejdiQ2NLQndqUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVjMWYzN2MzLTUwZmEtNGE0MS04NmNiLTdmNGRjYWZjZDlhYQ==
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
-https://video-auth8.iol.pt/live_edge/tvi24_abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIxIDEyOjI3OjIxIFBNJmhhc2hfdmFsdWU9eWdyZHFWc29qYkhBUFFucmlWZDJiZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiMjQ4N2JiLTYwZTctNGMxNC05ZDZiLWM3Nzg5ZGFjN2FkMg==
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDQ6MDozIFBNJmhhc2hfdmFsdWU9ckowWk9xME5xWE1FRVVVVHZtWU54UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVjZTY3ZDg3LTM2M2EtNDJhNS04YzY1LTJlNmI3NDBmOTY4Zg==
 
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
+#EXTINF:-1 tvg-shift="0" group-title="TV",Rai movie
+https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie1/playlist_ma.m3u8?hdnea=st=1613325515~exp=1613325665~acl=/*~hmac=88bcedf300eba1dab072a096ff4d223dc128b11d50b14108af750e1596c6127b
 
 
 ############################### RADIOS ################################################
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/h5QDYpR.png" group-title="Rádios",Estação Coca Cola
-http://srv.maxptv.net:8080/Liza/1234/13085
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bVpeZUU.png" group-title="Rádios",On FM 93.8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
