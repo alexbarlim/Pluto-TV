@@ -1511,12 +1511,9 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
 https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDQ6MDozIFBNJmhhc2hfdmFsdWU9ckowWk9xME5xWE1FRVVVVHZtWU54UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVjZTY3ZDg3LTM2M2EtNDJhNS04YzY1LTJlNmI3NDBmOTY4Zg==
 
-
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="0" group-title="TV",Rai movie
-https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie1/playlist_ma.m3u8?hdnea=st=1613325515~exp=1613325665~acl=/*~hmac=88bcedf300eba1dab072a096ff4d223dc128b11d50b14108af750e1596c6127b
 
 
 ############################### RADIOS ################################################
