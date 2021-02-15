@@ -1819,13 +1819,16 @@ http://srv.maxptv.net:8080/Liza/1234/195
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Rn4yVJt.png" group-title="Temporário",Animal Planet
 http://srv.maxptv.net:8080/Liza/1234/232
 
+#EXTINF:-1 tvg-id="Lovenature.br" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central" tvg-logo="https://imgur.com/HIZwxu3.png" group-title="Temporário",Comedy Central HD
 http://srv.maxptv.net:8080/Liza/1234/199
 
 #EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Música",VH1 HD
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32302
 
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/kdXnBlZ.png" group-title="Música",VH1 Italia
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/kdXnBlZ.png" group-title="Música",VH1 Itália
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
