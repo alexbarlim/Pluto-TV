@@ -1479,7 +1479,7 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
-https://centurylink.br.cdn.booyah.live/hls/1000026/34850987_1080.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000005/master_34850987.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="RaiNews24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
@@ -1506,10 +1506,10 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDQ6MDozIFBNJmhhc2hfdmFsdWU9ejV5MldyKzkwZ05nejdiQ2NLQndqUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVjMWYzN2MzLTUwZmEtNGE0MS04NmNiLTdmNGRjYWZjZDlhYQ==
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MDo1IFBNJmhhc2hfdmFsdWU9WWgyclpvTXl3SDh6L1VlWWR1TXU0dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFiMmFjNDc3LTUwYzMtNDdlZi1hZjQwLTcyNWZmOWJmMWI4OA==
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
-https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIxIDQ6MDozIFBNJmhhc2hfdmFsdWU9ckowWk9xME5xWE1FRVVVVHZtWU54UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVjZTY3ZDg3LTM2M2EtNDJhNS04YzY1LTJlNmI3NDBmOTY4Zg==
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MDo1IFBNJmhhc2hfdmFsdWU9Y0NvWXRTRHpoaUpsMGlhemR4Nnlpdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU3ODE5Zjc5LWQyNzYtNGEyNi1hOWMyLWFiNTNmYjUwYWMyZA==
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
