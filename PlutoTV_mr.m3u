@@ -1533,18 +1533,19 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MDo1IFBNJmhhc2hfdmFsdWU9WWgyclpvTXl3SDh6L1VlWWR1TXU0dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFiMmFjNDc3LTUwYzMtNDdlZi1hZjQwLTcyNWZmOWJmMWI4OA==
+http://vpnbr.top:80/539058/3c0ecb/45945
 
 #EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
-https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MDo1IFBNJmhhc2hfdmFsdWU9Y0NvWXRTRHpoaUpsMGlhemR4Nnlpdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU3ODE5Zjc5LWQyNzYtNGEyNi1hOWMyLWFiNTNmYjUwYWMyZA==
+http://vpnbr.top:80/539058/3c0ecb/45938
+
+#EXTINF:-1 group-title="TV" tvg-id="TVI Reality" tvg-logo="https://imgur.com/D4ck13j.png",TVI Reality
+http://vpnbr.top/539058/3c0ecb/45822
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV" tvg-logo="https://imgur.com/C7oiPey.png" tvg-shift="0" group-title="TV",Fish TV 
-http://rec2.distv.net:80/plinio/123/146
-
-
+#########EXTINF:-1 tvg-id="Fishtv.br" tvg-name="TV" tvg-logo="https://imgur.com/C7oiPey.png" tvg-shift="0" group-title="TV",TV 
+#####http://vpnbr.top:80/539058/3c0ecb/45950
 
 ############################### RADIOS ################################################
 
@@ -1839,6 +1840,9 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+
+#EXTINF:0 tvg-id="Nickelodeon.br" tvg-logo="https://i.imgur.com/bTHozRe.png" group-title="Temporário",Nickelodeon
+http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/14259
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID: Investigação Discovery" tvg-logo="https://imgur.com/F7FylcY.png" group-title="Temporário",ID: Investigação Discovery
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32706
