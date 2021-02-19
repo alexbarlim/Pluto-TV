@@ -1625,6 +1625,9 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="RaiNews24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
@@ -1633,9 +1636,6 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
 https://akamai2-br.cdn.booyah.live/hls/1000005/master_34850987.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="RaiNews24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -1649,9 +1649,6 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! SP
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTP1" tvg-logo="https://imgur.com/aNKdcHJ.png",RTP 1
-http://stream.angels.red:80/539058/3c0ecb/45954
-
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV",TV Alternativa (TV Gazeta MA)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
@@ -1661,20 +1658,9 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="TV",TV Brasil Oeste (Rede Brasil)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVI" tvg-logo="https://m3upt.com/logos/TVI.png",TVI
-http://vpnbr.top:80/539058/3c0ecb/45945
-
-#EXTINF:-1 group-title="TV" tvg-id="TVI24" tvg-logo="https://m3upt.com/logos/TVI24.png",TVI 24
-http://vpnbr.top:80/539058/3c0ecb/45938
-
-#EXTINF:-1 group-title="TV" tvg-id="TVI Reality" tvg-logo="https://imgur.com/D4ck13j.png",TVI Reality
-http://vpnbr.top/539058/3c0ecb/45822
-
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
-#########EXTINF:-1 tvg-id="Fishtv.br" tvg-name="TV" tvg-logo="https://imgur.com/C7oiPey.png" tvg-shift="0" group-title="TV",TV 
-#####http://vpnbr.top:80/539058/3c0ecb/45950
 
 ############################### RADIOS ################################################
 
