@@ -539,7 +539,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600169ec77e6f70008f
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d4fa3-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=915d133d-7cd6-46da-85e4-bf15436bced1&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="mtv-love-music-es" tvg-logo="http://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png" group-title="Pluto TV Espanha", MTV Love Music
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=b5e9880a-9053-4108-9b38-7e142ada9f94&clientModelNumber=na&deviceDNT=false&deviceId=b5e9880a-9053-4108-9b38-7e142ada9f94&deviceLat=37.4783&deviceLon=-5.9120&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=7a0f2327-7300-11eb-b762-0242ac110002&sid=7a0f2327-7300-11eb-b762-0242ac110002&userId=
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d4fa4-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f32a8bd-6ad6-4703-a881-9a6f3b82382e&userId=&serverSideAds=true
 
 ####
 
@@ -1635,7 +1635,7 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
-https://akamai2-br.cdn.booyah.live/hls/1000005/master_34850987.m3u8
+https://aws-br.cdn.booyah.live/hls/1000029/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -1932,10 +1932,13 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://imgur.com/CTlYPLe.png" group-title="Temporário",Band Sports
 http://dns.velox4k.tech:2082/6893910914/6615263741/6919
 
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox" tvg-logo="https://imgur.com/EpOqPQQ.png" group-title="Temporário",Fox
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/148
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="Fx" tvg-logo="https://imgur.com/mFInDsE.png" group-title="Temporário",FX
+http://srvx.io:80/live/7885037935/fireurl.co/71966.ts
 
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life" tvg-logo="https://imgur.com/VtqFu5K.png" group-title="Temporário",Fox Life
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox" tvg-logo="https://imgur.com/y0NcIOw.png" group-title="Temporário",Star Channel
+http://srvx.io:80/live/7885037935/fireurl.co/71936.ts
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life" tvg-logo="https://imgur.com/y26RNv3.png" group-title="Temporário",Star Life
 http://hmtvhd.life:80/paixao321/paixao123/45
 
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast HD" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast HD
@@ -2648,8 +2651,7 @@ https://archive.org/download/xena-a-princesa-guerreira/ep24.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Ceia dos Veteranos
 https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20%20A%20CEIA%20DOS%20VETERANOS.mp4
-           https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.avi
-
+         
 #EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Herança Assombrada
 https://archive.org/download/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4
 
