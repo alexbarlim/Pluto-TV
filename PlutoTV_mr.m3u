@@ -1660,6 +1660,12 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/p
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="TV" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://imgur.com/wKXNNQe.png",TV ZOOM
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+
 
 ############################### RADIOS ################################################
 
@@ -1759,8 +1765,8 @@ http://stm1.xcast.com.br:7882/;
 ################################ MUSICA ######################################
 
 
-#EXTINF:-1 tvg-id="1HD Music" tvg-logo="https://imgur.com/iFKAgBp.png" group-title="Música",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="Música",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/K9Bgg9r.png" group-title="Música",Retrô Music
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
@@ -1770,9 +1776,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/SccwMTM.png" group-title="Música",RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Spirit TV" tvg-name="Spirit TV" tvg-logo="https://imgur.com/j2Xxgsr.png" group-title="Música",Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="75709" tvg-name="Retro Plus TV" tvg-logo="https://imgur.com/BDC3ggR.png" group-title="Música",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -1789,14 +1792,6 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:-1 tvg-id="114051" tvg-name="Teleplay" tvg-logo="https://imgur.com/HPKVdp0.png" group-title="Música",Teleplay
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/d6Hq3HJ.png" group-title="Música",M2O
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/et4L5VE.png" group-title="Música",Ocko Star
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FS9Tz0j.png" group-title="Música",Greatest Hits TV
-https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 
 
 ############################### WEB TV ######################################
@@ -1849,6 +1844,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 #EXTINF:-1 tvg-id="Summer TV" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="WebTV",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
+
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://i.imgur.com/ejp65zr.png",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 
 #EXTINF:-1 tvg-name="TV Clássicos" tvg-logo="https://imgur.com/60rkuA8.png" tvg-shift="0" group-title="WebTV",TV Clássicos
 https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
