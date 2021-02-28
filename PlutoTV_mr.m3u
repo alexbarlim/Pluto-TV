@@ -1922,7 +1922,7 @@ http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/14259
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32706
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/hZYNKo9.png" group-title="Temporário",Discovery Channel
-http://srv.maxptv.net:8080/Liza/1234/195
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/71862.ts
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Rn4yVJt.png" group-title="Temporário",Animal Planet
 http://srv.maxptv.net:8080/Liza/1234/232
