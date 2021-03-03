@@ -1801,6 +1801,7 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 ############################### WEB TV ######################################
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/3egKWgV.png" group-title="WebTV",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
@@ -1824,6 +1825,9 @@ https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_
 
 #EXTINF:-1 tvg-name="TV Clássicos" tvg-logo="https://imgur.com/60rkuA8.png" tvg-shift="0" group-title="WebTV",TV Clássicos
 https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" tvg-shift="0" group-title="WebTV",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Via Morena" tvg-name="TV Via Morena" tvg-logo="https://imgur.com/g3TwbPa.png" group-title="WebTV",TV Via Morena
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
