@@ -1670,7 +1670,7 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
-https://aws-br.cdn.booyah.live/hls/1000001/master_34850987.m3u8
+https://aws-br.cdn.booyah.live/hls/1000003/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -1864,6 +1864,9 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 ############################### TEMPORARIO ########################################
 
+
+#EXTINF:-1 tvg-id="Zeemundo" tvg-logo="https://imgur.com/atMDyi9.png" group-title="Temporário",Zee Mundo
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1615118262-now.m3u8
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
