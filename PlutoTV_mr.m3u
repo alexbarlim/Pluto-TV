@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,http://www.m3u.cl/epg/m3u.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml,https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/epg/epgbr.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://abre.ai/suaepg,https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/epg/epgbr.xml"
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA 100% GRATUITA!
 http://0.0.0.0
