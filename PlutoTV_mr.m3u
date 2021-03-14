@@ -1879,6 +1879,8 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 ############################### TEMPORARIO ########################################
 
+#EXTINF:-1 tvg-id="Prendetv" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Prende TV
+https://dice-live-us.akamaized.net/ads-257/op-257/linear/hls/pa/event/hePPXYijS0-xHLzuyOHvOw/stream/8472ba53-837b-4ea5-aee2-36d5bf4fa9dd:MRN2/master.m3u8?hdnea=st=1615750571~exp=1615750871~acl=*~id=b6117f95-7428-46a3-9b18-3f1603e368a5~hmac=f6b1486e8597f8ba9e6df9e55173c2450a954756f003bad03d13d0263e9c6c1f
 
 #EXTINF:-1 tvg-id="Zeemundo" tvg-logo="https://imgur.com/atMDyi9.png" group-title="Temporário",Zee Mundo
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1615118262-now.m3u8
