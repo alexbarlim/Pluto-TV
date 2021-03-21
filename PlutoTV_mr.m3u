@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA 100% GRATUITA!
 http://0.0.0.0
 
+############################### NOVIDADES #####################################
+
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Novidades",Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:0 channel-id="paramount-apresenta" tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Novidades", Paramount+ Apresenta
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
+
+
 ####
 
 #EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="Pluto TV Brasil", Guia de Canais
@@ -1682,7 +1691,7 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
-https://centurylink.br.cdn.booyah.live/hls/1000021/master_34850987.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000029/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -1693,8 +1702,8 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! SP
-http://177.20.208.58:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
@@ -1879,11 +1888,6 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 ############################### TEMPORARIO ########################################
 
-#EXTINF:-1 tvg-id="Prendetv" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Prende TV
-https://dice-live-us.akamaized.net/ads-257/op-257/linear/hls/pa/event/hePPXYijS0-xHLzuyOHvOw/stream/8472ba53-837b-4ea5-aee2-36d5bf4fa9dd:MRN2/master.m3u8?hdnea=st=1615750571~exp=1615750871~acl=*~id=b6117f95-7428-46a3-9b18-3f1603e368a5~hmac=f6b1486e8597f8ba9e6df9e55173c2450a954756f003bad03d13d0263e9c6c1f
-
-#EXTINF:-1 tvg-id="Zeemundo" tvg-logo="https://imgur.com/atMDyi9.png" group-title="Temporário",Zee Mundo
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1615118262-now.m3u8
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="Temporário",ESPN BRASIL HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
@@ -1921,26 +1925,8 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://imgur.com/CTlYPLe.png" group-title="Temporário",Band Sports
 http://dns.velox4k.tech:2082/6893910914/6615263741/6919
 
-#EXTINF:-1 tvg-id="A&e.br" tvg-name="A&E" tvg-logo="https://imgur.com/HOI8uYw.png" group-title="Temporário",A&E
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/71762.ts
-
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="Fx" tvg-logo="https://imgur.com/mFInDsE.png" group-title="Temporário",FX
-http://srvx.io:80/live/7885037935/fireurl.co/71966.ts
-
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox" tvg-logo="https://imgur.com/y0NcIOw.png" group-title="Temporário",Star Channel
-http://srvx.io:80/live/7885037935/fireurl.co/71936.ts
-
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life" tvg-logo="https://imgur.com/y26RNv3.png" group-title="Temporário",Star Life
-http://hmtvhd.life:80/paixao321/paixao123/45
-
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast HD" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast HD
-http://srv.maxptv.net:8080/Liza/1234/17
-
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast SD
-http://dns.velox4k.tech:2082/6893910914/6615263741/4256
-
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="https://imgur.com/Kl7lEMA.png" group-title="Temporário",Cartoon Network
-http://srv.maxptv.net:8080/Liza/1234/524
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
@@ -1948,25 +1934,16 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="Temporário",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-
-#EXTINF:0 tvg-id="Nickelodeon.br" tvg-logo="https://i.imgur.com/bTHozRe.png" group-title="Temporário",Nickelodeon
-http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/14259
-
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID: Investigação Discovery" tvg-logo="https://imgur.com/F7FylcY.png" group-title="Temporário",ID: Investigação Discovery
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32706
-
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel" tvg-logo="https://imgur.com/hZYNKo9.png" group-title="Temporário",Discovery Channel
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/71862.ts
-
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://imgur.com/Rn4yVJt.png" group-title="Temporário",Animal Planet
-http://srv.maxptv.net:8080/Liza/1234/232
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast
+http://dns.velox4k.tech:2082/6893910914/6615263741/4256
 
 #EXTINF:-1 tvg-id="Lovenature.br" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Rádios/Música",VH1 HD
+#EXTINF:-1 tvg-id="Zeemundo" tvg-logo="https://imgur.com/atMDyi9.png" group-title="Temporário",Zee Mundo
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/index-1615118262-now.m3u8
+
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="V#H1 HD" tvg-logo="https://imgur.com/wKTLCms.png" group-title="Rádios/Música",VH1
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32302
 
 #EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/kdXnBlZ.png" group-title="Rádios/Música",VH1 Itália
