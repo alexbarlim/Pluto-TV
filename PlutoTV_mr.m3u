@@ -1705,12 +1705,12 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
-https://verizon.br.cdn.booyah.live/hls/1000029/master_34850987.m3u8
+https://aws.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/DRMRf6R.png" tvg-shift="0" group-title="TV",Record News
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/tHULHYY.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="TV",RecordTV
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/P99rwac.png" tvg-shift="0" group-title="TV",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV",Rede Brasil
@@ -1718,6 +1718,9 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 tvg-id="Redemetropole.br" group-title="TV" tvg-logo="https://imgur.com/7g9YNdW.png",Rede Metrópole
+http://187.33.200.235:9000/hls/redemetropole.m3u8
 
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
@@ -1740,6 +1743,8 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" group-title="TV" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tv8.br" group-title="TV" tvg-logo="https://imgur.com/IGLjJzf.png",TV8 Brasil
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 
 ############################### RADIOS ################################################
@@ -1875,6 +1880,12 @@ https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_
 
 #EXTINF:-1 tvg-name="TV Clássicos" tvg-logo="https://imgur.com/60rkuA8.png" tvg-shift="0" group-title="WebTV",TV Clássicos
 https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="WebTV",TV Latina Sat
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="Novidades",TV Latina Sat
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" tvg-shift="0" group-title="WebTV",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
