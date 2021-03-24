@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://abre.ai/suaepg,https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/epg/epgbr.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml"
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA 100% GRATUITA!
 http://0.0.0.0
@@ -1746,7 +1746,7 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" group-title="TV" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv8.br" group-title="Novidades" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
+#EXTINF:-1 tvg-id="Tv8.br" group-title="Novidades" tvg-logo="https://imgur.com/YRD2mvJ.png",TV - TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 
@@ -1887,7 +1887,7 @@ https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="WebTV",TV Latina Sat
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="Novidades",TV Latina Sat
+#EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="Novidades",WebTV - TV Latina Sat
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" tvg-shift="0" group-title="WebTV",TV Nova Play
