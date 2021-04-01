@@ -5,18 +5,6 @@ http://0.0.0.0
 
 ############################### NOVIDADES #####################################
 
-#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="Novidades",Rewind TV
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
-
-#EXTINF:0 channel-id="paramount-apresenta" tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Novidades",Pluto TV Brasil - Paramount+ Apresenta
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="clubbing-tv-es" tvg-logo="http://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Novidades",Pluto TV Espanha - Clubbing TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="pluto-tv-investiga-es" tvg-logo="http://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png" group-title="Novidades",Pluto TV Espanha - Pluto TV Investiga
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a93370-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8edc10e9-d212-4f6f-9a55-0527c9930a4d&userId=&serverSideAds=true
-
 ####
 
 #EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="Pluto TV Brasil", Guia de Canais
@@ -1714,7 +1702,7 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
-https://aws.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
+https://akamai.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -1722,7 +1710,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZrZ0Tg1.png" tvg-shift="0" group-title="TV",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV",Rede Brasil
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/bdjkQIQ.png" group-title="TV",RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
@@ -1743,7 +1731,7 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 #EXTINF:-1 tvg-id="Tv8.br" group-title="TV" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="TV",TV Brasil Oeste (Rede Brasil)
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="TV",TV Brasil Oeste (RBTV)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
@@ -1758,8 +1746,6 @@ https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlis
 #EXTINF:-1 tvg-id="Tvmetropole.br" group-title="TV" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv8.br" group-title="Novidades" tvg-logo="https://imgur.com/YRD2mvJ.png",TV - TV8 Brasil
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 
 
 ############################### RADIOS ################################################
@@ -1899,9 +1885,6 @@ https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="WebTV",TV Latina Sat
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="Novidades",WebTV - TV Latina Sat
-https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" tvg-shift="0" group-title="WebTV",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
@@ -1952,9 +1935,6 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://imgur.com/NYMMklm.png" group-title="Temporário",ESPN Extra SD
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="https://imgur.com/P6BciKg.png" group-title="Temporário",Fox Sports
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/152
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes HD
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32537
