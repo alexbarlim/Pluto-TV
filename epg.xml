@@ -7,16 +7,6 @@
 			<icon src="http://images.pluto.tv/channels/5f120e94a5714d00074576a1/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095400 -0300" stop="20210403120000 -0300" channel="pluto-tv-cine-sucessos">
-			<title lang="en">Jornada nas Estrelas: A Última Fronteira</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Um vulcano renegado planeja secretamente roubar a U.S.S. Enterprise sob o pretexto de encontrar um lendário planeta. Kirk deve tentar impedir os planos desse renegado numa aventura que os levará até o centro do Universo.</desc>
-			<date>20210403</date>
-			<category lang="en">Sci-Fi &amp; Fantasy</category>
-			<category lang="en">Action Sci-Fi &amp; Fantasy</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403120000 -0300" stop="20210403141000 -0300" channel="pluto-tv-cine-sucessos">
 			<title lang="en">Jornada Nas Estrelas: A Terra Desconhecida</title>
 			<sub-title lang="en"/>
@@ -41,6 +31,16 @@
 			<title lang="en">Jornada nas Estrelas: Primeiro Contato</title>
 			<sub-title lang="en"/>
 			<desc lang="en">Eles se chamam de Borg, um coletivo semimáquina com um único propósito: conquistar e assimilar todas as raças.</desc>
+			<date>20210403</date>
+			<category lang="en">Sci-Fi &amp; Fantasy</category>
+			<category lang="en">Action Sci-Fi &amp; Fantasy</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
+	<programme start="20210403183800 -0300" stop="20210403203900 -0300" channel="pluto-tv-cine-sucessos">
+			<title lang="en">Jornada nas Estrelas: Insurreição</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Quando a tripulação da Enterprise toma conhecimento da comspiração da federação contra os habitantes de um planeta único, o capitão Picard irrompe uma rebelião.</desc>
 			<date>20210403</date>
 			<category lang="en">Sci-Fi &amp; Fantasy</category>
 			<category lang="en">Action Sci-Fi &amp; Fantasy</category>
@@ -94,6 +94,16 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403181600 -0300" stop="20210403201200 -0300" channel="pluto-tv-filmes-acao">
+			<title lang="en">Codinome Cassius 7</title>
+			<sub-title lang="en"/>
+			<desc lang="en">A morte de um senador americano faz o ex-agente da CIA Paul abandonar a aposentadoria e se juntar a um jovem oficial do FBI em uma eletrizante operação internacional para desvendar os muitos mistérios por trás do crime.</desc>
+			<date>20210403</date>
+			<category lang="en">Action &amp; Adventure</category>
+			<category lang="en">Action Thrillers</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-cine-comedia-1">
 			<display-name>Pluto TV Cine Comédia</display-name>
 			<display-name>60</display-name>
@@ -101,16 +111,6 @@
 			<icon src="http://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403094400 -0300" stop="20210403112800 -0300" channel="pluto-tv-cine-comedia-1">
-			<title lang="en">Hot Rod: Loucos sobre rodas</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Uma comédia sobre um dublê que nunca conseguiu saltar e sua tentativa de realizar a maior façanha de sua vida.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Sports Comedies</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403112800 -0300" stop="20210403131900 -0300" channel="pluto-tv-cine-comedia-1">
 			<title lang="en">Provas e Trapaças</title>
 			<sub-title lang="en"/>
@@ -151,6 +151,16 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403192100 -0300" stop="20210403211800 -0300" channel="pluto-tv-cine-comedia-1">
+			<title lang="en">Bernie: Quase um Anjo</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Na pequena cidade do Texas, um afável agente funerário faz amizade com uma viúva rica, embora, quando ela começa a controlar, ele faça o possível para se separar de suas garras.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">Spoofs and Satire</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-cine-drama-1">
 			<display-name>Pluto TV Cine Drama</display-name>
 			<display-name>63</display-name>
@@ -158,16 +168,6 @@
 			<icon src="http://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403082100 -0300" stop="20210403105300 -0300" channel="pluto-tv-cine-drama-1">
-			<title lang="en">Lula, O Filho Do Brasil</title>
-			<sub-title lang="en"/>
-			<desc lang="en">O filme conta a história de Luís Inácio da Silva, desde o seu nascimento no sertão nordestino, passando pela viagem com a família de pau-de-arara para São Paulo, até se tornar presidente de um dos principais sindicatos da América Latina.</desc>
-			<date>20210403</date>
-			<category lang="en">Independent</category>
-			<category lang="en">Indie Dramas</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403105300 -0300" stop="20210403124300 -0300" channel="pluto-tv-cine-drama-1">
 			<title lang="en">Greta</title>
 			<sub-title lang="en"/>
@@ -208,6 +208,16 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403191900 -0300" stop="20210403213400 -0300" channel="pluto-tv-cine-drama-1">
+			<title lang="en">A Qualquer Preço</title>
+			<sub-title lang="en"/>
+			<desc lang="en">O advogado especialista em danos pessoais Jan só aceita grandes casos que sejam resolvidos com segurança fora do tribunal. Embora o caso mais recente pareça simples, ele se envolve em uma batalha épica, na qual está disposto arristar sua carreira.</desc>
+			<date>20210403</date>
+			<category lang="en">Independent</category>
+			<category lang="en">Indie Dramas</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-cine-terror-1">
 			<display-name>Pluto TV Cine Terror</display-name>
 			<display-name>72</display-name>
@@ -215,16 +225,6 @@
 			<icon src="http://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403091500 -0300" stop="20210403105500 -0300" channel="pluto-tv-cine-terror-1">
-			<title lang="en">3 Irmãs</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Retornando do funeral de seu tio, Emma Lehman é brutalmente assassinada por um agressor mascarado. Sua irmã e companheira de casa, Sarah descobre o corpo e, incapaz de enfrentar a pernoite em casa, chama seu ex-namorado Dylan.</desc>
-			<date>20210403</date>
-			<category lang="en">Horror</category>
-			<category lang="en">Slashers and Serial Killers</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403105500 -0300" stop="20210403122300 -0300" channel="pluto-tv-cine-terror-1">
 			<title lang="en">Classroom 6: A Sala do Mal</title>
 			<sub-title lang="en"/>
@@ -275,6 +275,16 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403191600 -0300" stop="20210403210900 -0300" channel="pluto-tv-cine-terror-1">
+			<title lang="en">Sexta-feira 13 - Parte 3</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Ignorando o sangrento legado do Acampamento Crystal Lake, um por um, eles são vítimas do maníaco Jason, que os persegue incansavelmente...</desc>
+			<date>20210403</date>
+			<category lang="en">Horror</category>
+			<category lang="en">Slashers and Serial Killers</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-series-1">
 			<display-name>Pluto TV Séries</display-name>
 			<display-name>101</display-name>
@@ -282,26 +292,6 @@
 			<icon src="http://images.pluto.tv/channels/5f121262a189a800076b9386/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403094500 -0300" stop="20210403103500 -0300" channel="pluto-tv-series-1">
-			<title lang="en">As Crônicas de Shannara</title>
-			<sub-title lang="en">Feiticeiro</sub-title>
-			<desc lang="en">Bandon e seus seguidores correm para ressuscitar o Senhor dos Bruxos, enquanto Mareth deve arriscar tudo antes que seja tarde demais.</desc>
-			<date>20210403</date>
-			<category lang="en">Sci-Fi &amp; Fantasy</category>
-			<category lang="en">Sci-Fi Dramas</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
-	<programme start="20210403103500 -0300" stop="20210403112500 -0300" channel="pluto-tv-series-1">
-			<title lang="en">As Crônicas de Shannara</title>
-			<sub-title lang="en">Amberle</sub-title>
-			<desc lang="en">Wil deve enfrentar seu passado. O vínculo entre Allanon e Mareth continua a crescer.</desc>
-			<date>20210403</date>
-			<category lang="en">Sci-Fi &amp; Fantasy</category>
-			<category lang="en">Sci-Fi Dramas</category>
-			<episode-num system="onscreen">8</episode-num>
-
-	</programme>
 	<programme start="20210403112500 -0300" stop="20210403122700 -0300" channel="pluto-tv-series-1">
 			<title lang="en">Dark World Equilibrium</title>
 			<sub-title lang="en">Episódio 3</sub-title>
@@ -392,6 +382,26 @@
 			<episode-num system="onscreen">2</episode-num>
 
 	</programme>
+	<programme start="20210403183800 -0300" stop="20210403193000 -0300" channel="pluto-tv-series-1">
+			<title lang="en">Gracepoint</title>
+			<sub-title lang="en">Episódio 3</sub-title>
+			<desc lang="en">Quando um menino é encontrado morto em uma praia, uma grande investigação policial começa. O caso desencadeia um frenesi na mídia, o que lança a família do menino em mais turbulência e vira a vida de todos os residentes da cidade.</desc>
+			<date>20210403</date>
+			<category lang="en">Thrillers</category>
+			<category lang="en">Crime Thrillers</category>
+			<episode-num system="onscreen">3</episode-num>
+
+	</programme>
+	<programme start="20210403193000 -0300" stop="20210403202300 -0300" channel="pluto-tv-series-1">
+			<title lang="en">Episódio 13</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Bruce finalmente encontra Diya Xu no restaurante e começa a trabalhar no Ruby, onde conhece Betty, que se apaixona por ele. Isso desperta a ira do chef Wang.</desc>
+			<date>20210403</date>
+			<category lang="en">Action &amp; Adventure</category>
+			<category lang="en">Martial Arts</category>
+			<episode-num system="onscreen">13</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-retro-2">
 			<display-name>Pluto TV Retrô</display-name>
 			<display-name>106</display-name>
@@ -399,26 +409,6 @@
 			<icon src="http://images.pluto.tv/channels/5f1212ad1728050007a523b8/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095200 -0300" stop="20210403105200 -0300" channel="pluto-tv-retro-2">
-			<title lang="en">Chaparral</title>
-			<sub-title lang="en">Fantasma do Rancho</sub-title>
-			<desc lang="en">Victoria é ofuscada pela memória de Annalee. Big John se recusa a deixá-la fazer as alterações já que ele sente que seu casamento é um acordo com seu pai. Um confronto com Apaches e velho namorado de Victoria forçam uma mudança.</desc>
-			<date>20210403</date>
-			<category lang="en">Classics</category>
-			<category lang="en">Classic Westerns</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
-	<programme start="20210403105200 -0300" stop="20210403115200 -0300" channel="pluto-tv-retro-2">
-			<title lang="en">James West</title>
-			<sub-title lang="en">A Noite do McCoy Surreal</sub-title>
-			<desc lang="en">Os agentes West e Gordon estão guardando um museu contendo as famosas jóias de Herzberg, mas alguém ainda consegue roubar as gemas.</desc>
-			<date>20210403</date>
-			<category lang="en">Classics</category>
-			<category lang="en">Classic Westerns</category>
-			<episode-num system="onscreen">20</episode-num>
-
-	</programme>
 	<programme start="20210403115200 -0300" stop="20210403125200 -0300" channel="pluto-tv-retro-2">
 			<title lang="en">James West</title>
 			<sub-title lang="en">A Noite do Fantasma do Coronel</sub-title>
@@ -519,6 +509,36 @@
 			<episode-num system="onscreen">17</episode-num>
 
 	</programme>
+	<programme start="20210403182600 -0300" stop="20210403185400 -0300" channel="pluto-tv-retro-2">
+			<title lang="en">A Feiticeira</title>
+			<sub-title lang="en">Hoho o palhaço</sub-title>
+			<desc lang="en">A marca de brinquedos Solow Toy, Cliente de Darrin, patrocina o palhaço HoHo na televisão.</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Comedies</category>
+			<episode-num system="onscreen">18</episode-num>
+
+	</programme>
+	<programme start="20210403185400 -0300" stop="20210403192500 -0300" channel="pluto-tv-retro-2">
+			<title lang="en">A Feiticeira</title>
+			<sub-title lang="en">Super-carro</sub-title>
+			<desc lang="en">Endora dá um carro especial de presente e deixa o cliente de Darrin confuso.</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Comedies</category>
+			<episode-num system="onscreen">19</episode-num>
+
+	</programme>
+	<programme start="20210403192500 -0300" stop="20210403202400 -0300" channel="pluto-tv-retro-2">
+			<title lang="en">Fantasy Island</title>
+			<sub-title lang="en">Ases voadores / A sereia retorna</sub-title>
+			<desc lang="en">Um piloto de avião volta à Segunda Guerra Mundial para vivenciar a emoção de voar em combate e conhecer alguém especial que morreu naquela guerra na Ilha da Fantasia.</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Dramas</category>
+			<episode-num system="onscreen">63</episode-num>
+
+	</programme>
 	<channel id="mtv-pluto-tv1">
 			<display-name>MTV Pluto TV</display-name>
 			<display-name>157</display-name>
@@ -526,46 +546,6 @@
 			<icon src="http://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403092000 -0300" stop="20210403100100 -0300" channel="mtv-pluto-tv1">
-			<title lang="en">No estúdio com o Ex: Fábia</title>
-			<sub-title lang="en">Fábia</sub-title>
-			<desc lang="en">Becca Pires recebe Fábia, a primeira ex a entrar na quarta temporada do De Férias com o Ex Brasil.</desc>
-			<date>20210403</date>
-			<category lang="en">Reality</category>
-			<category lang="en">Dating Show</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403100100 -0300" stop="20210403104100 -0300" channel="mtv-pluto-tv1">
-			<title lang="en">No estúdio com o Ex: Stéfani</title>
-			<sub-title lang="en">Stéfani</sub-title>
-			<desc lang="en">Becca Pires recebe Stéfani, a ex do Carlos, que teve uma das entradas mais caóticas que esse programa já viu!</desc>
-			<date>20210403</date>
-			<category lang="en">Reality</category>
-			<category lang="en">Dating Show</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
-	<programme start="20210403104100 -0300" stop="20210403112300 -0300" channel="mtv-pluto-tv1">
-			<title lang="en">No estúdio com o Ex: Bifão</title>
-			<sub-title lang="en">Bifão</sub-title>
-			<desc lang="en">Becca Pires recebe a polêmica Bifão, que nesse episódio recebeu seu ex e tem muita história para contar.</desc>
-			<date>20210403</date>
-			<category lang="en">Reality</category>
-			<category lang="en">Dating Show</category>
-			<episode-num system="onscreen">4</episode-num>
-
-	</programme>
-	<programme start="20210403112300 -0300" stop="20210403115600 -0300" channel="mtv-pluto-tv1">
-			<title lang="en">No estúdio com o Ex: Tati Dias</title>
-			<sub-title lang="en">Tati Dias</sub-title>
-			<desc lang="en">Becca Pires recebe mais uma vez a participante Tati, que é protagonista absoluta desse episódio por conta dos seus surtos de ciúme de Gui Leonel.</desc>
-			<date>20210403</date>
-			<category lang="en">Reality</category>
-			<category lang="en">Dating Show</category>
-			<episode-num system="onscreen">5</episode-num>
-
-	</programme>
 	<programme start="20210403115600 -0300" stop="20210403125400 -0300" channel="mtv-pluto-tv1">
 			<title lang="en">De Férias Com o Ex Brasil - A Treta não tira Férias: É Treta que fala, né?</title>
 			<sub-title lang="en">É Treta que fala, né?</sub-title>
@@ -636,6 +616,26 @@
 			<episode-num system="onscreen">2</episode-num>
 
 	</programme>
+	<programme start="20210403183600 -0300" stop="20210403192700 -0300" channel="mtv-pluto-tv1">
+			<title lang="en">Episódio 3</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Jarlles é o alvo do dia e receberá Emmanuel que contará um lado de Jarlles que ele não mostrou no programa. Depois rola um conselho nem tão amigo de Leo e por fim, chega Egito para agitar o salseiro.</desc>
+			<date>20210403</date>
+			<category lang="en">Reality</category>
+			<category lang="en">Dating Show</category>
+			<episode-num system="onscreen">3</episode-num>
+
+	</programme>
+	<programme start="20210403192700 -0300" stop="20210403201800 -0300" channel="mtv-pluto-tv1">
+			<title lang="en">De Férias Com o Ex Brasil - A Treta não tira Férias: Quem Divide, Multiplica</title>
+			<sub-title lang="en">Quem Divide, Multiplica</sub-title>
+			<desc lang="en">Reveja como as amizades e romances do programa se formaram. E é bom lembrar o aviso: em De Férias Com o Ex Brasil ninguém é santo e toooodo mundo está ali pra se dar bem. Pra não acabar com o olho furado é melhor ficar esperto!</desc>
+			<date>20210403</date>
+			<category lang="en">Reality</category>
+			<category lang="en">Dating Show</category>
+			<episode-num system="onscreen">2</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-anime-1">
 			<display-name>Pluto TV Anime</display-name>
 			<display-name>182</display-name>
@@ -643,46 +643,6 @@
 			<icon src="http://images.pluto.tv/channels/5f12136385bccc00070142ed/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095800 -0300" stop="20210403102300 -0300" channel="pluto-tv-anime-1">
-			<title lang="en">B-Daman Crossfire</title>
-			<sub-title lang="en">Dragão vermelho quem é aquele garoto</sub-title>
-			<desc lang="en">Riki e os outros são convidados para um evento de agradecimento de fãs na sede da WBMA. Quando Riki se separa de seu amigo, ele conhece Novu, que mostra a ele Crystal B de onde todos os animais vêm. Ele então desafia Riki para uma partida.</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Kids&apos; Anime</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
-	<programme start="20210403102300 -0300" stop="20210403104800 -0300" channel="pluto-tv-anime-1">
-			<title lang="en">B-Daman Crossfire</title>
-			<sub-title lang="en">Dragão Tigre Combo Poderoso Dragren</sub-title>
-			<desc lang="en">Novu agora é membro do East Block e um novo B-Shot chamado Derek, que supostamente causou problemas em seu antigo South Block, foi transferido para o oeste.</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Kids&apos; Anime</category>
-			<episode-num system="onscreen">8</episode-num>
-
-	</programme>
-	<programme start="20210403104800 -0300" stop="20210403111300 -0300" channel="pluto-tv-anime-1">
-			<title lang="en">B-Daman Crossfire</title>
-			<sub-title lang="en">Este é o Break Bomber</sub-title>
-			<desc lang="en">O Ocidente está em caos por causa de Derek, que trabalha secretamente para Novu. Ele promete parar de causar problemas se Rory puder vencê-lo em combate, mas quando ela perde, ele toma como refém o seu B-Daman.</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Kids&apos; Anime</category>
-			<episode-num system="onscreen">9</episode-num>
-
-	</programme>
-	<programme start="20210403111300 -0300" stop="20210403114100 -0300" channel="pluto-tv-anime-1">
-			<title lang="en">Super Onze</title>
-			<sub-title lang="en">A busca pelo atacante lendário</sub-title>
-			<desc lang="en">A notícia de que Gouenji é expulso da equipe não vai bem com a maioria dos Raimon Eleven, especialmente Someoka.</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Kids&apos; Anime</category>
-			<episode-num system="onscreen">31</episode-num>
-
-	</programme>
 	<programme start="20210403114100 -0300" stop="20210403120900 -0300" channel="pluto-tv-anime-1">
 			<title lang="en">Super Onze</title>
 			<sub-title lang="en">O Príncipe da Terra da Neve</sub-title>
@@ -823,6 +783,56 @@
 			<episode-num system="onscreen">11</episode-num>
 
 	</programme>
+	<programme start="20210403180800 -0300" stop="20210403183600 -0300" channel="pluto-tv-anime-1">
+			<title lang="en">Yu-Gi-Oh! VRAINS</title>
+			<sub-title lang="en">Ligue o circuito</sub-title>
+			<desc lang="en">Bem-vindo ao mundo de Yu-Gi-Oh! VRAINS, onde realidade virtual, inteligência artificial e duelo em alta velocidade se fundem em uma extravagância de luta!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; TV</category>
+			<episode-num system="onscreen">12</episode-num>
+
+	</programme>
+	<programme start="20210403183600 -0300" stop="20210403190300 -0300" channel="pluto-tv-anime-1">
+			<title lang="en">Yu-Gi-Oh! VRAINS</title>
+			<sub-title lang="en">Reprodução</sub-title>
+			<desc lang="en">Bem-vindo ao mundo de Yu-Gi-Oh! VRAINS, onde realidade virtual, inteligência artificial e duelo em alta velocidade se fundem em uma extravagância de luta!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; TV</category>
+			<episode-num system="onscreen">13</episode-num>
+
+	</programme>
+	<programme start="20210403190300 -0300" stop="20210403193000 -0300" channel="pluto-tv-anime-1">
+			<title lang="en">Yu-Gi-Oh! VRAINS</title>
+			<sub-title lang="en">Um convite</sub-title>
+			<desc lang="en">Bem-vindo ao mundo de Yu-Gi-Oh! VRAINS, onde realidade virtual, inteligência artificial e duelo em alta velocidade se fundem em uma extravagância de luta!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; TV</category>
+			<episode-num system="onscreen">14</episode-num>
+
+	</programme>
+	<programme start="20210403193000 -0300" stop="20210403195700 -0300" channel="pluto-tv-anime-1">
+			<title lang="en">Yu-Gi-Oh! VRAINS</title>
+			<sub-title lang="en">Caos Camuflado</sub-title>
+			<desc lang="en">Bem-vindo ao mundo de Yu-Gi-Oh! VRAINS, onde realidade virtual, inteligência artificial e duelo em alta velocidade se fundem em uma extravagância de luta!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; TV</category>
+			<episode-num system="onscreen">15</episode-num>
+
+	</programme>
+	<programme start="20210403195700 -0300" stop="20210403202200 -0300" channel="pluto-tv-anime-1">
+			<title lang="en">Yu-Gi-Oh! VRAINS</title>
+			<sub-title lang="en">Ataque de hack</sub-title>
+			<desc lang="en">Bem-vindo ao mundo de Yu-Gi-Oh! VRAINS, onde realidade virtual, inteligência artificial e duelo em alta velocidade se fundem em uma extravagância de luta!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; TV</category>
+			<episode-num system="onscreen">16</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-natureza">
 			<display-name>Pluto TV Natureza</display-name>
 			<display-name>271</display-name>
@@ -830,26 +840,6 @@
 			<icon src="http://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403090800 -0300" stop="20210403100600 -0300" channel="pluto-tv-natureza">
-			<title lang="en">África: Maravilhas do Mundo Marinho</title>
-			<sub-title lang="en">Ilha da Máfia - Paraíso Encantado</sub-title>
-			<desc lang="en">Ao largo da costa da Tanzânia encontra-se uma ilha de Utopia. Seus diversos habitats fornecem lares para uma infinidade de criaturas que vivem acima e abaixo da água.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Science and Nature Documentaries</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
-	<programme start="20210403100600 -0300" stop="20210403110400 -0300" channel="pluto-tv-natureza">
-			<title lang="en">África: Maravilhas do Mundo Marinho</title>
-			<sub-title lang="en">Lago Malawi</sub-title>
-			<desc lang="en">Em um dos maiores lagos da África, rochas e água prepararam o cenário para a exibição mais magnífica da evolução. Este episódio conta a história desse notável exemplo de evolução em ação, além de mostrar como o lago proporciona uma variedade de vida.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Science and Nature Documentaries</category>
-			<episode-num system="onscreen">4</episode-num>
-
-	</programme>
 	<programme start="20210403110400 -0300" stop="20210403120200 -0300" channel="pluto-tv-natureza">
 			<title lang="en">África: Maravilhas do Mundo Marinho</title>
 			<sub-title lang="en">Rasos de Bazaruto</sub-title>
@@ -940,6 +930,36 @@
 			<episode-num system="onscreen">19</episode-num>
 
 	</programme>
+	<programme start="20210403182000 -0300" stop="20210403184500 -0300" channel="pluto-tv-natureza">
+			<title lang="en">Terra Brasil - Guias</title>
+			<sub-title lang="en">Gruta de Ibitipoca</sub-title>
+			<desc lang="en">No meio da região de Ibitipoca, em Minas Gerais, uma gruta que era usada como refúgio dos escravos é visitada por Aruay e Anderson, que descobrem ricas informações sobre as plantas e animais da região.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Science and Nature Documentaries</category>
+			<episode-num system="onscreen">20</episode-num>
+
+	</programme>
+	<programme start="20210403184500 -0300" stop="20210403194300 -0300" channel="pluto-tv-natureza">
+			<title lang="en">Índia: Uma Jornada Pelo Selvagem: Jovens do Deserto</title>
+			<sub-title lang="en">Jovens do Deserto</sub-title>
+			<desc lang="en">Um jovem filhote de Leão deve sobreviver enquanto sua família é dilacerada; dois filhotes de leopardo adolescentes devem se defender sozinhos depois de serem abandonados.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Science and Nature Documentaries</category>
+			<episode-num system="onscreen">6</episode-num>
+
+	</programme>
+	<programme start="20210403194300 -0300" stop="20210403204100 -0300" channel="pluto-tv-natureza">
+			<title lang="en">Índia: Uma Jornada Pelo Selvagem: Macaco Rajan em uma missão</title>
+			<sub-title lang="en">Macaco Rajan em uma missão</sub-title>
+			<desc lang="en">Rajan é o poderoso macho alfa que está à frente de uma tropa extraordinariamente grande. Ele fez bem em sustentar um grupo tão grande, mas o futuro não parece tão brilhante. Há mais bocas para alimentar, mas sua casa na selva está diminuindo.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Science and Nature Documentaries</category>
+			<episode-num system="onscreen">7</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-junior-1">
 			<display-name>Pluto TV Junior</display-name>
 			<display-name>703</display-name>
@@ -947,76 +967,6 @@
 			<icon src="http://images.pluto.tv/channels/5f12141b146d760007934ea7/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095100 -0300" stop="20210403100400 -0300" channel="pluto-tv-junior-1">
-			<title lang="en">Jelly Jamm</title>
-			<sub-title lang="en">Mamma Mina</sub-title>
-			<desc lang="en">A animação conta a história de uma turma muito colorida que valoriza amizade e diversidade de opinião. Além da cor, cada personagem tem uma característica marcante e juntos se envolvem em várias aventuras.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
-	<programme start="20210403100400 -0300" stop="20210403101700 -0300" channel="pluto-tv-junior-1">
-			<title lang="en">Jelly Jamm</title>
-			<sub-title lang="en">Promessas, Promessas</sub-title>
-			<desc lang="en">A animação conta a história de uma turma muito colorida que valoriza amizade e diversidade de opinião. Além da cor, cada personagem tem uma característica marcante e juntos se envolvem em várias aventuras.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">4</episode-num>
-
-	</programme>
-	<programme start="20210403101700 -0300" stop="20210403103000 -0300" channel="pluto-tv-junior-1">
-			<title lang="en">Mouk</title>
-			<sub-title lang="en">A Muleta da Sorte</sub-title>
-			<desc lang="en">Mouk e Chavapa são dois amigos que exploram o mundo em suas bicicletas. De Hong-Kong a Nova York, do Brasil a Madagascar e Chile, eles descobrem nosso mundo moderno e seus habitantes coloridos.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
-	<programme start="20210403103000 -0300" stop="20210403104300 -0300" channel="pluto-tv-junior-1">
-			<title lang="en">Mouk</title>
-			<sub-title lang="en">Os Arqueólogos do Deserto</sub-title>
-			<desc lang="en">Mouk e Chavapa são dois amigos que exploram o mundo em suas bicicletas. De Hong-Kong a Nova York, do Brasil a Madagascar e Chile, eles descobrem nosso mundo moderno e seus habitantes coloridos.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403104300 -0300" stop="20210403105600 -0300" channel="pluto-tv-junior-1">
-			<title lang="en">Mouk</title>
-			<sub-title lang="en">Entrega Urgente</sub-title>
-			<desc lang="en">Mouk e Chavapa são dois amigos que exploram o mundo em suas bicicletas. De Hong-Kong a Nova York, do Brasil a Madagascar e Chile, eles descobrem nosso mundo moderno e seus habitantes coloridos.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
-	<programme start="20210403105600 -0300" stop="20210403110900 -0300" channel="pluto-tv-junior-1">
-			<title lang="en">Mouk</title>
-			<sub-title lang="en">Gigantes de Pedra</sub-title>
-			<desc lang="en">Mouk e Chavapa são dois amigos que exploram o mundo em suas bicicletas. De Hong-Kong a Nova York, do Brasil a Madagascar e Chile, eles descobrem nosso mundo moderno e seus habitantes coloridos.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">4</episode-num>
-
-	</programme>
-	<programme start="20210403110900 -0300" stop="20210403113700 -0300" channel="pluto-tv-junior-1">
-			<title lang="en">A Abelha Maya</title>
-			<sub-title lang="en">Episódio 1</sub-title>
-			<desc lang="en">Maya é a história de uma abelhinha que &quot;faz tudo do seu jeito&quot;. As outras abelhas que nasceram com ela estão satisfeitas com a vida regrada da colmeia e fazem alegremente tudo que sua professora, a Srta. Cassandra, pede para elas.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">79</episode-num>
-
-	</programme>
 	<programme start="20210403113700 -0300" stop="20210403120500 -0300" channel="pluto-tv-junior-1">
 			<title lang="en">A Abelha Maya</title>
 			<sub-title lang="en">Episódio 2</sub-title>
@@ -1257,6 +1207,56 @@
 			<episode-num system="onscreen">2</episode-num>
 
 	</programme>
+	<programme start="20210403180800 -0300" stop="20210403182100 -0300" channel="pluto-tv-junior-1">
+			<title lang="en">Mouk</title>
+			<sub-title lang="en">Entrega Urgente</sub-title>
+			<desc lang="en">Mouk e Chavapa são dois amigos que exploram o mundo em suas bicicletas. De Hong-Kong a Nova York, do Brasil a Madagascar e Chile, eles descobrem nosso mundo moderno e seus habitantes coloridos.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">3</episode-num>
+
+	</programme>
+	<programme start="20210403182100 -0300" stop="20210403183400 -0300" channel="pluto-tv-junior-1">
+			<title lang="en">Mouk</title>
+			<sub-title lang="en">Gigantes de Pedra</sub-title>
+			<desc lang="en">Mouk e Chavapa são dois amigos que exploram o mundo em suas bicicletas. De Hong-Kong a Nova York, do Brasil a Madagascar e Chile, eles descobrem nosso mundo moderno e seus habitantes coloridos.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
+	<programme start="20210403183400 -0300" stop="20210403190200 -0300" channel="pluto-tv-junior-1">
+			<title lang="en">A Abelha Maya</title>
+			<sub-title lang="en">Episódio 1</sub-title>
+			<desc lang="en">Maya é a história de uma abelhinha que &quot;faz tudo do seu jeito&quot;. As outras abelhas que nasceram com ela estão satisfeitas com a vida regrada da colmeia e fazem alegremente tudo que sua professora, a Srta. Cassandra, pede para elas.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">79</episode-num>
+
+	</programme>
+	<programme start="20210403190200 -0300" stop="20210403193000 -0300" channel="pluto-tv-junior-1">
+			<title lang="en">A Abelha Maya</title>
+			<sub-title lang="en">Episódio 2</sub-title>
+			<desc lang="en">Maya é a história de uma abelhinha que &quot;faz tudo do seu jeito&quot;. As outras abelhas que nasceram com ela estão satisfeitas com a vida regrada da colmeia e fazem alegremente tudo que sua professora, a Srta. Cassandra, pede para elas.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">80</episode-num>
+
+	</programme>
+	<programme start="20210403193000 -0300" stop="20210403200200 -0300" channel="pluto-tv-junior-1">
+			<title lang="en">My Magic Pet Morphle</title>
+			<sub-title lang="en">Meu leão de estimação</sub-title>
+			<desc lang="en">Morphle, o Meu Animalzinho de Estimação Mágico é um desenho animado para crianças que acompanha as aventuras de Mila, uma menina de cinco anos, e do seu bichinho de estimação, Morphle. Morphle é capaz de se transformar ou &quot;morfar&quot; em qualquer coisa.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; TV</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="nick-jr-club-1">
 			<display-name>Nick Jr. Club</display-name>
 			<display-name>706</display-name>
@@ -1264,46 +1264,6 @@
 			<icon src="http://images.pluto.tv/channels/5f121460b73ac6000719fbaf/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403093900 -0300" stop="20210403100800 -0300" channel="nick-jr-club-1">
-			<title lang="en">Ni Hao, Kai Lan</title>
-			<sub-title lang="en">O festival do Barco Dragão</sub-title>
-			<desc lang="en">Chegou o dia do Festival do Barco Dragão! Kai-Ian e seus amigos estão animados para a corrida de barcos-dragões no rio, e ela não vê a hora de encontrar um dragão de verdade!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
-	<programme start="20210403100800 -0300" stop="20210403103700 -0300" channel="nick-jr-club-1">
-			<title lang="en">Ni Hao, Kai Lan</title>
-			<sub-title lang="en">O desfile de chapéus</sub-title>
-			<desc lang="en">O chapéu de jardinagem de Ye-Ye inspira Kai-Ian a fazer um para ela também. Todos estão no jardim, quando Kai-Ian tem a ideia de fazerem um desfile!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403103700 -0300" stop="20210403110500 -0300" channel="nick-jr-club-1">
-			<title lang="en">Mundo Giz</title>
-			<sub-title lang="en">Snap fora d&apos;água / Dois pés esquerdos / Rudus Tabootus</sub-title>
-			<desc lang="en">Snap se apresenta como um estudante de intercambio na aula de Rui. / Snap está no Baile Quadrado quando dois pés gigantes arruínam o evento. / Rui descobre uma antiga entrada de giz no Coliseu Romano.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">5</episode-num>
-
-	</programme>
-	<programme start="20210403110500 -0300" stop="20210403113400 -0300" channel="nick-jr-club-1">
-			<title lang="en">Mundo Giz</title>
-			<sub-title lang="en">Buraco na Parede / Idade perigosa / Snap super herói</sub-title>
-			<desc lang="en">Um novo inimigo quer transformar o Mundo Giz em um parque temático. / Rui precisa resgatar sua prima no Mundo Giz. / Snap quer descobrir quais são seus superpoderes</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403113400 -0300" stop="20210403120400 -0300" channel="nick-jr-club-1">
 			<title lang="en">O Quarto da Blue</title>
 			<sub-title lang="en">Aniversário de Fred</sub-title>
@@ -1444,6 +1404,46 @@
 			<episode-num system="onscreen">6</episode-num>
 
 	</programme>
+	<programme start="20210403181800 -0300" stop="20210403184700 -0300" channel="nick-jr-club-1">
+			<title lang="en">Ni Hao, Kai Lan</title>
+			<sub-title lang="en">Girocópteros voadores</sub-title>
+			<desc lang="en">Kai-Ian cria um jogo chamado &quot;voo do Girocóptero&quot;, no qual ela e seus amigos arremessam botões de flores ao ar para tentar alcançar uma árvore.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
+	<programme start="20210403184700 -0300" stop="20210403191600 -0300" channel="nick-jr-club-1">
+			<title lang="en">Ni Hao, Kai Lan</title>
+			<sub-title lang="en">O passeio na neve</sub-title>
+			<desc lang="en">Kai-Ian acorda cedo para ver a neve cobrindo todo o quintal! Ela vê um monte perfeito para escorregar e lindas esculturas de gelo em todos os lugares.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">6</episode-num>
+
+	</programme>
+	<programme start="20210403191600 -0300" stop="20210403194500 -0300" channel="nick-jr-club-1">
+			<title lang="en">Mundo Giz</title>
+			<sub-title lang="en">Passeio dos namorados / Snap constrói a casa dos sonhos/ Balé dos hidrantes</sub-title>
+			<desc lang="en">Rudy se sente rejeitado quando seus pais não o incluem em suas férias. / Rudy aceita desenhar a casa dos sonhos de Snap. / Snap leva Rapsheeba para ver o balé dos hidrantes.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
+	<programme start="20210403194500 -0300" stop="20210403201400 -0300" channel="nick-jr-club-1">
+			<title lang="en">Mundo Giz</title>
+			<sub-title lang="en">O assalto / Batalha de mãos / Chocolate</sub-title>
+			<desc lang="en">Thor Throat chega à cidade para roubar um banco. / Rudy abre uma porta proibida e descobre o malvado Giz Vermelho. / Snap quer comer coelhos de chocolate, mas a mãe coelho não quer deixa-lo.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-kids-1">
 			<display-name>Pluto TV Kids</display-name>
 			<display-name>721</display-name>
@@ -1451,66 +1451,6 @@
 			<icon src="http://images.pluto.tv/channels/5f1214a637c6fd00079c652f/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095800 -0300" stop="20210403101300 -0300" channel="pluto-tv-kids-1">
-			<title lang="en">Corneil &amp; Bernie</title>
-			<sub-title lang="en">Colônia de Corneil</sub-title>
-			<desc lang="en">Corneil criou a colônia “Eau de Corneil”. Ele experimenta em Bernie, e tem um efeito incrível com as garotas na escola.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">35</episode-num>
-
-	</programme>
-	<programme start="20210403101300 -0300" stop="20210403102800 -0300" channel="pluto-tv-kids-1">
-			<title lang="en">Corneil &amp; Bernie</title>
-			<sub-title lang="en">As Mentiras do Cachorro</sub-title>
-			<desc lang="en">Corneil já está farto das mentiras de Bernie, especialmente quando ele diz que John e Beth deram a ele o convite para o aniversário de uma celebridade antes de viajarem.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">36</episode-num>
-
-	</programme>
-	<programme start="20210403102800 -0300" stop="20210403105400 -0300" channel="pluto-tv-kids-1">
-			<title lang="en">Grojband</title>
-			<sub-title lang="en">Amor em um Netheravtor / Seis Cordas do Mal</sub-title>
-			<desc lang="en">Corey de 12 anos, monta uma banda com seus melhores amigos e rapidamente percebe que a banda é uma droga. O problema não é a música ou a imagem da banda. É a falta de letras de Corey. Até que ele encontra o diário de Trina, sua irmã mais velha.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">13</episode-num>
-
-	</programme>
-	<programme start="20210403105400 -0300" stop="20210403112000 -0300" channel="pluto-tv-kids-1">
-			<title lang="en">Grojband</title>
-			<sub-title lang="en">Rocker-Size / O Ceifeiro</sub-title>
-			<desc lang="en">Corey de 12 anos, monta uma banda com seus melhores amigos e rapidamente percebe que a banda é uma droga. O problema não é a música ou a imagem da banda. É a falta de letras de Corey. Até que ele encontra o diário de Trina, sua irmã mais velha.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">14</episode-num>
-
-	</programme>
-	<programme start="20210403112000 -0300" stop="20210403113200 -0300" channel="pluto-tv-kids-1">
-			<title lang="en">Pumpkin Reports</title>
-			<sub-title lang="en">Fertilizante de monstros</sub-title>
-			<desc lang="en">Max e a Equipe Alien acreditam que é um plano de um alienígena esmagar a cidade, mesmo que Golias desesperadamente os implore para ajudá-lo a descobrir o que há de errado com Teresa.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">17</episode-num>
-
-	</programme>
-	<programme start="20210403113200 -0300" stop="20210403114400 -0300" channel="pluto-tv-kids-1">
-			<title lang="en">Pumpkin Reports</title>
-			<sub-title lang="en">Teresa e os aliens</sub-title>
-			<desc lang="en">Com a intenção de fazer como o menino do conto ao qual ninguém finalmente acredita, Teresa afirma ter visto OVNIs voando sobre Villa Calabaza para que quando o verdadeiro ataque ocorra, todos estejam convencidos de que é uma mentira.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">18</episode-num>
-
-	</programme>
 	<programme start="20210403114400 -0300" stop="20210403121100 -0300" channel="pluto-tv-kids-1">
 			<title lang="en">Max Steel</title>
 			<sub-title lang="en">Encontro parte 2</sub-title>
@@ -1671,6 +1611,46 @@
 			<episode-num system="onscreen">10</episode-num>
 
 	</programme>
+	<programme start="20210403181400 -0300" stop="20210403183900 -0300" channel="pluto-tv-kids-1">
+			<title lang="en">Talking Tom Heros</title>
+			<sub-title lang="en">Panquecas e Dinossaros</sub-title>
+			<desc lang="en">O que os Talking Tom Heroes fariam se uma máquina do tempo os mandasse para a era dos dinossauros?! Ou um monstro de lixo voltasse para se vingar? Prepare-se para grandes aventuras!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">11</episode-num>
+
+	</programme>
+	<programme start="20210403183900 -0300" stop="20210403190400 -0300" channel="pluto-tv-kids-1">
+			<title lang="en">Talking Tom Heros</title>
+			<sub-title lang="en">Cuidado com o esquilo!</sub-title>
+			<desc lang="en">Quando uma bruxa lança um feitiço no esquilinho amigo da equipe, os heróis precisam agir. Mas esse é só o começo… Será que eles conseguem salvar o mundo de todas as outras ameaças?!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">12</episode-num>
+
+	</programme>
+	<programme start="20210403190400 -0300" stop="20210403193500 -0300" channel="pluto-tv-kids-1">
+			<title lang="en">As Histórias de Om Nom</title>
+			<sub-title lang="en">As histórias de Om Nom e as viagens no tempo</sub-title>
+			<desc lang="en">Om Nom, é um monstrinho fofo. Um dia, ele aparece misteriosamente na porta da casa de uma criança, e isso marcou o início de muitas aventuras divertidas.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
+	<programme start="20210403193500 -0300" stop="20210403200900 -0300" channel="pluto-tv-kids-1">
+			<title lang="en">As Histórias de Om Nom</title>
+			<sub-title lang="en">As histórias de Om Nom: aventuras inesperadas e encantadas</sub-title>
+			<desc lang="en">Om Nom acidentalmente se teletransporta para um livro encantado, perseguindo um feiticeiro malvado que roubou todos os seus doces.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">2</episode-num>
+
+	</programme>
 	<channel id="nick-classico-ptv1">
 			<display-name>Nick Clássico</display-name>
 			<display-name>730</display-name>
@@ -1678,46 +1658,6 @@
 			<icon src="http://images.pluto.tv/channels/5f12151794c1800007a8ae63/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403094316 -0300" stop="20210403101216 -0300" channel="nick-classico-ptv1">
-			<title lang="en">A Vida Moderna de Rocko</title>
-			<sub-title lang="en">Companheiros de quarto / Lamúrias de sapo</sub-title>
-			<desc lang="en">Vacão é expulso de casa e vai viver com Rocko, mudando a vida de seu amigo completamente. / Cansada da falta de carinho de seu esposo, Bev Cabeção tenta se aproximar mais de Rocko.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">6</episode-num>
-
-	</programme>
-	<programme start="20210403101216 -0300" stop="20210403104016 -0300" channel="nick-classico-ptv1">
-			<title lang="en">A Vida Moderna de Rocko</title>
-			<sub-title lang="en">Sem sofrimento, não há sucesso / Quem vai pagar?</sub-title>
-			<desc lang="en">Num esforço para ficarem fortes, Rocko e Vacão entram na academia./ Rocko entra para o incrível mundo dos sem dinheiro vivo quando ganha um cartão de crédito.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
-	<programme start="20210403104016 -0300" stop="20210403110816 -0300" channel="nick-classico-ptv1">
-			<title lang="en">A Vida Moderna de Rocko</title>
-			<sub-title lang="en">Medo de avião / Cão pulguento</sub-title>
-			<desc lang="en">Rocko experimenta as delícias de uma viagem de avião na classe econômica. / Rocko decide que é hora de Spunky tomar banho.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">8</episode-num>
-
-	</programme>
-	<programme start="20210403110816 -0300" stop="20210403113616 -0300" channel="nick-classico-ptv1">
-			<title lang="en">A Vida Moderna de Rocko</title>
-			<sub-title lang="en">Problemas com os Big Heads / Marcas de Pneus</sub-title>
-			<desc lang="en">Ed Cabeção denuncia a casa de Rocko ao inspetor de higiene. / Rocko é parado pela polícia por ter o tanque de gasolina sem tampa e tem o carro apreendido.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">9</episode-num>
-
-	</programme>
 	<programme start="20210403113616 -0300" stop="20210403120516 -0300" channel="nick-classico-ptv1">
 			<title lang="en">Aaahh!!! Monstros</title>
 			<sub-title lang="en">Perdidos no Oceano / Aventura na Antártica</sub-title>
@@ -1858,6 +1798,46 @@
 			<episode-num system="onscreen">6</episode-num>
 
 	</programme>
+	<programme start="20210403182016 -0300" stop="20210403184916 -0300" channel="nick-classico-ptv1">
+			<title lang="en">Uma Robô Adolescente</title>
+			<sub-title lang="en">Dançando para não dançar / A volta do mundo em 80 peças</sub-title>
+			<desc lang="en">Jenny decide ir ao baile escolar com Silver Shell, e Sheldon espera poder impressionar Jenny para revelar sua identidade. / Krackus, uma invenção dos Closters, faz com que as peças de Jenny fiquem espalhadas pelo mundo.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">7</episode-num>
+
+	</programme>
+	<programme start="20210403184916 -0300" stop="20210403191816 -0300" channel="nick-classico-ptv1">
+			<title lang="en">Uma Robô Adolescente</title>
+			<sub-title lang="en">Armagedróide / Killgore</sub-title>
+			<desc lang="en">Enquanto tenta vencer seu rival, Jenny quase termina destruída por Armagedron, a criatura tecnicamente mais avançada do planeta. / Um brinquedo chamado Killgore sequestra Jenny para ser aceitado pelos Closters.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">8</episode-num>
+
+	</programme>
+	<programme start="20210403191816 -0300" stop="20210403194716 -0300" channel="nick-classico-ptv1">
+			<title lang="en">Os Castores Pirados</title>
+			<sub-title lang="en">Episódio 44</sub-title>
+			<desc lang="en">Daggett e Norbert Castor, dois castores irmãos que saíram da casa da mãe para viverem como dois &quot;solteirões&quot; no meio da floresta.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
+	<programme start="20210403194716 -0300" stop="20210403201616 -0300" channel="nick-classico-ptv1">
+			<title lang="en">Os Castores Pirados</title>
+			<sub-title lang="en">Episódio 45</sub-title>
+			<desc lang="en">Daggett e Norbert Castor, dois castores irmãos que saíram da casa da mãe para viverem como dois &quot;solteirões&quot; no meio da floresta.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">6</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-filmes-suspense">
 			<display-name>Filmes Suspense</display-name>
 			<display-name>69</display-name>
@@ -1915,6 +1895,16 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403194100 -0300" stop="20210403215700 -0300" channel="pluto-tv-filmes-suspense">
+			<title lang="en">Tudo por Justiça</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Russell, um operário da fábrica, tenta proteger seu irmão mais novo, Rodney, de todos os perigos. No entanto, quando este desaparece, Russell decide resolver o problema por conta própria.</desc>
+			<date>20210403</date>
+			<category lang="en">Thrillers</category>
+			<category lang="en">Suspense</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-cine-familia-ptv1">
 			<display-name>Pluto TV Cine Família</display-name>
 			<display-name>87</display-name>
@@ -1922,16 +1912,6 @@
 			<icon src="http://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403084100 -0300" stop="20210403102700 -0300" channel="pluto-tv-cine-familia-ptv1">
-			<title lang="en">Um Monstro Em Paris</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Um filme de animação ambientado em Paris em 1910 e centrado em um monstro vivendo em um jardim e seu amor por uma bela jovem cantora.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403102700 -0300" stop="20210403121800 -0300" channel="pluto-tv-cine-familia-ptv1">
 			<title lang="en">Uma Aventura Do Zico</title>
 			<sub-title lang="en"/>
@@ -1982,6 +1962,16 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403185400 -0300" stop="20210403204200 -0300" channel="pluto-tv-cine-familia-ptv1">
+			<title lang="en">Meu Amigo Pé Grande</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Percy Caldwell encontra um novo amigo, Pé Grande, uma criatura de dois metros e meio de altura. Mas quando dois valentões encontram o Pé Grande, eles decidem capturá-lo. Agora cabe a Percy, Leonard e Madison resgatar o Pé Grande e devolvê-lo à sua casa.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Adventures</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="os-tres-patetas">
 			<display-name>Os Três Patetas</display-name>
 			<display-name>108</display-name>
@@ -1989,66 +1979,6 @@
 			<icon src="http://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095200 -0300" stop="20210403101300 -0300" channel="os-tres-patetas">
-			<title lang="en">Os Três Patetas</title>
-			<sub-title lang="en">Escocês quente</sub-title>
-			<desc lang="en">Os Três Patetas se candidatam a empregos na Scotland Yard, pensando que se tornarão detetives, mas acabaram como jardineiros.</desc>
-			<date>20210403</date>
-			<category lang="en">Classics</category>
-			<category lang="en">Classic Comedies</category>
-			<episode-num system="onscreen">91</episode-num>
-
-	</programme>
-	<programme start="20210403101300 -0300" stop="20210403103500 -0300" channel="os-tres-patetas">
-			<title lang="en">Os Três Patetas</title>
-			<sub-title lang="en">Vamos com calma</sub-title>
-			<desc lang="en">Os Três Patetas estão na rua da amargura. Com um policial atrás deles, resolvem fugir para um estúdio de artistas onde são confundidos com estudantes. O policial continua a caçá-los e eles usam diversos disfarces e táticas para distraí-lo.</desc>
-			<date>20210403</date>
-			<category lang="en">Classics</category>
-			<category lang="en">Classic Comedies</category>
-			<episode-num system="onscreen">52</episode-num>
-
-	</programme>
-	<programme start="20210403103500 -0300" stop="20210403105600 -0300" channel="os-tres-patetas">
-			<title lang="en">Os Três Patetas</title>
-			<sub-title lang="en">Alarmes falsos</sub-title>
-			<desc lang="en">Piadas disparam como alarmes de incêndio quando Larry, Curly e Moe se tornam bombeiros e deixam a cidade em estado de choque!</desc>
-			<date>20210403</date>
-			<category lang="en">Classics</category>
-			<category lang="en">Classic Comedies</category>
-			<episode-num system="onscreen">21</episode-num>
-
-	</programme>
-	<programme start="20210403105600 -0300" stop="20210403111800 -0300" channel="os-tres-patetas">
-			<title lang="en">Os Três Patetas</title>
-			<sub-title lang="en">Três quadrados e uma redonda</sub-title>
-			<desc lang="en">Na Era Elisabetana, os Três Patetas decidem ajudar seu amigo Cedric, o Ferreiro, a ganhar a mão da bela princesa Elaine.</desc>
-			<date>20210403</date>
-			<category lang="en">Classics</category>
-			<category lang="en">Classic Comedies</category>
-			<episode-num system="onscreen">62</episode-num>
-
-	</programme>
-	<programme start="20210403111800 -0300" stop="20210403113600 -0300" channel="os-tres-patetas">
-			<title lang="en">Os Três Patetas</title>
-			<sub-title lang="en">Amor à primeira Mordida</sub-title>
-			<desc lang="en">Os Três Patetas relembram as garotas que conheceram no exterior enquanto estavam no exército. Esperando a chegada do navio das garotas, eles se embebedam e Shemp acaba dormindo com os pés em uma banheira de cimento.</desc>
-			<date>20210403</date>
-			<category lang="en">Classics</category>
-			<category lang="en">Classic Comedies</category>
-			<episode-num system="onscreen">95</episode-num>
-
-	</programme>
-	<programme start="20210403113600 -0300" stop="20210403115700 -0300" channel="os-tres-patetas">
-			<title lang="en">Os Três Patetas</title>
-			<sub-title lang="en">Idiotas aéreos</sub-title>
-			<desc lang="en">Os Três Patetas são os irmãos Wrong, três inventores que tentam terminar de construir um avião para vender ao exército e evitar o recrutamento. Quando seu avião, o Buzzard, acaba se revelando um fracasso, os meninos são recrutados para o exército.</desc>
-			<date>20210403</date>
-			<category lang="en">Classics</category>
-			<category lang="en">Classic Comedies</category>
-			<episode-num system="onscreen">19</episode-num>
-
-	</programme>
 	<programme start="20210403115700 -0300" stop="20210403121700 -0300" channel="os-tres-patetas">
 			<title lang="en">Os Três Patetas</title>
 			<sub-title lang="en">Sim, não temos Bonanza</sub-title>
@@ -2229,6 +2159,66 @@
 			<episode-num system="onscreen">73</episode-num>
 
 	</programme>
+	<programme start="20210403181500 -0300" stop="20210403183700 -0300" channel="os-tres-patetas">
+			<title lang="en">Os Três Patetas</title>
+			<sub-title lang="en">Atiradores de meio tiro</sub-title>
+			<desc lang="en">Os Três Patetas são dispensados do exército após a Primeira Guerra Mundial e resolvem arquitetar uma vingança contra seu sargento malvado.</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Comedies</category>
+			<episode-num system="onscreen">29</episode-num>
+
+	</programme>
+	<programme start="20210403183700 -0300" stop="20210403185800 -0300" channel="os-tres-patetas">
+			<title lang="en">Os Três Patetas</title>
+			<sub-title lang="en">Sede de Vitória</sub-title>
+			<desc lang="en">Um cavalo é um Pateta, claro que sim. Quando os Três Patetas se veem com um cavalo coxo, eles descobrem o que o deixará quente na pista: pimenta!</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Comedies</category>
+			<episode-num system="onscreen">51</episode-num>
+
+	</programme>
+	<programme start="20210403185800 -0300" stop="20210403191900 -0300" channel="os-tres-patetas">
+			<title lang="en">Os Três Patetas</title>
+			<sub-title lang="en">Wee Wee Mr.</sub-title>
+			<desc lang="en">Paris é para os amantes, e também para os Três Patetas, como artistas que lutam e se embananam ao tentar resgatar um capitão militar dos sequestradores.</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Comedies</category>
+			<episode-num system="onscreen">75</episode-num>
+
+	</programme>
+	<programme start="20210403191900 -0300" stop="20210403194000 -0300" channel="os-tres-patetas">
+			<title lang="en">Os Três Patetas</title>
+			<sub-title lang="en">Cookoo Cavaliers</sub-title>
+			<desc lang="en">Os Três Patetas são vendedores de peixe que, em busca de uma nova oportunidade de negócio, abrem um salão de beleza ao sul da fronteira. Suas primeiras clientes são as coristas de uma boate local.</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Comedies</category>
+			<episode-num system="onscreen">15</episode-num>
+
+	</programme>
+	<programme start="20210403194000 -0300" stop="20210403195800 -0300" channel="os-tres-patetas">
+			<title lang="en">Os Três Patetas</title>
+			<sub-title lang="en">Manequins da mamãe</sub-title>
+			<desc lang="en">No Antigo Egito, os Três Patetas administram um estacionamento de carruagens usadas, onde entregam carruagens defeituosas a clientes desavisados. Quando enganam o chefe da guarda do palácio, eles são levados para serem executados.</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Comedies</category>
+			<episode-num system="onscreen">99</episode-num>
+
+	</programme>
+	<programme start="20210403195800 -0300" stop="20210403201900 -0300" channel="os-tres-patetas">
+			<title lang="en">Os Três Patetas</title>
+			<sub-title lang="en">Os três problemáticos</sub-title>
+			<desc lang="en">No Velho Oeste, os Três Patetas se tornam marechais em uma cidade com uma alta taxa de mortalidade entre os homens da lei. Eles decidem impedir um casamento entre o vilão Blackie e a heroína Nell, cujo pai Blackie sequestrara.</desc>
+			<date>20210403</date>
+			<category lang="en">Classics</category>
+			<category lang="en">Classic Comedies</category>
+			<episode-num system="onscreen">71</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-investigacao-ptv1">
 			<display-name>Pluto TV Investigação</display-name>
 			<display-name>254</display-name>
@@ -2236,36 +2226,6 @@
 			<icon src="http://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403093400 -0300" stop="20210403102700 -0300" channel="pluto-tv-investigacao-ptv1">
-			<title lang="en">Divisão de Homicídios</title>
-			<sub-title lang="en">Episódio 6</sub-title>
-			<desc lang="en">Um bastão cheio de sangue e a casa revirada são as provas que a polícia tem para identificar o responsável pelo crime.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Crime Documentaries</category>
-			<episode-num system="onscreen">6</episode-num>
-
-	</programme>
-	<programme start="20210403102700 -0300" stop="20210403112100 -0300" channel="pluto-tv-investigacao-ptv1">
-			<title lang="en">Divisão de Homicídios</title>
-			<sub-title lang="en">Episódio 7</sub-title>
-			<desc lang="en">Criminosos invadem uma residência para assaltar e acabam matando a dona da casa. Acompanhe a divisão de homicídios investigando o caso.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Crime Documentaries</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
-	<programme start="20210403112100 -0300" stop="20210403114900 -0300" channel="pluto-tv-investigacao-ptv1">
-			<title lang="en">Anatomia do Crime</title>
-			<sub-title lang="en">Gil Rugai</sub-title>
-			<desc lang="en">Inveja? Rejeição? Herança? Quais foram os sentimentos que levaram o estudante Gil Rugai a executar o homicídio do próprio pai?</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Crime Documentaries</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
 	<programme start="20210403114900 -0300" stop="20210403121700 -0300" channel="pluto-tv-investigacao-ptv1">
 			<title lang="en">Anatomia do Crime</title>
 			<sub-title lang="en">Assassino em série de Itaquaquecetuba</sub-title>
@@ -2356,6 +2316,46 @@
 			<episode-num system="onscreen">8</episode-num>
 
 	</programme>
+	<programme start="20210403180300 -0300" stop="20210403183200 -0300" channel="pluto-tv-investigacao-ptv1">
+			<title lang="en">Anatomia do Crime</title>
+			<sub-title lang="en">Bianca Consoli</sub-title>
+			<desc lang="en">Bianca Consoli é encontrada morta dentro da própria casa, onde deveria estar segura. Entenda a mente do cruel assassino por trás deste crime.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Crime Documentaries</category>
+			<episode-num system="onscreen">9</episode-num>
+
+	</programme>
+	<programme start="20210403183200 -0300" stop="20210403192700 -0300" channel="pluto-tv-investigacao-ptv1">
+			<title lang="en">Crime 360</title>
+			<sub-title lang="en">Sangue nas Pistas</sub-title>
+			<desc lang="en">Os detetives Entenok e Sandoval são chamados a uma cena de crime onde uma pessoa é encontrada morta em um esgoto de 1,2 m de diâmetro. O corpo está a 300 pés de profundidade no cano.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Crime Documentaries</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
+	<programme start="20210403192700 -0300" stop="20210403195600 -0300" channel="pluto-tv-investigacao-ptv1">
+			<title lang="en">Hackers</title>
+			<sub-title lang="en">Segurança IOT</sub-title>
+			<desc lang="en">A &apos;internet das coisas&apos; já está presente em nossas vidas, seja em eletrodomésticos, televisões e outros aparelhos. Conheça os perigos da IoT, e aprenda como utilizá-la de forma segura.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Crime Documentaries</category>
+			<episode-num system="onscreen">9</episode-num>
+
+	</programme>
+	<programme start="20210403195600 -0300" stop="20210403202600 -0300" channel="pluto-tv-investigacao-ptv1">
+			<title lang="en">Hackers</title>
+			<sub-title lang="en">#Ativismo</sub-title>
+			<desc lang="en">A forma como é feito o ativismo mudou assim como o mundo, veja os lados positivos e negativos do ativismo digital.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Crime Documentaries</category>
+			<episode-num system="onscreen">10</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-vida-real-ptv1">
 			<display-name>Pluto TV Vida Real</display-name>
 			<display-name>267</display-name>
@@ -2363,36 +2363,6 @@
 			<icon src="http://images.pluto.tv/channels/5f32d4d9ec194100070c7449/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403093100 -0300" stop="20210403100200 -0300" channel="pluto-tv-vida-real-ptv1">
-			<title lang="en">Sobre Rodas América Latina</title>
-			<sub-title lang="en">Episódio 5</sub-title>
-			<desc lang="en">Neste episódio vamos dirigir nossas lentes para personagens que exercem atividades onde a palavra - falada ou escrita - é sua principal matéria-prima.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Travel &amp; Adventure Documentaries</category>
-			<episode-num system="onscreen">5</episode-num>
-
-	</programme>
-	<programme start="20210403100200 -0300" stop="20210403103200 -0300" channel="pluto-tv-vida-real-ptv1">
-			<title lang="en">Sobre Rodas América Latina</title>
-			<sub-title lang="en">Episódio 6</sub-title>
-			<desc lang="en">Este episódio vai destacar personagens que fazem da cata e da venda de objetos e materiais recicláveis sua principal fonte de renda, mas que, em muitos casos, é também uma paixão.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Travel &amp; Adventure Documentaries</category>
-			<episode-num system="onscreen">6</episode-num>
-
-	</programme>
-	<programme start="20210403103200 -0300" stop="20210403112400 -0300" channel="pluto-tv-vida-real-ptv1">
-			<title lang="en">Os Super-Humanos de Stan Lee: Lobo Humano</title>
-			<sub-title lang="en">Lobo Humano</sub-title>
-			<desc lang="en">Patrick Musimu é capaz de mergulhar até 200 metros com uma única respiração. Miroslaw Magola afirma ter o poder da psicocinese. Shaun Ellis se tornou um lobo, por viver com eles. Eskil pode realizar incríveis feitos de equilíbrio.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Biographical Documentaries</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403112400 -0300" stop="20210403122100 -0300" channel="pluto-tv-vida-real-ptv1">
 			<title lang="en">Socorro Imediato</title>
 			<sub-title lang="en">Episódio 12</sub-title>
@@ -2483,6 +2453,26 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403184000 -0300" stop="20210403193200 -0300" channel="pluto-tv-vida-real-ptv1">
+			<title lang="en">Os Super-Humanos de Stan Lee: Boneco de Teste de Colisão Humano</title>
+			<sub-title lang="en">Boneco de Teste de Colisão Humano</sub-title>
+			<desc lang="en">Sao Machii é um samurai moderno da vida real. O Dr. Norman Gary pode controlar um enxame inteiro de centenas de milhares de abelhas! Steve Santini é um escapista que realiza fugas incríveis que exigem destreza e controle do corpo diante da morte.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Biographical Documentaries</category>
+			<episode-num system="onscreen">2</episode-num>
+
+	</programme>
+	<programme start="20210403193200 -0300" stop="20210403202400 -0300" channel="pluto-tv-vida-real-ptv1">
+			<title lang="en">Os Super-Humanos de Stan Lee: Homem-Borracha</title>
+			<sub-title lang="en">Homem-Borracha</sub-title>
+			<desc lang="en">Tim permite que algumas das cobras mais mortais do mundo o mordam. Dan Meyers reina como o melhor engolidor de espadas do mundo. Garry Stretch Turner tem a pele mais elástica do mundo. Yves, voa a uma velocidade de 300 km/h.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Biographical Documentaries</category>
+			<episode-num system="onscreen">3</episode-num>
+
+	</programme>
 	<channel id="porta-dos-fundos">
 			<display-name>Porta dos Fundos</display-name>
 			<display-name>512</display-name>
@@ -2490,66 +2480,6 @@
 			<icon src="http://images.pluto.tv/channels/5f36f2346ede750007332d11/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403094100 -0300" stop="20210403100400 -0300" channel="porta-dos-fundos">
-			<title lang="en">Porta Afora</title>
-			<sub-title lang="en">Gay Friendly</sub-title>
-			<desc lang="en">A forma das pessoas lidarem com expressões da sexualidade varia muito em cada lugar. Nesse episódio, você vai conhecer destinos onde dá pra viver experiências locais sendo você mesmo, sem levar desaforo pra casa, só lembranças boas.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Spoofs and Satire</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
-	<programme start="20210403100400 -0300" stop="20210403102600 -0300" channel="porta-dos-fundos">
-			<title lang="en">Porta Afora</title>
-			<sub-title lang="en">Histórias de Avião</sub-title>
-			<desc lang="en">Histórias de avião vão além da aeronave. Existe toda uma saga até a chegada ao aeroporto, e todos os obstáculos por lá: filas enormes, banheiros lotados, lanches caríssimos, voos atrasados... Até conseguir fazer o embarque.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Spoofs and Satire</category>
-			<episode-num system="onscreen">4</episode-num>
-
-	</programme>
-	<programme start="20210403102600 -0300" stop="20210403104800 -0300" channel="porta-dos-fundos">
-			<title lang="en">Porta Afora</title>
-			<sub-title lang="en">Peru</sub-title>
-			<desc lang="en">O Peru não é só o país da piada pronta. Além de ficar pertinho do Brasil, a região foi berço da civilização Inca e é rica em trilhas, arqueologia, história, gastronomia, lhamas e belezas naturais para serem exploradas.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Spoofs and Satire</category>
-			<episode-num system="onscreen">5</episode-num>
-
-	</programme>
-	<programme start="20210403104800 -0300" stop="20210403111000 -0300" channel="porta-dos-fundos">
-			<title lang="en">Porta Afora</title>
-			<sub-title lang="en">Viagem de Carro</sub-title>
-			<desc lang="en">Quem viaja bastante provavelmente já passou pelas experiências mais variadas envolvendo os meios de transporte. E dependendo de alguns fatores como destino, duração da viagem e distância, o carro pode ser a melhor opção.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Spoofs and Satire</category>
-			<episode-num system="onscreen">6</episode-num>
-
-	</programme>
-	<programme start="20210403111000 -0300" stop="20210403113200 -0300" channel="porta-dos-fundos">
-			<title lang="en">Porta Afora</title>
-			<sub-title lang="en">Fui Pra Ver</sub-title>
-			<desc lang="en">Nem sempre o que desperta alguma emoção está ao seu alcance, mas isso não é um problema. O que te movimenta às vezes pode te levar pra longe, até mesmo fazer você sair do país.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Spoofs and Satire</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
-	<programme start="20210403113200 -0300" stop="20210403115500 -0300" channel="porta-dos-fundos">
-			<title lang="en">Porta Afora</title>
-			<sub-title lang="en">Pelo Brasil</sub-title>
-			<desc lang="en">O Brasil é muito mais do que a terra do futebol, ou bundas, ou Carnaval, ou um país tropical bonito por natureza, ou 7x1 pra Alemanha. São cinco regiões completamente diferentes em suas comidas e festas típicas, reservas naturais e história.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Spoofs and Satire</category>
-			<episode-num system="onscreen">8</episode-num>
-
-	</programme>
 	<programme start="20210403115500 -0300" stop="20210403121700 -0300" channel="porta-dos-fundos">
 			<title lang="en">Porta Afora</title>
 			<sub-title lang="en">Viagens e Vinhos</sub-title>
@@ -2710,6 +2640,36 @@
 			<episode-num system="onscreen">3</episode-num>
 
 	</programme>
+	<programme start="20210403182800 -0300" stop="20210403190100 -0300" channel="porta-dos-fundos">
+			<title lang="en">Porta no Comedy XXL</title>
+			<sub-title lang="en">Episódio 4</sub-title>
+			<desc lang="en">O elenco de “Porta dos Fundos” nos apresenta muitas outras esquetes especialmente selecionadas. Se prepare, pois aqui veremos um amigo secreto de final de ano constrangedor, um dia no hospício e descobertas em uma terapia de casal.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">Spoofs and Satire</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
+	<programme start="20210403190100 -0300" stop="20210403193400 -0300" channel="porta-dos-fundos">
+			<title lang="en">Porta no Comedy XXL</title>
+			<sub-title lang="en">Episódio 5</sub-title>
+			<desc lang="en">Nesse episódio, temos um compilado incrível de esquetes, que conta com um teste de elenco para Saci, um taxista bastante seletivo que não leva qualquer um em seu táxi, uma tentativa fracassada de término de namoro e uma barbearia bastante prafrentex.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">Spoofs and Satire</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
+	<programme start="20210403193400 -0300" stop="20210403200600 -0300" channel="porta-dos-fundos">
+			<title lang="en">Porta no Comedy XXL</title>
+			<sub-title lang="en">Episódio 6</sub-title>
+			<desc lang="en">Nesse sexto episódio de “Porta XXL”, é melhor você estar preparado e com fôlego pra ver uma preparadora de elenco bastante peculiar e única, que usa de estratégias bastante duvidosas pra obter o melhor de seu elenco.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">Spoofs and Satire</category>
+			<episode-num system="onscreen">6</episode-num>
+
+	</programme>
 	<channel id="babyfirst-ptv1">
 			<display-name>Babyfirst</display-name>
 			<display-name>702</display-name>
@@ -2717,46 +2677,6 @@
 			<icon src="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403094400 -0300" stop="20210403102000 -0300" channel="babyfirst-ptv1">
-			<title lang="en">123, e já!</title>
-			<sub-title lang="en">Episode 2</sub-title>
-			<desc lang="en">Vamos correr e contar enquanto nos divertimos muito com Carry, Push e Lift! Hoje eles vão correr na savana, na fazenda e em vários outros lugares!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Education &amp; Guidance</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403102000 -0300" stop="20210403105200 -0300" channel="babyfirst-ptv1">
-			<title lang="en">Doces Sonhos</title>
-			<sub-title lang="en">Episode 2</sub-title>
-			<desc lang="en">Esse bloco noturno relaxante acalma seu filho enquanto você assiste formas e cores no caleidoscópio e lindos animais.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Education &amp; Guidance</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403105200 -0300" stop="20210403112500 -0300" channel="babyfirst-ptv1">
-			<title lang="en">Doces Sonhos</title>
-			<sub-title lang="en">Episódio 5</sub-title>
-			<desc lang="en">Coloque seu bebê em uma jornada tranquila com esse show noturno com o melhor conteúdo relaxante do BabyFirst.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Education &amp; Guidance</category>
-			<episode-num system="onscreen">5</episode-num>
-
-	</programme>
-	<programme start="20210403112500 -0300" stop="20210403115800 -0300" channel="babyfirst-ptv1">
-			<title lang="en">Doces Sonhos</title>
-			<sub-title lang="en">Episode 3</sub-title>
-			<desc lang="en">Ouça a melodia calmante de Lullaby de Brahms e assista formas e cores pelo caleidoscópio.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Education &amp; Guidance</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
 	<programme start="20210403115800 -0300" stop="20210403123300 -0300" channel="babyfirst-ptv1">
 			<title lang="en">Harry e Larry - Profissionais</title>
 			<sub-title lang="en">Episode 1</sub-title>
@@ -2867,6 +2787,36 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403181500 -0300" stop="20210403184800 -0300" channel="babyfirst-ptv1">
+			<title lang="en">Doces Sonhos</title>
+			<sub-title lang="en">Episode 10</sub-title>
+			<desc lang="en">Esse bloco noturno relaxante acalma seu filho enquanto você vê carrosséis coloridos e lindos animais.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Education &amp; Guidance</category>
+			<episode-num system="onscreen">10</episode-num>
+
+	</programme>
+	<programme start="20210403184800 -0300" stop="20210403194600 -0300" channel="babyfirst-ptv1">
+			<title lang="en">Baby Class: Primeiras Palavras e Números</title>
+			<sub-title lang="en">Episode 1</sub-title>
+			<desc lang="en">Baby Class apresenta aos seus pequeninos palavras, números e outros conhecimentos pré-escolares. Hoje, temos Carry, Push, Lift e os pinguins. Conheça um golfinho. Veja o que médicos vestem com Harry &amp; Larry. Confira!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Education &amp; Guidance</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
+	<programme start="20210403194600 -0300" stop="20210403202100 -0300" channel="babyfirst-ptv1">
+			<title lang="en">Brincando com Al</title>
+			<sub-title lang="en">Episódio 1</sub-title>
+			<desc lang="en">O Brincando com Al se resume a interagir com seu filho e aprender coisas novas! Al é uma marionete amigável e engraçada, sempre curioso e feliz. Hoje vamos cantar, resolver enigmas com Al e ouvir sua história especial sobre uma tartaruga!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Education &amp; Guidance</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="failarmy-ptv1">
 			<display-name>FailArmy</display-name>
 			<display-name>502</display-name>
@@ -2874,46 +2824,6 @@
 			<icon src="http://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095600 -0300" stop="20210403102600 -0300" channel="failarmy-ptv1">
-			<title lang="en">Playlist de Cassetadas: Olá sexta-feira</title>
-			<sub-title lang="en">Olá sexta-feira</sub-title>
-			<desc lang="en">A festa começa com uma batida imperfeita. Uma variedade de fails fantásticos acompanhados por música.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Fails &amp; Pranks</category>
-			<episode-num system="onscreen">17</episode-num>
-
-	</programme>
-	<programme start="20210403102600 -0300" stop="20210403105500 -0300" channel="failarmy-ptv1">
-			<title lang="en">Cassetadas do Dia: Exótico falha e ficando chapado</title>
-			<sub-title lang="en">Exótico falha e ficando chapado</sub-title>
-			<desc lang="en">Ação FailArmy ininterrupta, com sua dose diária de falhas e vídeos hilários.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Fails &amp; Pranks</category>
-			<episode-num system="onscreen">32</episode-num>
-
-	</programme>
-	<programme start="20210403105500 -0300" stop="20210403112400 -0300" channel="failarmy-ptv1">
-			<title lang="en">Cassetadas do Dia: Pistolas de batata e skates falham</title>
-			<sub-title lang="en">Pistolas de batata e skates falham</sub-title>
-			<desc lang="en">Ação FailArmy ininterrupta, com sua dose diária de falhas e vídeos hilários.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Fails &amp; Pranks</category>
-			<episode-num system="onscreen">5</episode-num>
-
-	</programme>
-	<programme start="20210403112400 -0300" stop="20210403115400 -0300" channel="failarmy-ptv1">
-			<title lang="en">Fábrica de Desastres</title>
-			<sub-title lang="en">Cães desajeitados</sub-title>
-			<desc lang="en">Todo cachorro tem seu dia de fracasso. Se foi capturado pela câmera, provavelmente é neste episódio.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Fails &amp; Pranks</category>
-			<episode-num system="onscreen">101</episode-num>
-
-	</programme>
 	<programme start="20210403115400 -0300" stop="20210403125500 -0300" channel="failarmy-ptv1">
 			<title lang="en">Top 100 Cassetadas do Ano</title>
 			<sub-title lang="en">Os 100 melhores vídeos virais da JukinVideo de 2018</sub-title>
@@ -3034,6 +2944,46 @@
 			<episode-num system="onscreen">606</episode-num>
 
 	</programme>
+	<programme start="20210403182300 -0300" stop="20210403185200 -0300" channel="failarmy-ptv1">
+			<title lang="en">Cassetadas do Dia: Drone falha e problemas de coluna no futuro</title>
+			<sub-title lang="en">Drone falha e problemas de coluna no futuro</sub-title>
+			<desc lang="en">Ação FailArmy ininterrupta, com sua dose diária de falhas e vídeos hilários.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">Fails &amp; Pranks</category>
+			<episode-num system="onscreen">56</episode-num>
+
+	</programme>
+	<programme start="20210403185200 -0300" stop="20210403190800 -0300" channel="failarmy-ptv1">
+			<title lang="en">Cassetadas do Mês: Episódio 13</title>
+			<sub-title lang="en">Episódio 13</sub-title>
+			<desc lang="en">OMG, isso simplesmente aconteceu? Sim. infelizmente, certamente. Bem-vindo a uma compilação das falhas mais recentes do mês no mundo.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">Fails &amp; Pranks</category>
+			<episode-num system="onscreen">13</episode-num>
+
+	</programme>
+	<programme start="20210403190800 -0300" stop="20210403193700 -0300" channel="failarmy-ptv1">
+			<title lang="en">Cassetadas do Dia: Não é o melhor dos amigos</title>
+			<sub-title lang="en">Não é o melhor dos amigos</sub-title>
+			<desc lang="en">Ação FailArmy ininterrupta, com sua dose diária de falhas e vídeos hilários.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">Fails &amp; Pranks</category>
+			<episode-num system="onscreen">29</episode-num>
+
+	</programme>
+	<programme start="20210403193700 -0300" stop="20210403200700 -0300" channel="failarmy-ptv1">
+			<title lang="en">Fábrica de Desastres</title>
+			<sub-title lang="en">Reino selvagem selvagem</sub-title>
+			<desc lang="en">Muitas filas ... mas a maioria falha.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">Fails &amp; Pranks</category>
+			<episode-num system="onscreen">612</episode-num>
+
+	</programme>
 	<channel id="people-are-awesome-ptv1">
 			<display-name>People are Awesome</display-name>
 			<display-name>173</display-name>
@@ -3041,46 +2991,6 @@
 			<icon src="http://images.pluto.tv/channels/5f515d080e738d000739e19c/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095100 -0300" stop="20210403102100 -0300" channel="people-are-awesome-ptv1">
-			<title lang="en">Pessoas Incríveis: Demostrações</title>
-			<sub-title lang="en">Acima e além</sub-title>
-			<desc lang="en">O céu é o limite para esses atletas e artistas.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Miscellaneous Documentaries</category>
-			<episode-num system="onscreen">13</episode-num>
-
-	</programme>
-	<programme start="20210403102100 -0300" stop="20210403105000 -0300" channel="people-are-awesome-ptv1">
-			<title lang="en">Exibições Incríveis</title>
-			<sub-title lang="en">Ao ar livre, Vol. 1</sub-title>
-			<desc lang="en">Esses atletas aproveitam os maiores praças.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Miscellaneous Documentaries</category>
-			<episode-num system="onscreen">10</episode-num>
-
-	</programme>
-	<programme start="20210403105000 -0300" stop="20210403111900 -0300" channel="people-are-awesome-ptv1">
-			<title lang="en">Pessoas Incríveis: Os Melhores</title>
-			<sub-title lang="en">Episódio 7</sub-title>
-			<desc lang="en">Uma rena com massa azeda, cerâmica em miniatura, dominó e muito mais.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Miscellaneous Documentaries</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
-	<programme start="20210403111900 -0300" stop="20210403114800 -0300" channel="people-are-awesome-ptv1">
-			<title lang="en">Pessoas Incríveis: Os Melhores</title>
-			<sub-title lang="en">Episódio 9</sub-title>
-			<desc lang="en">Uma escultura incomum de coruja, um incrível equilíbrio, uma tela de vinil e muito mais.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Miscellaneous Documentaries</category>
-			<episode-num system="onscreen">9</episode-num>
-
-	</programme>
 	<programme start="20210403114800 -0300" stop="20210403121700 -0300" channel="people-are-awesome-ptv1">
 			<title lang="en">Pessoas Incríveis: Os Melhores</title>
 			<sub-title lang="en">Episódio 13</sub-title>
@@ -3211,6 +3121,46 @@
 			<episode-num system="onscreen">6</episode-num>
 
 	</programme>
+	<programme start="20210403180800 -0300" stop="20210403183700 -0300" channel="people-are-awesome-ptv1">
+			<title lang="en">Pessoas Incríveis: Os Melhores</title>
+			<sub-title lang="en">Episódio 2</sub-title>
+			<desc lang="en">Um tubarão de madeira compensada, grafite de tigre com penas, uma cabeça nas nuvens e muito mais.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Miscellaneous Documentaries</category>
+			<episode-num system="onscreen">2</episode-num>
+
+	</programme>
+	<programme start="20210403183700 -0300" stop="20210403190700 -0300" channel="people-are-awesome-ptv1">
+			<title lang="en">Sucessos e Fracassos</title>
+			<sub-title lang="en">People Are Awesome vs. Fail Army</sub-title>
+			<desc lang="en">É expectativa versus realidade nesta colaboração especial de People Are Awsome com Fail Army que mostra algumas das vitórias mais épicas e fracassos hilários.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Miscellaneous Documentaries</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
+	<programme start="20210403190700 -0300" stop="20210403193600 -0300" channel="people-are-awesome-ptv1">
+			<title lang="en">Pessoas Incríveis: Os Melhores</title>
+			<sub-title lang="en">Episódio 9</sub-title>
+			<desc lang="en">Esta arte vale mais que mil palavras, mas vamos deixá-la falar por si.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Miscellaneous Documentaries</category>
+			<episode-num system="onscreen">9</episode-num>
+
+	</programme>
+	<programme start="20210403193600 -0300" stop="20210403200500 -0300" channel="people-are-awesome-ptv1">
+			<title lang="en">Exibições Incríveis</title>
+			<sub-title lang="en">Mundo de inverno</sub-title>
+			<desc lang="en">Seja qual for o clima, esses atletas brilham.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Miscellaneous Documentaries</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
 	<channel id="the-pet-collective-ptv1">
 			<display-name>The Pet Collective</display-name>
 			<display-name>505</display-name>
@@ -3218,66 +3168,6 @@
 			<icon src="http://images.pluto.tv/channels/5f515ebac01c0f00080e8439/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095400 -0300" stop="20210403100800 -0300" channel="the-pet-collective-ptv1">
-			<title lang="en">Pets do Mês</title>
-			<sub-title lang="en">Episódio 1</sub-title>
-			<desc lang="en">Os melhores animais de estimação de 19 de janeiro.</desc>
-			<date>20210403</date>
-			<category lang="en">News and Information</category>
-			<category lang="en">Pets</category>
-			<episode-num system="onscreen">201</episode-num>
-
-	</programme>
-	<programme start="20210403100800 -0300" stop="20210403102200 -0300" channel="the-pet-collective-ptv1">
-			<title lang="en">Pets do Mês</title>
-			<sub-title lang="en">Episódio 2</sub-title>
-			<desc lang="en">Os melhores animais de estimação de 19 de fevereiro.</desc>
-			<date>20210403</date>
-			<category lang="en">News and Information</category>
-			<category lang="en">Pets</category>
-			<episode-num system="onscreen">202</episode-num>
-
-	</programme>
-	<programme start="20210403102200 -0300" stop="20210403103600 -0300" channel="the-pet-collective-ptv1">
-			<title lang="en">Pets do Mês</title>
-			<sub-title lang="en">Episódio 3</sub-title>
-			<desc lang="en">Os melhores animais de estimação para março de 19.</desc>
-			<date>20210403</date>
-			<category lang="en">News and Information</category>
-			<category lang="en">Pets</category>
-			<episode-num system="onscreen">203</episode-num>
-
-	</programme>
-	<programme start="20210403103600 -0300" stop="20210403105000 -0300" channel="the-pet-collective-ptv1">
-			<title lang="en">Pets do Mês</title>
-			<sub-title lang="en">Episódio 4</sub-title>
-			<desc lang="en">Os melhores animais de estimação para abril de 19.</desc>
-			<date>20210403</date>
-			<category lang="en">News and Information</category>
-			<category lang="en">Pets</category>
-			<episode-num system="onscreen">204</episode-num>
-
-	</programme>
-	<programme start="20210403105000 -0300" stop="20210403112000 -0300" channel="the-pet-collective-ptv1">
-			<title lang="en">Amor de Cachorrinhos</title>
-			<sub-title lang="en">Episódio 9</sub-title>
-			<desc lang="en">Os cachorrinhos mais fofos. Sem parar.</desc>
-			<date>20210403</date>
-			<category lang="en">News and Information</category>
-			<category lang="en">Pets</category>
-			<episode-num system="onscreen">109</episode-num>
-
-	</programme>
-	<programme start="20210403112000 -0300" stop="20210403115000 -0300" channel="the-pet-collective-ptv1">
-			<title lang="en">Amor de Gatinhos: Episódio 3</title>
-			<sub-title lang="en">Episódio 3</sub-title>
-			<desc lang="en">Os gatinhos mais fofos. Sem escalas.</desc>
-			<date>20210403</date>
-			<category lang="en">Other</category>
-			<category lang="en">None</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
 	<programme start="20210403115000 -0300" stop="20210403122000 -0300" channel="the-pet-collective-ptv1">
 			<title lang="en">Horário Nobre Animal</title>
 			<sub-title lang="en">Episódio 1</sub-title>
@@ -3398,6 +3288,16 @@
 			<episode-num system="onscreen">14</episode-num>
 
 	</programme>
+	<programme start="20210403195000 -0300" stop="20210403200500 -0300" channel="the-pet-collective-ptv1">
+			<title lang="en">Amor de Gatinhos</title>
+			<sub-title lang="en">Episódio 1</sub-title>
+			<desc lang="en">Amor de gatinho!</desc>
+			<date>20210403</date>
+			<category lang="en">Other</category>
+			<category lang="en">None</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="fashionbox">
 			<display-name>Pluto TV Fashionbox</display-name>
 			<display-name>563</display-name>
@@ -3405,26 +3305,6 @@
 			<icon src="http://images.pluto.tv/channels/5f516730b78b7600079294f5/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403091400 -0300" stop="20210403101700 -0300" channel="fashionbox">
-			<title lang="en">Fashion from Seoul</title>
-			<sub-title lang="en">Episódio 2</sub-title>
-			<desc lang="en">Confira as últimas tendências da moda da capital da alta costura da Ásia. Com ênfase em roupas de rua e híbridas, esta é uma grande oportunidade de ver como a moda inova e próspera fora da Europa e da América.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Miscellaneous Documentaries</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403101700 -0300" stop="20210403112100 -0300" channel="fashionbox">
-			<title lang="en">Fashion from Seoul</title>
-			<sub-title lang="en">Episódio 3</sub-title>
-			<desc lang="en">Confira as últimas tendências da moda da capital da alta costura da Ásia. Com ênfase em roupas de rua e híbridas, esta é uma grande oportunidade de ver como a moda inova e próspera fora da Europa e da América.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Miscellaneous Documentaries</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
 	<programme start="20210403112100 -0300" stop="20210403122200 -0300" channel="fashionbox">
 			<title lang="en">Fashion from Seoul</title>
 			<sub-title lang="en">Episódio 4</sub-title>
@@ -3495,6 +3375,36 @@
 			<episode-num system="onscreen">4</episode-num>
 
 	</programme>
+	<programme start="20210403183600 -0300" stop="20210403191100 -0300" channel="fashionbox">
+			<title lang="en">LA Fashionweek Fall Winter 2018</title>
+			<sub-title lang="en">Episódio 1</sub-title>
+			<desc lang="en">Com quase 30 Desenhadores, a Los Angeles Fashion Week deste ano; Edição Outono Inverno, prepare-se para ver nomes como Bonito Santos, Candice Cuoco, Kentaro Kameyama e muitos outros, mostrando suas novas criações.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Miscellaneous Documentaries</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
+	<programme start="20210403191100 -0300" stop="20210403194700 -0300" channel="fashionbox">
+			<title lang="en">LA Fashionweek Fall Winter 2018</title>
+			<sub-title lang="en">Episódio 2</sub-title>
+			<desc lang="en">Com quase 30 Desenhadores, a Los Angeles Fashion Week deste ano; Edição Outono Inverno, prepare-se para ver nomes como Bonito Santos, Candice Cuoco, Kentaro Kameyama e muitos outros, mostrando suas novas criações.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Miscellaneous Documentaries</category>
+			<episode-num system="onscreen">2</episode-num>
+
+	</programme>
+	<programme start="20210403194700 -0300" stop="20210403202200 -0300" channel="fashionbox">
+			<title lang="en">LA Fashionweek Fall Winter 2018</title>
+			<sub-title lang="en">Episódio 3</sub-title>
+			<desc lang="en">Com quase 30 Desenhadores, a Los Angeles Fashion Week deste ano; Edição Outono Inverno, prepare-se para ver nomes como Bonito Santos, Candice Cuoco, Kentaro Kameyama e muitos outros, mostrando suas novas criações.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Miscellaneous Documentaries</category>
+			<episode-num system="onscreen">3</episode-num>
+
+	</programme>
 	<channel id="pluto-tv-filmes-nacionais">
 			<display-name>Pluto TV Filmes Nacionais</display-name>
 			<display-name>81</display-name>
@@ -3502,16 +3412,6 @@
 			<icon src="http://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095800 -0300" stop="20210403114900 -0300" channel="pluto-tv-filmes-nacionais">
-			<title lang="en">Bossa Nova</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Mary Ann Simpson mora no Rio e ensina inglês a vários alunos, como o craque de futebol Acácio e o advogado Pedro Paulo, ambos apaixonados por ela.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">Romantic Comedies</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403114900 -0300" stop="20210403142100 -0300" channel="pluto-tv-filmes-nacionais">
 			<title lang="en">Lula, O Filho Do Brasil</title>
 			<sub-title lang="en"/>
@@ -3542,6 +3442,16 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403181000 -0300" stop="20210403201300 -0300" channel="pluto-tv-filmes-nacionais">
+			<title lang="en">Faroeste Caboclo</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Baseado na música escrita por Renato Russo, o longa acompanha a história de João do Santo Cristo, que deixa Salvador, sua cidade natal, e se muda para a Brasília em busca de uma vida melhor.</desc>
+			<date>20210403</date>
+			<category lang="en">Action &amp; Adventure</category>
+			<category lang="en">Adventures</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="o-reino-infantil-ptv1">
 			<display-name>O Reino Infantil</display-name>
 			<display-name>717</display-name>
@@ -3549,46 +3459,6 @@
 			<icon src="http://images.pluto.tv/channels/5f5c216df68f920007888315/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403093400 -0300" stop="20210403100600 -0300" channel="o-reino-infantil-ptv1">
-			<title lang="en">O Reino Infantil</title>
-			<sub-title lang="en">Episódio 144</sub-title>
-			<desc lang="en">Estreia um novo programa no Reino Infantil com as canções mais pedidas e os episódios mais divertidos! Você irá cantar e dançar muito com todos seus personagens preferidos!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Kids&apos; Music</category>
-			<episode-num system="onscreen">144</episode-num>
-
-	</programme>
-	<programme start="20210403100600 -0300" stop="20210403103600 -0300" channel="o-reino-infantil-ptv1">
-			<title lang="en">O Reino Infantil</title>
-			<sub-title lang="en">Episódio 145</sub-title>
-			<desc lang="en">Estreia um novo programa no Reino Infantil com as canções mais pedidas e os episódios mais divertidos! Você irá cantar e dançar muito com todos seus personagens preferidos!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Kids&apos; Music</category>
-			<episode-num system="onscreen">145</episode-num>
-
-	</programme>
-	<programme start="20210403103600 -0300" stop="20210403110700 -0300" channel="o-reino-infantil-ptv1">
-			<title lang="en">O Reino Infantil</title>
-			<sub-title lang="en">Episódio 146</sub-title>
-			<desc lang="en">Estreia um novo programa no Reino Infantil com as canções mais pedidas e os episódios mais divertidos! Você irá cantar e dançar muito com todos seus personagens preferidos!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Kids&apos; Music</category>
-			<episode-num system="onscreen">146</episode-num>
-
-	</programme>
-	<programme start="20210403110700 -0300" stop="20210403113700 -0300" channel="o-reino-infantil-ptv1">
-			<title lang="en">O Reino Infantil</title>
-			<sub-title lang="en">Episódio 147</sub-title>
-			<desc lang="en">Estreia um novo programa no Reino Infantil com as canções mais pedidas e os episódios mais divertidos! Você irá cantar e dançar muito com todos seus personagens preferidos!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Kids&apos; Music</category>
-			<episode-num system="onscreen">147</episode-num>
-
-	</programme>
 	<programme start="20210403113700 -0300" stop="20210403120700 -0300" channel="o-reino-infantil-ptv1">
 			<title lang="en">O Reino Infantil</title>
 			<sub-title lang="en">Episódio 148</sub-title>
@@ -3719,6 +3589,46 @@
 			<episode-num system="onscreen">160</episode-num>
 
 	</programme>
+	<programme start="20210403181800 -0300" stop="20210403185000 -0300" channel="o-reino-infantil-ptv1">
+			<title lang="en">O Reino Infantil</title>
+			<sub-title lang="en">Episódio 161</sub-title>
+			<desc lang="en">Estreia um novo programa no Reino Infantil com as canções mais pedidas e os episódios mais divertidos! Você irá cantar e dançar muito com todos seus personagens preferidos!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; Music</category>
+			<episode-num system="onscreen">161</episode-num>
+
+	</programme>
+	<programme start="20210403185000 -0300" stop="20210403192200 -0300" channel="o-reino-infantil-ptv1">
+			<title lang="en">O Reino Infantil</title>
+			<sub-title lang="en">Episódio 162</sub-title>
+			<desc lang="en">Estreia um novo programa no Reino Infantil com as canções mais pedidas e os episódios mais divertidos! Você irá cantar e dançar muito com todos seus personagens preferidos!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; Music</category>
+			<episode-num system="onscreen">162</episode-num>
+
+	</programme>
+	<programme start="20210403192200 -0300" stop="20210403195400 -0300" channel="o-reino-infantil-ptv1">
+			<title lang="en">O Reino Infantil</title>
+			<sub-title lang="en">Episódio 163</sub-title>
+			<desc lang="en">Estreia um novo programa no Reino Infantil com as canções mais pedidas e os episódios mais divertidos! Você irá cantar e dançar muito com todos seus personagens preferidos!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; Music</category>
+			<episode-num system="onscreen">163</episode-num>
+
+	</programme>
+	<programme start="20210403195400 -0300" stop="20210403202600 -0300" channel="o-reino-infantil-ptv1">
+			<title lang="en">O Reino Infantil</title>
+			<sub-title lang="en">Episódio 164</sub-title>
+			<desc lang="en">Estreia um novo programa no Reino Infantil com as canções mais pedidas e os episódios mais divertidos! Você irá cantar e dançar muito com todos seus personagens preferidos!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Kids&apos; Music</category>
+			<episode-num system="onscreen">164</episode-num>
+
+	</programme>
 	<channel id="mtv-are-you-the-one-ptv1">
 			<display-name>MTV Are you the One?</display-name>
 			<display-name>159</display-name>
@@ -3726,26 +3636,6 @@
 			<icon src="http://images.pluto.tv/channels/5f6108d8cc331900075e98e4/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403094300 -0300" stop="20210403103200 -0300" channel="mtv-are-you-the-one-ptv1">
-			<title lang="en">Are You The One?</title>
-			<sub-title lang="en">Episódio 2</sub-title>
-			<desc lang="en">As tensões na casa começam a aflorar enquanto os triângulos amorosos se formam entre os participantes.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Social &amp; Cultural Documentaries</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403103200 -0300" stop="20210403112100 -0300" channel="mtv-are-you-the-one-ptv1">
-			<title lang="en">Are You The One?</title>
-			<sub-title lang="en">Episódio 3</sub-title>
-			<desc lang="en">Lágrimas são derramadas quando um dos triângulos amorosos da casa chega ao fim. Todos ficam chocados quando um dos participantes revela ainda ser virgem.</desc>
-			<date>20210403</date>
-			<category lang="en">Documentaries</category>
-			<category lang="en">Social &amp; Cultural Documentaries</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
 	<programme start="20210403112100 -0300" stop="20210403121000 -0300" channel="mtv-are-you-the-one-ptv1">
 			<title lang="en">Are You The One?</title>
 			<sub-title lang="en">Episódio 4</sub-title>
@@ -3836,6 +3726,26 @@
 			<episode-num system="onscreen">2</episode-num>
 
 	</programme>
+	<programme start="20210403184200 -0300" stop="20210403193100 -0300" channel="mtv-are-you-the-one-ptv1">
+			<title lang="en">Are You The One?</title>
+			<sub-title lang="en">Limbo do Libido</sub-title>
+			<desc lang="en">Um romance em potencial desaba após um banho de água fria na cabine da verdade. Hannah leva as investidas de Kiki em Chuck para o lado pessoal.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Social &amp; Cultural Documentaries</category>
+			<episode-num system="onscreen">3</episode-num>
+
+	</programme>
+	<programme start="20210403193100 -0300" stop="20210403202000 -0300" channel="mtv-are-you-the-one-ptv1">
+			<title lang="en">Are You The One?</title>
+			<sub-title lang="en">Confuso e Complicado</sub-title>
+			<desc lang="en">Os erros dos participantes continuam ameaçando as chances de ganharem o prêmio máximo.</desc>
+			<date>20210403</date>
+			<category lang="en">Documentaries</category>
+			<category lang="en">Social &amp; Cultural Documentaries</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
 	<channel id="naruto-ptv1">
 			<display-name>Naruto</display-name>
 			<display-name>186</display-name>
@@ -3843,56 +3753,6 @@
 			<icon src="http://images.pluto.tv/channels/5f6df5a173d7340007c559f7/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403093600 -0300" stop="20210403100300 -0300" channel="naruto-ptv1">
-			<title lang="en">Naruto</title>
-			<sub-title lang="en">Batalha No Mar : O Poder Liberado!</sub-title>
-			<desc lang="en">Os ninjas da Folha e Amachi se enfrentam no mar. Com a ajuda de Naruto, Amachi é derrotado, mas um monstro aparece. Naruto invoca Gamabunta para derrotá-lo.</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Anime Series</category>
-			<episode-num system="onscreen">173</episode-num>
-
-	</programme>
-	<programme start="20210403100300 -0300" stop="20210403103000 -0300" channel="naruto-ptv1">
-			<title lang="en">Naruto</title>
-			<sub-title lang="en">Impossível!Arte Ninja: Jutsu Estilo Dinheiro!</sub-title>
-			<desc lang="en">Kunijiro visita Tsunade e escolhe Naruto para guiar seu garoto por um dia na vida de um ninja!</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Anime Series</category>
-			<episode-num system="onscreen">174</episode-num>
-
-	</programme>
-	<programme start="20210403103000 -0300" stop="20210403105700 -0300" channel="naruto-ptv1">
-			<title lang="en">Naruto</title>
-			<sub-title lang="en">A Caça Ao Tesouro Começa!</sub-title>
-			<desc lang="en">Agari Kaisen, um amigo de Tsunade, pede a Naruto, Kiba, e Hinata que procurem um tesouro escondido. Achando ser uma tarefa fácil por terem um mapa, Tsunade ameaça mandá-los de volta à Academia, se falharem.</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Anime Series</category>
-			<episode-num system="onscreen">175</episode-num>
-
-	</programme>
-	<programme start="20210403105700 -0300" stop="20210403112400 -0300" channel="naruto-ptv1">
-			<title lang="en">Naruto</title>
-			<sub-title lang="en">Corra! Esquive-Se Em Zigue-Zague! Caçar Ou Ser Caçado!</sub-title>
-			<desc lang="en">Depois de escaparem da caverna, Naruto e os outros vão atrás da clã Kedouin para impedir seu plano, mas a Aldeia Oculta da Folha já está sendo atacada.</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Anime Series</category>
-			<episode-num system="onscreen">176</episode-num>
-
-	</programme>
-	<programme start="20210403112400 -0300" stop="20210403115100 -0300" channel="naruto-ptv1">
-			<title lang="en">Naruto</title>
-			<sub-title lang="en">Por Favor, Senhor Carteiro!</sub-title>
-			<desc lang="en">Naruto descobre que Jiraiya está aprontando algo. Jiraiya diz que está ocupado preparando seu manuscrito antes do prazo final. Naruto, impaciente e irritado, escreve seu próprio manuscrito para Jiraiya!</desc>
-			<date>20210403</date>
-			<category lang="en">Anime</category>
-			<category lang="en">Anime Series</category>
-			<episode-num system="onscreen">177</episode-num>
-
-	</programme>
 	<programme start="20210403115100 -0300" stop="20210403121800 -0300" channel="naruto-ptv1">
 			<title lang="en">Naruto</title>
 			<sub-title lang="en">Encontro! Um Menino Com Nome De Estrela</sub-title>
@@ -4033,6 +3893,56 @@
 			<episode-num system="onscreen">191</episode-num>
 
 	</programme>
+	<programme start="20210403180900 -0300" stop="20210403183600 -0300" channel="naruto-ptv1">
+			<title lang="en">Naruto</title>
+			<sub-title lang="en">Ino Grita! Paraíso Da Gordura!</sub-title>
+			<desc lang="en">A princesa engordou por estar nervosa e quer que Ino finja de princesa para poder ir ao primeiro encontro com um príncipe que ela adora.</desc>
+			<date>20210403</date>
+			<category lang="en">Anime</category>
+			<category lang="en">Anime Series</category>
+			<episode-num system="onscreen">192</episode-num>
+
+	</programme>
+	<programme start="20210403183600 -0300" stop="20210403190300 -0300" channel="naruto-ptv1">
+			<title lang="en">Naruto</title>
+			<sub-title lang="en">O Desafio Dojo!A Juventude Tem Tudo A Ver Com Paixão</sub-title>
+			<desc lang="en">Lee abre um dojo por achar que não está treinando o suficiente. Ele espera que desafiantes venham ao dojo para lutá-lo.</desc>
+			<date>20210403</date>
+			<category lang="en">Anime</category>
+			<category lang="en">Anime Series</category>
+			<episode-num system="onscreen">193</episode-num>
+
+	</programme>
+	<programme start="20210403190300 -0300" stop="20210403193000 -0300" channel="naruto-ptv1">
+			<title lang="en">Naruto</title>
+			<sub-title lang="en">A Misteriosa Maldição Do Castelo Mal-Assombrado</sub-title>
+			<desc lang="en">A primeira-dama do País do Mel e seu cortejo desapareceram. Naruto, Kiba e Hinata vão numa missão e descobrem um castelo amedrontador no meio do caminho.</desc>
+			<date>20210403</date>
+			<category lang="en">Anime</category>
+			<category lang="en">Anime Series</category>
+			<episode-num system="onscreen">194</episode-num>
+
+	</programme>
+	<programme start="20210403193000 -0300" stop="20210403195700 -0300" channel="naruto-ptv1">
+			<title lang="en">Naruto</title>
+			<sub-title lang="en">A Terceira Super Besta!</sub-title>
+			<desc lang="en">Durante a examinação médica de Lee, ele descobre que sua rede de chacra está muito prejudicada. Guy o leva para treinar na Academia para animá-lo.</desc>
+			<date>20210403</date>
+			<category lang="en">Anime</category>
+			<category lang="en">Anime Series</category>
+			<episode-num system="onscreen">195</episode-num>
+
+	</programme>
+	<programme start="20210403195700 -0300" stop="20210403202400 -0300" channel="naruto-ptv1">
+			<title lang="en">Naruto</title>
+			<sub-title lang="en">Confronto De Sangue-Quente: Aluno Contra Sensei</sub-title>
+			<desc lang="en">Procurando se vingar da morte de seu pai, Genho, a verdadeira identidade de Yagura e o mais velho dos irmãos Ryudoin, confronta Guy usando um jutsu distinto.</desc>
+			<date>20210403</date>
+			<category lang="en">Anime</category>
+			<category lang="en">Anime Series</category>
+			<episode-num system="onscreen">196</episode-num>
+
+	</programme>
 	<channel id="a-vida-moderna-de-rocko">
 			<display-name>A vida moderna de Rocko</display-name>
 			<display-name>731</display-name>
@@ -4040,46 +3950,6 @@
 			<icon src="http://images.pluto.tv/channels/5f6df6293a12e10007017396/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403094500 -0300" stop="20210403101500 -0300" channel="a-vida-moderna-de-rocko">
-			<title lang="en">A Vida Moderna de Rocko</title>
-			<sub-title lang="en">Entrando pelo cano / Melhor impossível</sub-title>
-			<desc lang="en">O encanamento de Rocko está entupido graças a Vacão. Eles resolvem consertar e descobrem um peixinho dourado. / Rocko tem que retirar o apêndice e alucina.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403101500 -0300" stop="20210403104400 -0300" channel="a-vida-moderna-de-rocko">
-			<title lang="en">A Vida Moderna de Rocko</title>
-			<sub-title lang="en">A ilha de quelônios / O uniforme</sub-title>
-			<desc lang="en">Felizberto deve desovar nas ilhas mas não quer. Tem medo de crescer, mas descobre que não é tao ruim assim. / Vacão se torna guarda de segurança e fica assustado.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">9</episode-num>
-
-	</programme>
-	<programme start="20210403104400 -0300" stop="20210403111200 -0300" channel="a-vida-moderna-de-rocko">
-			<title lang="en">A Vida Moderna de Rocko</title>
-			<sub-title lang="en">Uma compra feliz / O resfriado</sub-title>
-			<desc lang="en">Rocko e Spunky correm até o mercado para aproveitar uma liquidação. / Rocko pega uma gripe e deve se curar antes da disputa de luta livre na noite seguinte.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
-	<programme start="20210403111200 -0300" stop="20210403114200 -0300" channel="a-vida-moderna-de-rocko">
-			<title lang="en">A Vida Moderna de Rocko</title>
-			<sub-title lang="en">O penteado / O boliche</sub-title>
-			<desc lang="en">Rocko vai tirar uma foto para o jornal de O-Town, mas infelizmente, o cabelo acordou num mau dia. / Ed Cabeção fará de tudo para ganhar o troféu de um campeonato.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">10</episode-num>
-
-	</programme>
 	<programme start="20210403114200 -0300" stop="20210403121200 -0300" channel="a-vida-moderna-de-rocko">
 			<title lang="en">A Vida Moderna de Rocko</title>
 			<sub-title lang="en">Filhinho da mamãe / Fantasmas mal-humorados</sub-title>
@@ -4210,6 +4080,46 @@
 			<episode-num system="onscreen">2</episode-num>
 
 	</programme>
+	<programme start="20210403180700 -0300" stop="20210403183700 -0300" channel="a-vida-moderna-de-rocko">
+			<title lang="en">A Vida Moderna de Rocko</title>
+			<sub-title lang="en">O Ed é bom, o Rocko é mau / Um show de golfe</sub-title>
+			<desc lang="en">Rocko é injustamente preso no canil de O-Town e fica indignado com as condições de lá. / Vacão começa a trabalhar num campo de golfe e se envolve em política.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
+	<programme start="20210403183700 -0300" stop="20210403190700 -0300" channel="a-vida-moderna-de-rocko">
+			<title lang="en">A Vida Moderna de Rocko</title>
+			<sub-title lang="en">Mecânico maníaco / Insetos felizes</sub-title>
+			<desc lang="en">O carro de Rocko morre mas é ressuscitado para vencer a corrida da cidade. Rocko se envolve num plano de retirar o estoque de insetos do menu de Ed Cabeção.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
+	<programme start="20210403190700 -0300" stop="20210403193800 -0300" channel="a-vida-moderna-de-rocko">
+			<title lang="en">A Vida Moderna de Rocko</title>
+			<sub-title lang="en">Nada pra se cheirar / Velho sapo fora de forma</sub-title>
+			<desc lang="en">Bev ganha um nariz numa cirurgia acidental e passa a desfrutar os aromas, menos o do marido. Ed entra em crise e tenta recuperar a juventude com a turma.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
+	<programme start="20210403193800 -0300" stop="20210403200700 -0300" channel="a-vida-moderna-de-rocko">
+			<title lang="en">A Vida Moderna de Rocko</title>
+			<sub-title lang="en">Quem vem para o jantar / Dor de amor</sub-title>
+			<desc lang="en">Vacão convida Rocko para jantar com sua família. / Rocko vai a um programa de namoro na TV.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
 	<channel id="turma-da-monica">
 			<display-name>Turma da Mônica</display-name>
 			<display-name>719</display-name>
@@ -4217,16 +4127,6 @@
 			<icon src="http://images.pluto.tv/channels/5f997e44949bc70007a6941e/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403094000 -0300" stop="20210403105900 -0300" channel="turma-da-monica">
-			<title lang="en">Cine Gibi 8: ...Tá Brincando?</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Cascão e Cebolinha roubam o Sansão, coelhinho da Mônica, e fogem para o cinema. Agora vamos acompanhar as maiores confusões e histórias da turma por lá!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403105900 -0300" stop="20210403120900 -0300" channel="turma-da-monica">
 			<title lang="en">Turma da Mônica Apresenta: Magali</title>
 			<sub-title lang="en"/>
@@ -4337,6 +4237,26 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403184600 -0300" stop="20210403194400 -0300" channel="turma-da-monica">
+			<title lang="en">Turma da Mônica: Clássicos Volume II</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Os grandes clássicos da Turma da Mônica reunidos em mais um volume. Muitas aventuras, planos infalíveis e risadas. Relembre os grandes momentos do bairro do Limoeiro!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
+	<programme start="20210403194400 -0300" stop="20210403210600 -0300" channel="turma-da-monica">
+			<title lang="en">Cine Gibi 6: Hora do Banho</title>
+			<sub-title lang="en"/>
+			<desc lang="en">A Turma da Mônica se reúne para assistir às histórias do Cascão projetadas na super invenção do Franjinha: um liquidificador que transforma gibis em filmes. Pegue o seu guarda-chuva, pois nenhum pingo pode cair por aqui!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="as-pistas-de-blue">
 			<display-name>As  Pistas de Blue</display-name>
 			<display-name>707</display-name>
@@ -4344,46 +4264,6 @@
 			<icon src="http://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095700 -0300" stop="20210403102700 -0300" channel="as-pistas-de-blue">
-			<title lang="en">As Pistas de Blue</title>
-			<sub-title lang="en">Com que Blue sonhou?</sub-title>
-			<desc lang="en">Blue teve um sonho especial e nós vamos jogar as Pistas de Blue para descobrir mais sobre ele! Enquanto isso, vamos descobrir também sobre os sonhos de nossos amigos Sr. Sal, Dona Pimenta e Sabão.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">6</episode-num>
-
-	</programme>
-	<programme start="20210403102700 -0300" stop="20210403105700 -0300" channel="as-pistas-de-blue">
-			<title lang="en">As Pistas de Blue</title>
-			<sub-title lang="en">Festa à fantasia da Blue</sub-title>
-			<desc lang="en">Chegou o dia da festa à fantasia de Blue e muitas brincadeiras assustadores e divertidas vão acontecer hoje. Como Magenta não tem uma fantasia, nós vamos brincar de Pistas de Blue para ajuda-la a encontrar o figurino perfeito!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">18</episode-num>
-
-	</programme>
-	<programme start="20210403105700 -0300" stop="20210403112700 -0300" channel="as-pistas-de-blue">
-			<title lang="en">As Pistas de Blue</title>
-			<sub-title lang="en">O episódio perdido</sub-title>
-			<desc lang="en">Na aventura de hoje, vamos jogar as Pistas de Blue para descobrir onde a cachorrinha azul estava quando perdeu sua mochila. Guiados por uma mão falante, vamos encontrar brinquedos perdidos e ajudar Felix a achar suas coisas.</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">13</episode-num>
-
-	</programme>
-	<programme start="20210403112700 -0300" stop="20210403115700 -0300" channel="as-pistas-de-blue">
-			<title lang="en">As Pistas de Blue</title>
-			<sub-title lang="en">Ambientes</sub-title>
-			<desc lang="en">Steve e Blue vão viajar! Agora, nós precisamos brincar de Pistas de Blue para descobrir para onde eles estão indo!</desc>
-			<date>20210403</date>
-			<category lang="en">Children &amp; Family</category>
-			<category lang="en">Family Animation</category>
-			<episode-num system="onscreen">17</episode-num>
-
-	</programme>
 	<programme start="20210403115700 -0300" stop="20210403122700 -0300" channel="as-pistas-de-blue">
 			<title lang="en">As Pistas de Blue</title>
 			<sub-title lang="en">Músicas de todas as formas</sub-title>
@@ -4514,6 +4394,46 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403182500 -0300" stop="20210403185500 -0300" channel="as-pistas-de-blue">
+			<title lang="en">As Pistas de Blue</title>
+			<sub-title lang="en">Desenhe com Blue</sub-title>
+			<desc lang="en">Hoje é dia de desenho! E nós vamos jogar pistas de Blue para descobrir o que a Blue quer desenhar. Ao longo do dia, encontraremos Mark, o Marcador, e ajudaremos a Garota Giz a desenhar formas.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">13</episode-num>
+
+	</programme>
+	<programme start="20210403185500 -0300" stop="20210403192500 -0300" channel="as-pistas-de-blue">
+			<title lang="en">As Pistas de Blue</title>
+			<sub-title lang="en">O que Blue quer fazer?</sub-title>
+			<desc lang="en">Blue e Steve acabaram de fazer chapéus de jornal e a cachorrinha quer fazer outra coisa. Para descobrir o que, vamos jogar as Pistas de Blue!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">15</episode-num>
+
+	</programme>
+	<programme start="20210403192500 -0300" stop="20210403195500 -0300" channel="as-pistas-de-blue">
+			<title lang="en">As Pistas de Blue</title>
+			<sub-title lang="en">A camisa errada</sub-title>
+			<desc lang="en">Steve está usando roupas estranhas! Tudo está ao contrário por aqui, inclusive nossos amigos e nossa casa. Agora, nós precisamos brincas de Pistas de Blue para descobrir o oposto que Blue está pensando.</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">29</episode-num>
+
+	</programme>
+	<programme start="20210403195500 -0300" stop="20210403202500 -0300" channel="as-pistas-de-blue">
+			<title lang="en">As Pistas de Blue</title>
+			<sub-title lang="en">Blue na pré-história</sub-title>
+			<desc lang="en">Rarrr! Nossos amigos Pá e Baldinho descobriram pegadas de dinossauro no quintal! Steve decide fingir que é um dinossauro e nós vamos jogar pistas de Blue para descobrir o que Blue viu!</desc>
+			<date>20210403</date>
+			<category lang="en">Children &amp; Family</category>
+			<category lang="en">Family Animation</category>
+			<episode-num system="onscreen">24</episode-num>
+
+	</programme>
 	<channel id="guia-de-canais">
 			<display-name>Guia de Canais</display-name>
 			<display-name>1</display-name>
@@ -4521,36 +4441,6 @@
 			<icon src="http://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403093000 -0300" stop="20210403101700 -0300" channel="guia-de-canais">
-			<title lang="en">Guia de Canais</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV, é grátis!</desc>
-			<date>20210403</date>
-			<category lang="en">Other</category>
-			<category lang="en">None</category>
-			<episode-num system="onscreen">6</episode-num>
-
-	</programme>
-	<programme start="20210403101700 -0300" stop="20210403110400 -0300" channel="guia-de-canais">
-			<title lang="en">Guia de Canais</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV, é grátis!</desc>
-			<date>20210403</date>
-			<category lang="en">Other</category>
-			<category lang="en">None</category>
-			<episode-num system="onscreen">6</episode-num>
-
-	</programme>
-	<programme start="20210403110400 -0300" stop="20210403115100 -0300" channel="guia-de-canais">
-			<title lang="en">Guia de Canais</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV, é grátis!</desc>
-			<date>20210403</date>
-			<category lang="en">Other</category>
-			<category lang="en">None</category>
-			<episode-num system="onscreen">6</episode-num>
-
-	</programme>
 	<programme start="20210403115100 -0300" stop="20210403123800 -0300" channel="guia-de-canais">
 			<title lang="en">Guia de Canais</title>
 			<sub-title lang="en"/>
@@ -4631,6 +4521,36 @@
 			<episode-num system="onscreen">6</episode-num>
 
 	</programme>
+	<programme start="20210403180700 -0300" stop="20210403185400 -0300" channel="guia-de-canais">
+			<title lang="en">Guia de Canais</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV, é grátis!</desc>
+			<date>20210403</date>
+			<category lang="en">Other</category>
+			<category lang="en">None</category>
+			<episode-num system="onscreen">6</episode-num>
+
+	</programme>
+	<programme start="20210403185400 -0300" stop="20210403194100 -0300" channel="guia-de-canais">
+			<title lang="en">Guia de Canais</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV, é grátis!</desc>
+			<date>20210403</date>
+			<category lang="en">Other</category>
+			<category lang="en">None</category>
+			<episode-num system="onscreen">6</episode-num>
+
+	</programme>
+	<programme start="20210403194100 -0300" stop="20210403202800 -0300" channel="guia-de-canais">
+			<title lang="en">Guia de Canais</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Descubra a grande variedade de Canais, Filmes e Séries na PlutoTV, é grátis!</desc>
+			<date>20210403</date>
+			<category lang="en">Other</category>
+			<category lang="en">None</category>
+			<episode-num system="onscreen">6</episode-num>
+
+	</programme>
 	<channel id="tastemade-ptv2">
 			<display-name>Tastemade</display-name>
 			<display-name>556</display-name>
@@ -4638,46 +4558,6 @@
 			<icon src="http://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403100000 -0300" stop="20210403103000 -0300" channel="tastemade-ptv2">
-			<title lang="en">Receitas Comentadas: Delícias Salgadas e Duas Sobremesas</title>
-			<sub-title lang="en">Delícias Salgadas e Duas Sobremesas</sub-title>
-			<desc lang="en">Não entendeu alguma receita? Aprenda o passo a passo dos nossos pratos mais amados com a There, Fer, Bruna e Gabi.</desc>
-			<date>20210403</date>
-			<category lang="en">Instructional &amp; Educational</category>
-			<category lang="en">Cooking Instruction</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403103000 -0300" stop="20210403110000 -0300" channel="tastemade-ptv2">
-			<title lang="en">Receitas Comentadas: Tortas Deliciosas e Mais Receitas</title>
-			<sub-title lang="en">Tortas Deliciosas e Mais Receitas</sub-title>
-			<desc lang="en">Não entendeu alguma receita? Aprenda o passo a passo dos nossos pratos mais amados com a There, Fer, Bruna e Gabi.</desc>
-			<date>20210403</date>
-			<category lang="en">Instructional &amp; Educational</category>
-			<category lang="en">Cooking Instruction</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
-	<programme start="20210403110000 -0300" stop="20210403113000 -0300" channel="tastemade-ptv2">
-			<title lang="en">Receitas Comentadas: Pudins, Pizza, Bolos e Tortas</title>
-			<sub-title lang="en">Pudins, Pizza, Bolos e Tortas</sub-title>
-			<desc lang="en">Não entendeu alguma receita? Aprenda o passo a passo dos nossos pratos mais amados com a There, Fer, Bruna e Gabi.</desc>
-			<date>20210403</date>
-			<category lang="en">Instructional &amp; Educational</category>
-			<category lang="en">Cooking Instruction</category>
-			<episode-num system="onscreen">4</episode-num>
-
-	</programme>
-	<programme start="20210403113000 -0300" stop="20210403120000 -0300" channel="tastemade-ptv2">
-			<title lang="en">Liz Pede Bis: Cervejas, Kombuchas e Conservas</title>
-			<sub-title lang="en">Cervejas, Kombuchas e Conservas</sub-title>
-			<desc lang="en">Vocês sabem que a Liz ama experimentar de tudo, né? Em Liz Pede Bis, a nossa Rainha das Frutas vai provar muitas comidas diferentes: de chocolates a insetos</desc>
-			<date>20210403</date>
-			<category lang="en">News and Information</category>
-			<category lang="en">Food &amp; Wine</category>
-			<episode-num system="onscreen">7</episode-num>
-
-	</programme>
 	<programme start="20210403120000 -0300" stop="20210403123000 -0300" channel="tastemade-ptv2">
 			<title lang="en">Liz Pede Bis: Nostalgia: Balas, Chicletes e Pirulitos</title>
 			<sub-title lang="en">Nostalgia: Balas, Chicletes e Pirulitos</sub-title>
@@ -4808,6 +4688,46 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403183000 -0300" stop="20210403190000 -0300" channel="tastemade-ptv2">
+			<title lang="en">Coisas Que Nunca Comi: Buchada, Testículo, Formiga e Ovo Milenar</title>
+			<sub-title lang="en">Buchada, Testículo, Formiga e Ovo Milenar</sub-title>
+			<desc lang="en">Otávio Albuquerque visita diversos lugares para provar coisas que a maioria das pessoas não se atreve a comer. Ele tenta vencer seus próprios preconceitos enquanto conversa sobre os pratos com pessoas de diferentes culturas.</desc>
+			<date>20210403</date>
+			<category lang="en">News and Information</category>
+			<category lang="en">Food Stories</category>
+			<episode-num system="onscreen">2</episode-num>
+
+	</programme>
+	<programme start="20210403190000 -0300" stop="20210403193000 -0300" channel="tastemade-ptv2">
+			<title lang="en">Coisas Que Nunca Comi: Pizzaria Bate-Papo, Baiacu, Nam Prik Num e Chouriço</title>
+			<sub-title lang="en">Pizzaria Bate-Papo, Baiacu, Nam Prik Num e Chouriço</sub-title>
+			<desc lang="en">Otávio Albuquerque visita diversos lugares para provar coisas que a maioria das pessoas não se atreve a comer. Ele tenta vencer seus próprios preconceitos enquanto conversa sobre os pratos com pessoas de diferentes culturas.</desc>
+			<date>20210403</date>
+			<category lang="en">News and Information</category>
+			<category lang="en">Food Stories</category>
+			<episode-num system="onscreen">3</episode-num>
+
+	</programme>
+	<programme start="20210403193000 -0300" stop="20210403200000 -0300" channel="tastemade-ptv2">
+			<title lang="en">Coisas Que Nunca Comi: Café da Manhã, Molusco no Vapor e Enguia e Rã</title>
+			<sub-title lang="en">Café da Manhã, Molusco no Vapor e Enguia e Rã</sub-title>
+			<desc lang="en">Otávio Albuquerque visita diversos lugares para provar coisas que a maioria das pessoas não se atreve a comer. Ele tenta vencer seus próprios preconceitos enquanto conversa sobre os pratos com pessoas de diferentes culturas.</desc>
+			<date>20210403</date>
+			<category lang="en">News and Information</category>
+			<category lang="en">Food Stories</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
+	<programme start="20210403200000 -0300" stop="20210403203000 -0300" channel="tastemade-ptv2">
+			<title lang="en">Coisas Que Nunca Comi: Banquete de Casamento, Serpente Picante de Yueyang e Tofu Fedido</title>
+			<sub-title lang="en">Banquete de Casamento, Serpente Picante de Yueyang e Tofu Fedido</sub-title>
+			<desc lang="en">Otávio Albuquerque visita diversos lugares para provar coisas que a maioria das pessoas não se atreve a comer. Ele tenta vencer seus próprios preconceitos enquanto conversa sobre os pratos com pessoas de diferentes culturas.</desc>
+			<date>20210403</date>
+			<category lang="en">News and Information</category>
+			<category lang="en">Food Stories</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
 	<channel id="bet-pluto-tv-ptv1">
 			<display-name>BET Pluto TV</display-name>
 			<display-name>154</display-name>
@@ -4815,46 +4735,6 @@
 			<icon src="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095600 -0300" stop="20210403102100 -0300" channel="bet-pluto-tv-ptv1">
-			<title lang="en">Tyler Perry&apos;s Assisted Living: Agressão</title>
-			<sub-title lang="en">Agressão</sub-title>
-			<desc lang="en">Jeremy acha que pegou pesado demais com Vinny.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">African-American Comedies</category>
-			<episode-num system="onscreen">4</episode-num>
-
-	</programme>
-	<programme start="20210403102100 -0300" stop="20210403104500 -0300" channel="bet-pluto-tv-ptv1">
-			<title lang="en">Boomerang: Poder</title>
-			<sub-title lang="en">Poder</sub-title>
-			<desc lang="en">Bryson tenta vender Victoria no marketing de um filme negro de vanguarda. Enquanto isso, Simone busca oportunidades para Tia construir sua marca.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">African-American Comedies</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
-	<programme start="20210403104500 -0300" stop="20210403110900 -0300" channel="bet-pluto-tv-ptv1">
-			<title lang="en">Boomerang: Manda a Real</title>
-			<sub-title lang="en">Manda a Real</sub-title>
-			<desc lang="en">Simone, Crystal e Tia embarcam em uma noite noturna para resgatar a despreocupada irmã divina de Simone e seu namorado da prisão. Simone também lida com sua culpa pelo divórcio de Crystal e David.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">African-American Comedies</category>
-			<episode-num system="onscreen">4</episode-num>
-
-	</programme>
-	<programme start="20210403110900 -0300" stop="20210403115900 -0300" channel="bet-pluto-tv-ptv1">
-			<title lang="en">Sistas</title>
-			<sub-title lang="en">Uma Mulher Desumana</sub-title>
-			<desc lang="en">Mudanças no relacionamento da Andi a deixa abalada. Danni descobre mais sobre a luta de Zac sem Karen.</desc>
-			<date>20210403</date>
-			<category lang="en">Comedy</category>
-			<category lang="en">African-American Comedies</category>
-			<episode-num system="onscreen">3</episode-num>
-
-	</programme>
 	<programme start="20210403115900 -0300" stop="20210403124800 -0300" channel="bet-pluto-tv-ptv1">
 			<title lang="en">American Soul: Achados e Perdidos</title>
 			<sub-title lang="en">Achados e Perdidos</sub-title>
@@ -4945,6 +4825,46 @@
 			<episode-num system="onscreen">4</episode-num>
 
 	</programme>
+	<programme start="20210403180900 -0300" stop="20210403183400 -0300" channel="bet-pluto-tv-ptv1">
+			<title lang="en">Tyler Perry&apos;s Assisted Living: Pela Familia</title>
+			<sub-title lang="en">Pela Familia</sub-title>
+			<desc lang="en">Sandra tem uma reação adversa a sua nova situação.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">African-American Comedies</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
+	<programme start="20210403183400 -0300" stop="20210403185800 -0300" channel="bet-pluto-tv-ptv1">
+			<title lang="en">Boomerang: Manda a Real</title>
+			<sub-title lang="en">Manda a Real</sub-title>
+			<desc lang="en">Simone, Crystal e Tia embarcam em uma noite noturna para resgatar a despreocupada irmã divina de Simone e seu namorado da prisão. Simone também lida com sua culpa pelo divórcio de Crystal e David.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">African-American Comedies</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
+	<programme start="20210403185800 -0300" stop="20210403192200 -0300" channel="bet-pluto-tv-ptv1">
+			<title lang="en">Boomerang: O Final Da Festa</title>
+			<sub-title lang="en">O Final Da Festa</sub-title>
+			<desc lang="en">Ari convida a turma para sair quando dá uma festa em uma das casas noturnas mais badaladas de Atlanta. Enquanto estava lá, Simone tenta fazer com que o novo single de Tia seja tocado por um DJ.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">African-American Comedies</category>
+			<episode-num system="onscreen">5</episode-num>
+
+	</programme>
+	<programme start="20210403192200 -0300" stop="20210403201200 -0300" channel="bet-pluto-tv-ptv1">
+			<title lang="en">Sistas</title>
+			<sub-title lang="en">Novas Histórias</sub-title>
+			<desc lang="en">O relacionamento de Andi com Gary toma um rumo definitivo. A nova informação ajuda esclarecer a situação difícil da Sabrina.</desc>
+			<date>20210403</date>
+			<category lang="en">Comedy</category>
+			<category lang="en">African-American Comedies</category>
+			<episode-num system="onscreen">4</episode-num>
+
+	</programme>
 	<channel id="paramount-apresenta">
 			<display-name>Paramount+ Apresenta</display-name>
 			<display-name>100</display-name>
@@ -4952,36 +4872,6 @@
 			<icon src="http://images.pluto.tv/channels/60072798dcf437000755b4f3/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403093500 -0300" stop="20210403102600 -0300" channel="paramount-apresenta">
-			<title lang="en">Acapulco Shore: Aula de cortesia</title>
-			<sub-title lang="en">Aula de cortesia</sub-title>
-			<desc lang="en">As férias dos shore em Mazatlán começaram com tudo! Depois de muita bebida e festa na casa, os shores aproveitam a piscina, mas a rivalidade entre as meninas vem à tona. Nacha parte para cima de Dania. Jawy e Chile também brigam na piscina.</desc>
-			<date>20210403</date>
-			<category lang="en">Reality</category>
-			<category lang="en">Dating Show</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
-	<programme start="20210403102600 -0300" stop="20210403110800 -0300" channel="paramount-apresenta">
-			<title lang="en">Episódio 1</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Junte-se a esse grupo de quatro garotos e quatro garotas que passarão juntos seis semanas em Newcastle. No primeiro dia, eles se conhecem, conversam e já começam a primeira festa de Geordie Shore.</desc>
-			<date>20210403</date>
-			<category lang="en">Reality</category>
-			<category lang="en">Dating Show</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
-	<programme start="20210403110800 -0300" stop="20210403115800 -0300" channel="paramount-apresenta">
-			<title lang="en">Geordie Shore</title>
-			<sub-title lang="en">Episodio 2</sub-title>
-			<desc lang="en">Jay sabe que está se encaminhando para algo mais sério com Vicky e isso o traz diversos problemas na hora de sair para festas com o grupo, Charlotte tenta combater a ação de Gaz com outras garotas.</desc>
-			<date>20210403</date>
-			<category lang="en">Reality</category>
-			<category lang="en">Dating Show</category>
-			<episode-num system="onscreen">2</episode-num>
-
-	</programme>
 	<programme start="20210403115800 -0300" stop="20210403125800 -0300" channel="paramount-apresenta">
 			<title lang="en">A Culpa é do Cabral: Sexo</title>
 			<sub-title lang="en">Sexo</sub-title>
@@ -5062,6 +4952,26 @@
 			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
+	<programme start="20210403182900 -0300" stop="20210403192000 -0300" channel="paramount-apresenta">
+			<title lang="en">Acapulco Shore: Aula de cortesia</title>
+			<sub-title lang="en">Aula de cortesia</sub-title>
+			<desc lang="en">As férias dos shore em Mazatlán começaram com tudo! Depois de muita bebida e festa na casa, os shores aproveitam a piscina, mas a rivalidade entre as meninas vem à tona. Nacha parte para cima de Dania. Jawy e Chile também brigam na piscina.</desc>
+			<date>20210403</date>
+			<category lang="en">Reality</category>
+			<category lang="en">Dating Show</category>
+			<episode-num system="onscreen">2</episode-num>
+
+	</programme>
+	<programme start="20210403192000 -0300" stop="20210403200200 -0300" channel="paramount-apresenta">
+			<title lang="en">Episódio 1</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Junte-se a esse grupo de quatro garotos e quatro garotas que passarão juntos seis semanas em Newcastle. No primeiro dia, eles se conhecem, conversam e já começam a primeira festa de Geordie Shore.</desc>
+			<date>20210403</date>
+			<category lang="en">Reality</category>
+			<category lang="en">Dating Show</category>
+			<episode-num system="onscreen">1</episode-num>
+
+	</programme>
 	<channel id="loupe-ptv2">
 			<display-name>Loupe</display-name>
 			<display-name>566</display-name>
@@ -5069,26 +4979,6 @@
 			<icon src="http://images.pluto.tv/channels/600b248969c6580007e91a2d/solidLogoPNG.png"/>
 
 	</channel>
-	<programme start="20210403095000 -0300" stop="20210403105400 -0300" channel="loupe-ptv2">
-			<title lang="en">Fashion</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Uma fuga do mundo da moda de alta energia.</desc>
-			<date>20210403</date>
-			<category lang="en">Other</category>
-			<category lang="en">None</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
-	<programme start="20210403105400 -0300" stop="20210403115800 -0300" channel="loupe-ptv2">
-			<title lang="en">Visões Futuristas</title>
-			<sub-title lang="en"/>
-			<desc lang="en">Jornada hipnotizante em um universo de ficção científica</desc>
-			<date>20210403</date>
-			<category lang="en">Other</category>
-			<category lang="en">None</category>
-			<episode-num system="onscreen">1</episode-num>
-
-	</programme>
 	<programme start="20210403115800 -0300" stop="20210403130200 -0300" channel="loupe-ptv2">
 			<title lang="en">Estilos Gráficos</title>
 			<sub-title lang="en"/>
@@ -5147,6 +5037,26 @@
 			<category lang="en">Other</category>
 			<category lang="en">None</category>
 			<episode-num system="onscreen">3</episode-num>
+
+	</programme>
+	<programme start="20210403182200 -0300" stop="20210403192600 -0300" channel="loupe-ptv2">
+			<title lang="en">Surreal e Psicodélico</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Onde sonhos e realidade colidem.</desc>
+			<date>20210403</date>
+			<category lang="en">Other</category>
+			<category lang="en">None</category>
+			<episode-num system="onscreen">2</episode-num>
+
+	</programme>
+	<programme start="20210403192600 -0300" stop="20210403203000 -0300" channel="loupe-ptv2">
+			<title lang="en">Noites Tranquilas</title>
+			<sub-title lang="en"/>
+			<desc lang="en">Imagens calmantes que você merece</desc>
+			<date>20210403</date>
+			<category lang="en">Other</category>
+			<category lang="en">None</category>
+			<episode-num system="onscreen">1</episode-num>
 
 	</programme>
 </tv>
