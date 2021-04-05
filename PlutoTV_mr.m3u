@@ -34,7 +34,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c
 #EXTINF:0 channel-id="pluto-tv-cine-familia-ptv1" tvg-logo="https://imgur.com/fyEgJ1g.png" group-title="Pluto TV Brasil", Pluto TV Cine Família
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="paramount-apresenta" tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Pluto TV Brasil", Paramount+ Apresenta
+#EXTINF:0 channel-id="paramount-apresenta" tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg" group-title="Pluto TV Brasil", Paramount+ Apresenta
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-series-1" tvg-logo="https://imgur.com/SIUu1eO.png" group-title="Pluto TV Brasil", Pluto TV Séries
@@ -88,7 +88,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b00077
 #EXTINF:0 channel-id="fashionbox" tvg-logo="https://imgur.com/dSGszHV.png" group-title="Pluto TV Brasil", Pluto TV Fashionbox
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="loupe-ptv2" tvg-logo="http://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png" group-title="Pluto TV Brasil", Loupe
+#EXTINF:0 channel-id="loupe-ptv2" tvg-logo="http://images.pluto.tv/channels/600b248969c6580007e91a2d/featuredImage.jpg" group-title="Pluto TV Brasil", Loupe
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="babyfirst-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Pluto TV Brasil", Babyfirst
@@ -969,7 +969,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b26947
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956782-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f11f607-b195-41da-80ce-b246f72c0030&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-backcountry" tvg-logo="http://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="Pluto TV Estados Unidos", Pluto TV Backcountry
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956783-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a32fdde-af83-41ad-83ab-e1b53d2f580f&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956783-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeEplxtendedEvents=false&sid=7a32fdde-af83-41ad-83ab-e1b53d2f580f&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="paramount-movie-channel" tvg-logo="http://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Pluto TV Estados Unidos", Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc956784-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6097c046-5b82-478e-985a-3bd18781c95f&userId=&serverSideAds=true
