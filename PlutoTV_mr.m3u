@@ -46,10 +46,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a
 #EXTINF:0 channel-id="os-tres-patetas" tvg-logo="https://imgur.com/mZlKac0.png" group-title="Pluto TV Brasil", Os Três Patetas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c812-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1cd1cf22-327f-4dee-80be-2eb8d58b2da9&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="nosey-escandalos-ptv2" tvg-logo="http://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="Entretenimento", Nosey Escândalos
+#EXTINF:0 channel-id="nosey-escandalos-ptv2" tvg-logo="http://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="Pluto TV Brasil", Nosey Escândalos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d1fe1-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6293bb5c-4b9a-406f-b682-0d2353d080be&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="nosey-casos-ptv2" tvg-logo="http://images.pluto.tv/channels/5f9b096236af340008da3779/colorLogoPNG.png" group-title="Entretenimento", Nosey Casos
+#EXTINF:0 channel-id="nosey-casos-ptv2" tvg-logo="http://images.pluto.tv/channels/5f9b096236af340008da3779/colorLogoPNG.png" group-title="Pluto TV Brasil", Nosey Casos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d1fe2-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86014374-e7ad-45ae-8295-232f35e77e5b&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="bet-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="Pluto TV Brasil", BET Pluto TV
@@ -70,7 +70,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070
 #EXTINF:0 channel-id="naruto-ptv1" tvg-logo="https://imgur.com/046zDW4.png" group-title="Pluto TV Brasil", Naruto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="tokusato-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="Entretenimento", Tokusato
+#EXTINF:0 channel-id="tokusato-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="Pluto TV Brasil", Tokusato
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-investigacao-ptv1" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Pluto TV Brasil", Pluto TV Investigação
@@ -213,13 +213,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 
 ###################################### Entretenimiento ###########################################################
 
-#EXTINF:0 channel-id="tokusato" tvg-logo="http://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Entretenimiento", Tokusato
+#EXTINF:0 channel-id="tokusato" tvg-logo="http://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Pluto TV Argentina", Tokusato
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="nosey-escandalos-ptv1" tvg-logo="http://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Entretenimiento", Nosey Escándalos
+#EXTINF:0 channel-id="nosey-escandalos-ptv1" tvg-logo="http://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Pluto TV Argentina", Nosey Escándalos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9afb01816137000737f799/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9b9e94-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9b2a898c-7040-4bff-bd1e-d592627cbf9f&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="nosey-casos-ptv1" tvg-logo="http://images.pluto.tv/channels/5f9b005b66d1950007857df6/colorLogoPNG.png" group-title="Entretenimiento", Nosey Casos
+#EXTINF:0 channel-id="nosey-casos-ptv1" tvg-logo="http://images.pluto.tv/channels/5f9b005b66d1950007857df6/colorLogoPNG.png" group-title="Pluto TV Argentina", Nosey Casos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b005b66d1950007857df6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9bc5a0-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=976f275a-b9e8-4f1f-a035-2b8cae1da9c0&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-novelas" tvg-logo="https://imgur.com/0IPigWA.png" group-title="Pluto TV Argentina", Pluto TV Novelas
