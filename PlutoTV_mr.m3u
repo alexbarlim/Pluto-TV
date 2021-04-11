@@ -1886,7 +1886,7 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 
 ############################### WEB TV ######################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Tv RIO PRETO" tvg-logo="https://imgur.com/KOAETTr.png" group-title="WebTV",TV RIO PRETO
+#EXTINF:-1 tvg-id="" tvg-name="Tv RIO PRETO" tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="WebTV",TV RIO PRETO
 http://186.227.165.118:8081/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/3egKWgV.png" group-title="WebTV",Anime TV
@@ -1934,8 +1934,6 @@ https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vintage TV" tvg-logo="https://imgur.com/a8e5Fti.png" group-title="WebTV",Vintage TV
 https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="YEEAAH" tvg-logo="https://imgur.com/RuZxFXj.png" group-title="WebTV",YEEAAH
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 
 
