@@ -1780,8 +1780,8 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="TV",TV Brasil Oeste (RBTV)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",TV Cidade Verde (SBT PI) 
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",SBT GO 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1063219358_b1000000.m3u8
 
 #EXTINF:-1 tvg-id="Tvmanchete" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="TV",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
@@ -1903,6 +1903,12 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 
 
 ############################### WEB TV ######################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Wham TV Classic" tvg-logo="https://imgur.com/ReKQeg6s.png" group-title="WebTV",Wham TV Classic
+https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Wham TV" tvg-logo="https://imgur.com/u7tEtaZ.png" group-title="WebTV",Wham TV
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv RIO PRETO" tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="WebTV",TV RIO PRETO
 http://186.227.165.118:8081/live/livestream/playlist.m3u8
