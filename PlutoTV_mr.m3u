@@ -1725,7 +1725,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d0
 
 #####
 
-#EXTINF:0 channel-id="pluto-tv-kids-de" tvg-logo="http://images.pluto.tv/channels/5ad9b648e738977e2c312131/colorLogoPNG.png" group-title="Kids", Pluto TV Kids
+#EXTINF:0 channel-id="pluto-tv-kids-de" tvg-logo="http://images.pluto.tv/channels/5ad9b648e738977e2c312131/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d8384c0-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=359497e9-41b1-43dc-ba01-b962f7526aa9&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-history-de-plus" tvg-logo="http://images.pluto.tv/channels/5ad9b6941b95267e225e59c0/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV History+
@@ -1794,7 +1794,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf330ea5068259a32
 #EXTINF:0 channel-id="the-asylum-channel-de" tvg-logo="http://images.pluto.tv/channels/5cc81e793798650e4f7d9fd3/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", The Asylum Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cc81e793798650e4f7d9fd3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d84e451-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d04e1f1-76b9-43ce-b8b8-e420c44eb189&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="pluto-tv-kids-jr-de" tvg-logo="http://images.pluto.tv/channels/5cd1495bd9e0ec55c4ecbf52/colorLogoPNG.png" group-title="Kids", Pluto TV Kids Jr.
+#EXTINF:0 channel-id="pluto-tv-kids-jr-de" tvg-logo="http://images.pluto.tv/channels/5cd1495bd9e0ec55c4ecbf52/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Kids Jr.
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d84e452-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6f60cb09-62c1-43a0-8766-8df810d03039&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-sitcoms-de-plus" tvg-logo="http://images.pluto.tv/channels/5cd149f021cb6c55e258bbe8/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Sitcoms+
@@ -1812,7 +1812,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595f
 #EXTINF:0 channel-id="mtv-the-hills-de" tvg-logo="http://images.pluto.tv/channels/5d00e86bf0bac55fe7f75736/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", MTV The Hills
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d853271-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec17d2cc-dfea-4892-a286-d4263f49e62b&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="spongebob-de" tvg-logo="http://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="Kids", SpongeBob Schwammkopf
+#EXTINF:0 channel-id="spongebob-de" tvg-logo="http://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", SpongeBob Schwammkopf
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d853272-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7be9ee8f-c5f6-4988-ba1b-2206c4bec8d9&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-movies-de-plus" tvg-logo="http://images.pluto.tv/channels/5d0a1f73654db655a9274428/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Movies+(DE)
@@ -1860,13 +1860,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a56ce10f0b0009e
 #EXTINF:0 channel-id="mtv-catfish-tv-show-de" tvg-logo="http://images.pluto.tv/channels/5db6a697d5f34a000934cd13/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", MTV Catfish TV Show
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d875552-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7163e785-f6ba-4ac3-b833-17d28641b47f&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="inspector-gadget-de" tvg-logo="http://images.pluto.tv/channels/5dbc2d1ce10f0b0009e6cf9e/colorLogoPNG.png" group-title="Kids", Inspector Gadget
+#EXTINF:0 channel-id="inspector-gadget-de" tvg-logo="http://images.pluto.tv/channels/5dbc2d1ce10f0b0009e6cf9e/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Inspector Gadget
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d875553-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1168323f-a5a5-4ee9-bc46-7fb58501d67d&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="simsalabim-sabrina-de" tvg-logo="http://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" group-title="Kids", Simsalabim Sabrina
+#EXTINF:0 channel-id="simsalabim-sabrina-de" tvg-logo="http://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Simsalabim Sabrina
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d877c60-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6bd6b2-5fb7-4d27-8c20-f480524758ec&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="mario-vs-sonic-de" tvg-logo="http://images.pluto.tv/channels/5dc02ece31f6050009de4b39/colorLogoPNG.png" group-title="Kids", Mario vs. Sonic
+#EXTINF:0 channel-id="mario-vs-sonic-de" tvg-logo="http://images.pluto.tv/channels/5dc02ece31f6050009de4b39/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Mario vs. Sonic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d877c61-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3a0e340-7a21-4f52-a122-e8d7686c5ddf&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-drama-de" tvg-logo="http://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Drama
@@ -1953,7 +1953,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5ba20af62800070
 #EXTINF:0 channel-id="victorious-de" tvg-logo="http://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Victorious
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d888dd4-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc6ecaa8-f062-4291-ad23-4b48caade6c3&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="blaze-de" tvg-logo="http://images.pluto.tv/channels/5e8b60419becf60008c841fd/colorLogoPNG.png" group-title="Kids", Blaze
+#EXTINF:0 channel-id="blaze-de" tvg-logo="http://images.pluto.tv/channels/5e8b60419becf60008c841fd/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Blaze
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d888dd5-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e7029b84-aa4a-4f66-a9a7-befad0bba8a4&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-chefkoch-de" tvg-logo="http://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Chefkoch
@@ -1983,13 +1983,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e
 #EXTINF:0 channel-id="wipeout-ov-de" tvg-logo="http://images.pluto.tv/channels/5eb963c98ec06d00077d63cb/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Wipeout (OV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb963c98ec06d00077d63cb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d88dbf2-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d832dcb-20f2-48b3-9fe2-458d146657b5&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="nick-rewind-de" tvg-logo="http://images.pluto.tv/channels/5ed106ce4bf2e80007700bb3/colorLogoPNG.png" group-title="Kids", Nick Rewind
+#EXTINF:0 channel-id="nick-rewind-de" tvg-logo="http://images.pluto.tv/channels/5ed106ce4bf2e80007700bb3/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Nick Rewind
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d88dbf3-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16eac934-328d-48d4-9ec0-bc904e4bbf6f&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="nick-pluto-tv-de" tvg-logo="http://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="Kids", Nick Pluto TV
+#EXTINF:0 channel-id="nick-pluto-tv-de" tvg-logo="http://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Nick Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d88dbf4-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=514f4fca-1695-424d-8b19-2e41aa86cdaa&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="nick-jr-pluto-tv-de" tvg-logo="http://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png" group-title="Kids", Nick Jr. Pluto TV
+#EXTINF:0 channel-id="nick-jr-pluto-tv-de" tvg-logo="http://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Nick Jr. Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d88dbf5-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93cb4616-cfa4-4b82-aef1-86bd8ff1c799&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="auction-hunters-de" tvg-logo="http://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Auction Hunters
@@ -2004,7 +2004,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb54eaa5714d00074
 #EXTINF:0 channel-id="insight-tv-de" tvg-logo="http://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Insight TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f06bc60e236570007793f31/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d890303-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a9a51db-959c-4737-b271-a4470b5865e7&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="teen-nick-de" tvg-logo="http://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG.png" group-title="Kids", Teen Nick
+#EXTINF:0 channel-id="teen-nick-de" tvg-logo="http://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Teen Nick
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d890304-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af383497-a6f7-4627-b5b5-5ef94b6fd9d7&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="insight-tv-inwonder-de" tvg-logo="http://images.pluto.tv/channels/5f1004e0a5714d000745650d/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", InWonder
@@ -2028,7 +2028,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2c4e501f1800078
 #EXTINF:0 channel-id="i-carly-de-plus" tvg-logo="http://images.pluto.tv/channels/5f3d2cb9f5b291000773807a/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", iCarly+
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d895120-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec81599d-fbe1-4390-9a72-9e6314f2d333&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="emma-einfach-magisch-de" tvg-logo="http://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png" group-title="Kids", Emma, einfach magisch!
+#EXTINF:0 channel-id="emma-einfach-magisch-de" tvg-logo="http://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Emma, einfach magisch!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d895121-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=806bd430-160a-4d6d-ba60-447c42b4abcb&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="auto-motor-sport-channel-de" tvg-logo="http://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Auto Motor Sport
