@@ -2101,7 +2101,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/bdjkQIQ.png" group-title="TV",RBTV
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
@@ -2142,15 +2142,9 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 ############################### RADIOS ################################################
 
-#EXTINF:-1 tvg-logo="https://imgur.com/i2ZP1A9.png" group-title="Rádios/Música",ANIMU PLAYER
-https://cast.animu.com.br:8021/stream?0.3708711476219744
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="Rádios/Música",Catve FM 91.7
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="98 Live" tvg-logo="https://imgur.com/4WhBsGn.png" group-title="Rádios/Música", 98 Live
-https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="Rádios/Música", CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -2189,19 +2183,13 @@ https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_0932008
 http://midia.ac.gov.br/difusora
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IE4wLHC.png" group-title="Rádios/Música", Aldeia FM 96.9 Rio Branco
-http://midia.ac.gov.br/aldeiafm 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="Rádios/Música", Jovem Pan AM (Maceio) 1020
-http://radios.cabreuvoip.com.br:7056/;
+http://midia.ac.gov.br/aldeiafm
 
 #EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="Rádios/Música", Jovempan FM 106.7 Goiania
 http://sh2.upx.com.br:8052/stream/1/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/eLOy0cZ.png" group-title="Rádios/Música", Cultura FM 95.1
 http://srv04.brasilstream.com.br:8040/mp3
-
-#EXTINF:-1 tvg-logo="https://imgur.com/1k07VjA.png" group-title="Rádios/Música", Disney FM
-https://us-b4-p-e-zx8-audio.cdn.mdstrm.com/live-audio/5b7dcf9b7f880d076b1ed74d/5ddfc57f4bee0054b9b3f511/icecast.audio?pid=wXaH2z4aPPEdbzaydWv6UI1WOjoBdiVf&sid=chx6bHwckeidWPxIHSQlsShziQPHn3Zk&uid=UEbDRwzu08UOrL3sqqXlIOuar4vX99ZC&es=us-b4-p-e-zx8-audio.cdn.mdstrm.com&ote=1612288310048&ot=XLBLVrSgCkzHDBHG3llehw&proto=https&pz=us&cP=128000
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zt6kQo8.png" group-title="Rádios/Música", FM O Dia 100.5
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
@@ -2266,8 +2254,8 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 29 Wed TV" tvg-logo="https://imgur.com/SqLvHod.png" group-title="WebTV",Canal 29 Web TV
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Livre" tvg-logo="https://imgur.com/zeWelWM.png" group-title="WebTV",Cine Livre
-https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tela viva" tvg-logo="https://imgur.com/bOvP56V.png" group-title="WebTV",Tela Viva TV
+https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine Livre 2" tvg-logo="https://imgur.com/BGigxZx.png" group-title="WebTV",Cine Livre 2
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
@@ -2277,9 +2265,6 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Summer TV" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="WebTV",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
-
-#EXTINF:-1 tvg-name="TV Clássicos" tvg-logo="https://imgur.com/60rkuA8.png" tvg-shift="0" group-title="WebTV",TV Clássicos
-https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="WebTV",TV Latina Sat
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
@@ -2339,9 +2324,6 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32537
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes SD
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
 
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-logo="https://imgur.com/CTlYPLe.png" group-title="Temporário",Band Sports
-http://dns.velox4k.tech:2082/6893910914/6615263741/6919
-
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 
@@ -2350,9 +2332,6 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="Temporário",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Toocast" tvg-logo="https://imgur.com/lRC8IYg.png" group-title="Temporário",Toocast
-http://dns.velox4k.tech:2082/6893910914/6615263741/4256
 
 #EXTINF:-1 tvg-id="Lovenature.br" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
