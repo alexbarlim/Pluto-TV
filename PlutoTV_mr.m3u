@@ -2177,7 +2177,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6041236542d13a0007c
 
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
@@ -2188,17 +2188,11 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
 https://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RaiNews24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="FRANCE 24" tvg-name="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" tvg-shift="0" group-title="TV",France 24
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
- 	
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -2207,13 +2201,10 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/bdjkQIQ.png" group-title="TV",RBTV
-https://59f1cbe63db89.streamlock.net:1443/rbtv01/_definst_/rbtv01/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
-
-#EXTINF:-1 tvg-id="Redemetropole.br" group-title="TV" tvg-logo="https://imgur.com/7g9YNdW.png",Rede Metrópole
-http://187.33.200.235:9000/hls/redemetropole.m3u8
 
 #EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
@@ -2224,12 +2215,6 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Tv8.br" group-title="TV" tvg-logo="https://imgur.com/YRD2mvJ.png",TV8 Brasil
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="TV Brasil Oeste" tvg-logo="https://imgur.com/HjlG043.png" group-title="TV",TV Brasil Oeste (RBTV)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV Cidade Verde (SBT PI)" tvg-logo="https://imgur.com/8catiCV.png" tvg-shift="0" group-title="TV",SBT GO 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1063219358_b1000000.m3u8
 
@@ -2238,13 +2223,6 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
 #EXTINF:-1 tvg-id="manchete" tvg-name="Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="TV",Manchete TV Goiás
 https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tvmetropole" group-title="TV" tvg-logo="https://imgur.com/EhJNGIy.png",TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Yeeaah" group-title="TV" tvg-logo="https://imgur.com/mpFk51u.png",Yeeah! TV
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
 
 ############################### RADIOS ################################################
 
