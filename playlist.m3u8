@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band	
-https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1723365796.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
+https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
 http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_/tracks-v1a1/mono.m3u8
