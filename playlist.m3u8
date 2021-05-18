@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml"
+#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band	
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
-	
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
 http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_/tracks-v1a1/mono.m3u8
 
@@ -44,9 +44,18 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 	
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://i.imgur.com/kLWg5sp.png" group-title="TV", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QM9Grol.png" group-title="TV",TV Manchete - WebTV
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 	
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/latinasat.png" group-title="TV", Latina SAT - WebTV
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/kdXnBlZ.png" group-title="TV",VH1 Itália
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="https://imgur.com/fdhaL82.png" group-title="ESPORTES",ESPN BRASIL HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
@@ -69,8 +78,3 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="KIDS",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="https://imgur.com/kdXnBlZ.png" group-title="TV",VH1 Itália
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
