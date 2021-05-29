@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band	
-http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
+http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+##########http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
@@ -10,13 +11,10 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 ######https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 	
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
-http://srvtv.online:2082/981AGHJ76/3846590345/4271
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
 		
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-	
-#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV",Globo SP
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8	
 
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
 https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
@@ -37,7 +35,9 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=641032935
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="TV",SBT - TV Cidade (PR)
-https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
+http://212.224.98.205:2200/BR/SBT_HD-br/index.m3u8?token=
+
+#######https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
 
 ######EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV", SBT - TV Serra Dourada - (GO)
 ######https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
@@ -48,9 +48,6 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="TV",TV Cultura HD
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
 		
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta MA" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="TV",TV Gazeta
-http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-
 #EXTINF:-1 tvg-id="Rci.br" tvg-logo="https://i.imgur.com/QM9Grol.png" group-title="TV",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 	
