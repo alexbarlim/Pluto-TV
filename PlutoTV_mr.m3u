@@ -106,7 +106,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b00077
 #EXTINF:0 channel-id="fashionbox" tvg-logo="https://imgur.com/dSGszHV.png" group-title="PLUTO TV BRASIL", Pluto TV Fashionbox
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="loupe-ptv2" tvg-logo="http://images.pluto.tv/channels/600b248969c6580007e91a2d/featuredImage.jpg" group-title="PLUTO TV BRASIL", Loupe
+#EXTINF:0 channel-id="loupe-ptv2" tvg-logo="http://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png" group-title="PLUTO TV BRASIL", Loupe
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="babyfirst-ptv1" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="PLUTO TV BRASIL", Babyfirst
@@ -2416,15 +2416,6 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32537
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://imgur.com/cfibq1H.png" group-title="Temporário",Premiere Clubes SD
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32543
-
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://imgur.com/Mg8NO6F.png" group-title="Temporário",Disney Channel
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney jr" tvg-logo="https://imgur.com/ELlQmDQ.jpg" group-title="Temporário",Disney JR HD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney xd" tvg-logo="https://imgur.com/SyMMq69.png" group-title="Temporário",Disney XD
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Lovenature.br" tvg-name="Love Nature" tvg-logo="https://imgur.com/ZVay0IN.png" group-title="Temporário",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
