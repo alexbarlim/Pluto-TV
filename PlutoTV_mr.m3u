@@ -147,7 +147,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078
 #EXTINF:0 channel-id="latam-channel-guide" tvg-logo="https://imgur.com/uTuSnSQ.png" group-title="PLUTO TV AMÉRICA LATINA", Guía de canales
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc44-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b4ed378-49c1-4656-b76b-1eade4f6f625&userId=&serverSideAds=true
 
-##################################### Nusicas #######################################################
+##################################### Musicas #######################################################
+
+#EXTINF:0 channel-id="mtv-spankin-new-ptv1" tvg-logo="http://images.pluto.tv/channels/6047fd723b5bd00007de7092/solidLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA", MTV Spankin' New
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fd723b5bd00007de7092/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=60268770-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e1a166db-8f30-43ba-aa35-fd2d69dd5ddd&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mtv-biggest-pop-ptv1" tvg-logo="http://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA", MTV Biggest Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=60263950-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9daed51f-c708-4089-bc28-cce0fce02010&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="conciertos-por-stingray" tvg-logo="http://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA", Conciertos por Stingray
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb1260-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0734995-d0cf-4ff8-998e-187b9668e54d&userId=&serverSideAds=true
@@ -163,7 +169,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b17760007
 
 #EXTINF:0 channel-id="nick-teen" tvg-logo="http://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA",NickTeen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
-
 
 #EXTINF:0 channel-id="pluto-tv" tvg-logo="https://imgur.com/uTuSnSQ.png" group-title="PLUTO TV AMÉRICA LATINA", Pluto TV Coming Soon
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54231710016c0009aa8b10/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66d615e3-9b2d-4c71-b5cd-0d6777768232&userId=&serverSideAds=true
@@ -199,6 +204,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009c
 
 #EXTINF:0 channel-id="estrellas-de-accion" tvg-logo="https://imgur.com/Q5HuqXA.png" group-title="PLUTO TV AMÉRICA LATINA", Estrellas de Acción
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-cine-clasico" tvg-logo="http://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA", Pluto TV Cine Clásico
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true
 
 ##################################### Estilo de Vida #######################################################
 
@@ -295,9 +303,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c
 
 #EXTINF:0 channel-id="pluto-tv-sci-fi-ptv1" tvg-logo="https://imgur.com/959gesF.png" group-title="PLUTO TV AMÉRICA LATINA", Pluto TV Sci-Fi
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="los-tres-chiflados" tvg-logo="https://imgur.com/HFrfWhf.png" group-title="PLUTO TV AMÉRICA LATINA", Los Tres Chiflados
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="mtv-pluto-tv-ptv1" tvg-logo="http://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA", MTV Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a7e64375-725e-11eb-8572-a154f88ef305&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ae43b29-e0ce-4a28-90a5-107a512d1569&userId=&serverSideAds=true
