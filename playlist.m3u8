@@ -1,8 +1,13 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
-http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+##########http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 ##########http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+
+#########EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://i.imgur.com/rK6CsQz.png" group-title="TV",Band
+#########https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
@@ -27,6 +32,9 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZrZ0Tg1.png" tvg-shift="0" group-title="TV",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-logo="https://i.imgur.com/ActnmTP.png" group-title="TV",RecordTV Itapoan
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
