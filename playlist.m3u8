@@ -16,7 +16,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 ######https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 	
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
-http://168.205.87.198:8555/live/elienecp/123456/28.ts
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
 		
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
