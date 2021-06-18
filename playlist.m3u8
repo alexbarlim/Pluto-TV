@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml"
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
-http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+##########http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 ##########http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 
 #########EXTINF:-1 tvg-id="BandRede.br" tvg-logo="https://i.imgur.com/rK6CsQz.png" group-title="TV",Band
@@ -14,7 +16,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 ######https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
 	
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
-http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
+http://chronostv.com:80/cliente1812/cliente1812gg/131268
 		
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
@@ -22,8 +24,9 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
 https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/bdjkQIQ.png" group-title="TV",RBTV
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/bdjkQIQ.png" group-title="TV",RBTV  - TVC Araçatuba (SP)
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+#########https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -31,7 +34,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZrZ0Tg1.png" tvg-shift="0" group-title="TV",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-logo="https://i.imgur.com/ActnmTP.png" group-title="TV",RecordTV BA
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-logo="https://i.imgur.com/ActnmTP.png" group-title="TV",RecordTV Itapoan
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
@@ -40,8 +43,8 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=641032935
 #EXTINF:-1 tvg-id="Rci.br" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="TV",SBT - TV Cidade (PR)
-http://212.224.98.205:2200/BR/SBT_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="TV",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/7pvjagfew38f093wcsx9qorpvzgmcdzrnkuj/playlist.m3u8
 
 #######https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
 
