@@ -27,8 +27,8 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading TV" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV",Loading TV
 https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/bdjkQIQ.png" group-title="TV",RBTV  - TVC Araçatuba (SP)
-https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/bdjkQIQ.png" group-title="TV",RBTV
+https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #########https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="TV",Record News
@@ -53,6 +53,9 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/7pvjagfew38f093wcsx9qorpvzgmcdz
 
 ######EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV", SBT - TV Serra Dourada - (GO)
 ######https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="TV Aratu" tvg-logo="https://imgur.com/WtOWcFY.png" group-title="TV", TV Aratu
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
