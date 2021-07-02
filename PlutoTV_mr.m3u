@@ -1,9 +1,39 @@
 #EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml,https://raw.githubusercontent.com/Mart1nho/EPGs/master/epg.xml,https://raw.githubusercontent.com/Mart1nho/Pluto-TV/main/epg.xml"
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA 100% GRATUITA!
+#EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA GRATUITA!
 http://0.0.0.0
 
-############################### NOVIDADES #####################################
+############################### STINGRAY ##############################################
+
+#EXTINF:-1 tvg-id="404StingrayGreatestHits.ca" tvg-name="404 Stingray Greatest Hits" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",404 Stingray Greatest Hits (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+
+#EXTINF:-1 tvg-id="405StingrayHitList.ca" tvg-name="405 Stingray Hit List" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",405 Stingray Hit List (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+
+#EXTINF:-1 tvg-id="406StingrayClassicRock.ca" tvg-name="406 Stingray Classic Rock" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",406 Stingray Classic Rock (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+
+#EXTINF:-1 tvg-id="407StingrayRockAlternative.ca" tvg-name="407 Stingray Rock Alternative" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",407 Stingray Rock Alternative (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1 tvg-id="408StingrayPopAdult.ca" tvg-name="408 Stingray Pop Adult" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",408 Stingray Pop Adult (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+
+#EXTINF:-1 tvg-id="409StingrayUrbanBeat.ca" tvg-name="409 Stingray Urban Beat" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",409 Stingray Urban Beat (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+
+#EXTINF:-1 tvg-id="410StingrayHotCountry.ca" tvg-name="410 Stingray Hot Country" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",410 Stingray Hot Country (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+
+#EXTINF:-1 tvg-id="411StingrayFlashback70s.ca" tvg-name="411 Stingray Flashback 70s" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",411 Stingray Flashback 70s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+
+#EXTINF:-1 tvg-id="412StingrayEverything80s.ca" tvg-name="412 Stingray Everything 80s" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",412 Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+
+#EXTINF:-1 tvg-id="413StingrayTodaysLatinPop.ca" tvg-name="413 Stingray Today's Latin Pop" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",413 Stingray Today's Latin Pop (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 
 ####
 
@@ -166,9 +196,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079
 
 #EXTINF:0 channel-id="loupe-ptv1" tvg-logo="http://images.pluto.tv/channels/5ffcc38adbc38100073511f2/colorLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA", Loupe
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="paramount-presenta" tvg-logo="http://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA",Paramount+ Presenta
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
 
 #EXTINF:0 channel-id="nick-teen" tvg-logo="http://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA",NickTeen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
@@ -1131,9 +1158,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66
 #EXTINF:0 channel-id="pursuitup" tvg-logo="http://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", PursuitUP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0f964b0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca91105d-b55f-463f-811c-a8ee6f7b78e9&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="pluto-tv-007" tvg-logo="http://images.pluto.tv/channels/5d4db961034718b2f52f9e52/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Pluto TV 007
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fa2800-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=44ba09c2-b37a-4e04-9791-d30e61bfed7c&userId=&serverSideAds=true
-
 #EXTINF:0 channel-id="gameplay-roblox" tvg-logo="http://images.pluto.tv/channels/5d51dd5d369acdb278dfb05d/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Gameplay: Roblox
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51dd5d369acdb278dfb05d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fa4f10-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c5ea05f5-638d-4e6e-9e88-8adba1529f91&userId=&serverSideAds=true
 
@@ -1202,9 +1226,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107
 
 #EXTINF:0 channel-id="mi-obsesion-favorita" tvg-logo="http://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Mi obsesión favorita
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fff461-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c946dc4-93a4-4dcf-bb47-653b85ddd094&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="pluto-tv-007-en-espanol" tvg-logo="http://images.pluto.tv/channels/5d93b58e7ea6f9918873886f/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Pluto TV 007 en español
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1006990-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=54476272-59d4-461e-be4b-c9e19dd585d8&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="naruto" tvg-logo="http://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Naruto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a10090a0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2a9f18ae-e336-475c-96b4-23e482f27240&userId=&serverSideAds=true
@@ -1908,9 +1929,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4f5bf8423e067bd6d
 #EXTINF:0 channel-id="action-sports-de" tvg-logo="http://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Action Sports
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849631-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6801a0b-53b5-469c-a826-691aadfcdf85&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="kids-choice-awards-de" tvg-logo="http://images.pluto.tv/channels/5be1c20b53ed2c6334ebc4f2/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Kids' Choice Awards 2021
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c20b53ed2c6334ebc4f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849632-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3c355d1-3e9f-46f1-aea8-6767628e4e57&userId=&serverSideAds=true
-
 #EXTINF:0 channel-id="pluto-tv-nature-de" tvg-logo="http://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Nature
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849633-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4dc38af-4d25-4fde-b775-06792a33b38f&userId=&serverSideAds=true
 
@@ -1928,9 +1946,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf330ea5068259a32
 
 #EXTINF:0 channel-id="the-asylum-channel-de" tvg-logo="http://images.pluto.tv/channels/5cc81e793798650e4f7d9fd3/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", The Asylum Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cc81e793798650e4f7d9fd3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d84e451-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d04e1f1-76b9-43ce-b8b8-e420c44eb189&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="pluto-tv-kids-jr-de" tvg-logo="http://images.pluto.tv/channels/5cd1495bd9e0ec55c4ecbf52/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Kids Jr.
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d84e452-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6f60cb09-62c1-43a0-8766-8df810d03039&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-sitcoms-de-plus" tvg-logo="http://images.pluto.tv/channels/5cd149f021cb6c55e258bbe8/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Sitcoms+
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d84e453-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8917fd64-bf5c-4a41-bad1-3445f24b2237&userId=&serverSideAds=true
@@ -2015,9 +2030,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f
 
 #EXTINF:0 channel-id="unbeaten-esports-de" tvg-logo="http://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Unbeaten Esports
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d87a370-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5c3e2879-0e96-4d78-b706-32280b09f639&userId=&serverSideAds=true
-
-#EXTINF:0 channel-id="pluto-tv-family-de" tvg-logo="http://images.pluto.tv/channels/5dc3fb596262db000923f7e3/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Family
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc3fb596262db000923f7e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d87a371-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01bf258a-8556-4895-b928-49f12ec2584e&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="comedy-central-de-plus" tvg-logo="http://images.pluto.tv/channels/5dcea6bc6fb8890009322ff3/colorLogoPNG.png" group-title="PLUTO TV ALEMANHA", Comedy Central+
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcea6bc6fb8890009322ff3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d87a372-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d567c6-e99c-48a4-b14c-10583d0da9bc&userId=&serverSideAds=true
@@ -2248,16 +2260,13 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-logo="https://i.imgur.com/ActnmTP.png" group-title="TV",RecordTV Itapoan
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 #EXTINF:-1 tvg-id="Rci.br" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rci.br" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind Radio
-https://streamingsonicpro.com/8214/8214/stream
 
 ######EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="TV",SBT Interior SP
 ######https://5a1c76baf08c0.streamlock.net/sbtinterior/7pvjagfew38f093wcsx9qorpvzgmcdzrnkuj/playlist.m3u8
@@ -2286,62 +2295,56 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 ############################### RADIOS ################################################
 
+#EXTINF:-1 tvg-id="Rci.br" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="RÁDIOS",Rewind Radio
+https://streamingsonicpro.com/8214/8214/stream
 
-#EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="Rádios/Música",Catve FM 91.7
+#EXTINF:-1 tvg-logo="https://imgur.com/pJgILVg.png" group-title="RÁDIOS",Catve FM 91.7
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="Rádios/Música", CBN Rio
+#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="RÁDIOS", CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="Rádios/Música", CBN São Paulo
+#EXTINF:-1 tvg-logo="https://imgur.com/yGdGBF0.png" group-title="RÁDIOS", CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tEtNB5Z.png" group-title="Rádios/Música", Mega FM
+#EXTINF:-1 tvg-logo="https://imgur.com/tEtNB5Z.png" group-title="RÁDIOS", Mega FM
 http://216-155-149-152.webnow.com.br:80/mega.mp3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="Rádios/Música", Atlãndida FM
+#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="RÁDIOS", Atlãndida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/qdu42QX.png" group-title="Rádios/Música", Transamerica
+#EXTINF:-1 tvg-logo="https://imgur.com/qdu42QX.png" group-title="RÁDIOS", Transamerica
 http://transamerica.crossradio.com.br:9112/stream/1/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="Rádios/Música", Beat 98
+#EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="RÁDIOS", Beat 98
 http://streaming13.hstbr.net:8072/live
 
-#EXTINF:-1 tvg-logo="https://imgur.com/b0BBIXR.png" group-title="Rádios/Música", Band FM SP
+#EXTINF:-1 tvg-logo="https://imgur.com/b0BBIXR.png" group-title="RÁDIOS", Band FM SP
 http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w845145933.m3u8 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="Rádios/Música", Antena 1 SP
+#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="RÁDIOS", Antena 1 SP
 https://antenaone.crossradio.com.br/stream/1;?type=mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="Rádios/Música", Antena 1 RJ
+#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="RÁDIOS", Antena 1 RJ
 http://a1rj.streams.com.br:7801/sm
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NgI153k.png" group-title="Rádios/Música", Feliz FM BA
+#EXTINF:-1 tvg-logo="https://imgur.com/NgI153k.png" group-title="RÁDIOS", Feliz FM BA
 http://felizfm.sateg.com.br:11520/stream/1/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JjSUiXP.png" group-title="Rádios/Música", Radio Gaucha
-https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_09320081-f8c6-4b18-9e45-6369294c111b.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="Rádios/Música", Difusora Acreana
+#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="RÁDIOS", Difusora Acreana
 http://midia.ac.gov.br/difusora
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IE4wLHC.png" group-title="Rádios/Música", Aldeia FM 96.9 Rio Branco
+#EXTINF:-1 tvg-logo="https://imgur.com/IE4wLHC.png" group-title="RÁDIOS", Aldeia FM 96.9 Rio Branco
 http://midia.ac.gov.br/aldeiafm
 
-#EXTINF:-1 tvg-logo="https://imgur.com/As4BYYT.png" group-title="Rádios/Música", Jovempan FM 106.7 Goiania
-http://sh2.upx.com.br:8052/stream/1/
-
-#EXTINF:-1 tvg-logo="https://imgur.com/eLOy0cZ.png" group-title="Rádios/Música", Cultura FM 95.1
+#EXTINF:-1 tvg-logo="https://imgur.com/eLOy0cZ.png" group-title="RÁDIOS", Cultura FM 95.1
 http://srv04.brasilstream.com.br:8040/mp3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/zt6kQo8.png" group-title="Rádios/Música", FM O Dia 100.5
-https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/hvm6Npo.png" group-title="Rádios/Música", HOT FM 107 SP
+#EXTINF:-1 tvg-logo="https://imgur.com/hvm6Npo.png" group-title="RÁDIOS", HOT FM 107 SP
 http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/45Vvrld.png" group-title="Rádios/Música", 89 FM A RADIO ROCK
+#EXTINF:-1 tvg-logo="https://imgur.com/45Vvrld.png" group-title="RÁDIOS", 89 FM A RADIO ROCK
 http://streamingV2.shoutcast.com:80/89-a-radio-rock-sao-paulo-
 
 
@@ -2373,9 +2376,6 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 #EXTINF:-1 tvg-id="106261" tvg-name="Urban TV" tvg-logo="https://imgur.com/A7EkXuE.png" group-title="Rádios/Música",Urban TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
-#EXTINF:-1 tvg-id="114051" tvg-name="Teleplay" tvg-logo="https://imgur.com/HPKVdp0.png" group-title="Rádios/Música",Teleplay
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-
 
 
 ############################### WEB TV ######################################
@@ -2385,9 +2385,6 @@ https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Wham TV" tvg-logo="https://imgur.com/u7tEtaZ.png" group-title="WebTV",Wham TV
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv RIO PRETO" tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="WebTV",TV RIO PRETO
-http://186.227.165.118:8081/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/3egKWgV.png" group-title="WebTV",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -2410,14 +2407,8 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:-1 tvg-id="Summer TV" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="WebTV",Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Latinasat" tvg-logo="https://imgur.com/IKLKmlX.png" group-title="WebTV",TV Latina Sat
-https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" tvg-shift="0" group-title="WebTV",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV Via Morena" tvg-name="TV Via Morena" tvg-logo="https://imgur.com/g3TwbPa.png" group-title="WebTV",TV Via Morena
-https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Séries A Mulher Biônica" tvg-name="TV Séries A Mulher Biônica" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="WebTV",TV Séries A Mulher Biônica
 https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
@@ -3574,8 +3565,8 @@ https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%
 #EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.05 Equipe do Tag
 https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2005%20-%20Equipe%20do%20Tag.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.06 
-https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20perdido%20Epis%C3%B3dio%2006%20-%20%C3%81lbum.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.06 Off
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20perdido%20Epis%C3%B3dio%2007%20-%20%C3%81lbum.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.07 Álbum
 https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20perdido%20Epis%C3%B3dio%2007%20-%20%C3%81lbum.mp4
