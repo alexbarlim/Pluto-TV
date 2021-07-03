@@ -2,7 +2,8 @@
 
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+http://rec2.distv.net:80/lourival/lourival/224
+##########https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
 #########https://canal1.proxy.tokplay.com.br/videos/event3/auto.m3u8
 
@@ -35,7 +36,7 @@ https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #########https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="TV",Record News
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-number="150" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZrZ0Tg1.png" tvg-shift="0" group-title="TV",RecordTV
