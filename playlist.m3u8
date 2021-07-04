@@ -34,8 +34,8 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=641032935
 #EXTINF:-1 tvg-chno="28" tvg-id="Rci.br" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="Sbt.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV", SBT - TV Serra Dourada - (GO)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="04" tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="TV",SBT - TV Cidade (PR)
+https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-logo="https://imgur.com/WtOWcFY.png" group-title="TV", SBT - TV Aratu (BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
