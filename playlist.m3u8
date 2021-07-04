@@ -43,7 +43,7 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 
-#EXTINF:-1 tvg-chno="02" tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="TV",TV Cultura HD
+#EXTINF:-1 tvg-chno="02" tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="TV",TV Cultura
 https://canal1.proxy.tokplay.com.br/videos/event5/auto.m3u8
 	
 #EXTINF:-1 tvg-chno="31" tvg-id="Rci.br" tvg-logo="https://i.imgur.com/QM9Grol.png" group-title="TV",TV Manchete
