@@ -1,2 +1,2 @@
 # GRATIS
-Lista IPTV completamente gratuita.
+Lista IPTV Gratuita.
