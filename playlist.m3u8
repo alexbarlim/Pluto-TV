@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-chno="07" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
 https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="07.2" tvg-id="Band Belém" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="TV",Band - RBA TV (PA)
+#EXTINF:-1 tvg-chno="07.2" tvg-id="BandRede.br" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="TV",Band - RBA TV (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
