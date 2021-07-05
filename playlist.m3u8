@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-chno="07" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="07.2" tvg-id="BandRede.br" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="TV",Band - RBA TV (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
