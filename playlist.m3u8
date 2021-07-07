@@ -60,3 +60,6 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="TV",Premiere Clubes HD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="TV",Premiere Clubes
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
