@@ -7,17 +7,17 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-chno="02" tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="TV",TV Cultura
 https://canal1.proxy.tokplay.com.br/videos/event5/auto.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="Sbt.br" tvg-logo="https://imgur.com/WtOWcFY.png" group-title="TV", SBT - TV Aratu (BA)
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-chno="04" tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="TV",SBT - TV Cidade (PR)
+https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="04.2" tvg-id="SBT Goiania TV Serra Dourada" tvg-logo="https://i.imgur.com/yKrsIlf.png" group-title="TV",SBT - TV Serra Dourada (GO)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-logo="https://imgur.com/WtOWcFY.png" group-title="TV", SBT - TV Aratu (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="06" tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV",RedeTV! RJ
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 #EXTINF:-1 tvg-chno="07" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV",Band
-http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1/tracks-v1a1/mono.m3u8
+https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="07.2" tvg-id="BandRede.br" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="TV",Band - RBA TV (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
@@ -49,6 +49,9 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
 http://168.205.87.198:8555/live/elienecp/123456/28.ts
 
+#EXTINF:-1 tvg-chno="27" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",Loading
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01/index.m3u8
+
 #EXTINF:-1 tvg-chno="28" tvg-id="Rci.br" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
@@ -56,4 +59,5 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 	
 #EXTINF:-1 tvg-chno="31" tvg-id="Rci.br" tvg-logo="https://i.imgur.com/QM9Grol.png" group-title="TV",TV Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+http://vipeiptv.com:25461/marc82311ip/marc82311ip/856038
+####https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
