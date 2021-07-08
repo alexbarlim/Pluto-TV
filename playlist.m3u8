@@ -7,8 +7,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-chno="02" tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="TV",TV Cultura
 https://canal1.proxy.tokplay.com.br/videos/event5/auto.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="TV",SBT - TV Cidade (PR)
-https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
+#EXTINF:-1 tvg-chno="04" tvg-id="TVJornal.br" tvg-logo="https://i.imgur.com/BzpFEWA.png" group-title="TV",SBT - TV Jornal (PE)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-logo="https://imgur.com/WtOWcFY.png" group-title="TV", SBT - TV Aratu (BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
