@@ -7,7 +7,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-chno="02" tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="TV",TV Cultura
 https://canal1.proxy.tokplay.com.br/videos/event5/auto.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-logo="https://imgur.com/ung2OaV.png" group-title="Variedades",SBT Interior SP
+#EXTINF:-1 tvg-chno="04" tvg-logo="https://imgur.com/ung2OaV.png" group-title="TV",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/sbtinterior/3lwVZpuaexcOdOVG2xpQMJDQn7SuQuX9/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-logo="https://imgur.com/WtOWcFY.png" group-title="TV", SBT - TV Aratu (BA)
