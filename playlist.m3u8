@@ -49,7 +49,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
 http://168.205.87.198:8555/live/elienecp/123456/28.ts
 
-#EXTINF:-1 tvg-chno="27" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",Loading
+#EXTINF:-1 tvg-chno="27" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",Loading TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01/index.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-id="Rci.br" tvg-name="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="TV",Rewind TV
@@ -59,5 +59,4 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 	
 #EXTINF:-1 tvg-chno="31" tvg-id="Rci.br" tvg-logo="https://i.imgur.com/QM9Grol.png" group-title="TV",TV Manchete
-http://vipeiptv.com:25461/marc82311ip/marc82311ip/856038
-####https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
