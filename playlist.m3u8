@@ -7,8 +7,8 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-chno="02" tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="TV",TV Cultura
 https://canal1.proxy.tokplay.com.br/videos/event5/auto.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="Sbt.br" tvg-logo="https://i.imgur.com/er6Uzee.png" group-title="TV",SBT - Bem TV (MT)
-http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="04" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/3lwVZpuaexcOdOVG2xpQMJDQn7SuQuX9/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="05" tvg-id="Sbt.br" tvg-logo="https://imgur.com/WtOWcFY.png" group-title="TV", SBT - TV Aratu (BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
