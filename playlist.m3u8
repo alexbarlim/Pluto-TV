@@ -26,7 +26,7 @@ https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 https://canal1.proxy.tokplay.com.br/videos/event1/auto.m3u8
 
 #EXTINF:-1 tvg-chno="11.2" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV",Globo RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-id="RecordTV Itapoan" tvg-logo="https://i.imgur.com/ActnmTP.png" group-title="TV",RecordTV Itapoan
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
@@ -36,6 +36,9 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/HaPL1rx.png" tvg-shift="0" group-title="TV",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://imgur.com/MUdGsN0.png" group-title="TV",Futura
+https://canal1.proxy.tokplay.com.br/videos/event9/auto.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/a6w6x9v.png" group-title="TV",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
