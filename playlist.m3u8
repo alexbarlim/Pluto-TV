@@ -16,16 +16,16 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-chno="06" tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV", RedeTV! RJ
 https://canal1.proxy.tokplay.com.br/videos/event6/auto.m3u8
 
-#EXTINF:-1 tvg-chno="07" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV", Band
+#EXTINF:-1 tvg-chno="07" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 
-#EXTINF:-1 tvg-chno="09" tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/pnJG79r.png" group-title="TV", RBTV
+#EXTINF:-1 tvg-chno="09" tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/gphqSki.png" group-title="TV", RBTV
 https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/g4Olb7O.png" group-title="TV", TV Bahia
 https://canal1.proxy.tokplay.com.br/videos/event1/auto.m3u8
 
-#EXTINF:-1 tvg-chno="11.2" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/ovPsLG8.png" group-title="TV",Globo RJ
+#EXTINF:-1 tvg-chno="11.2" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/9gIiEvG.png" group-title="TV",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="12" tvg-id="RecordTV Itapoan" tvg-logo="https://imgur.com/xmAzIRn.png" group-title="TV",RecordTV Itapoan
@@ -45,11 +45,14 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
-	
-#EXTINF:-1 tvg-chno="26" tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/iCsbnC8.png" tvg-shift="0" group-title="TV",CNN Brasil
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Globonews.br" tvg-logo="https://imgur.com/AAUwtnk.png" group-title="TV",GloboNews
+http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_3539/playlist.m3u8	
+
+#EXTINF:-1 tvg-chno="27" tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://imgur.com/c849FNd.png" tvg-shift="0" group-title="TV",CNN Brasil
 http://168.205.87.198:8555/live/elienecp/123456/28.ts
 
-#EXTINF:-1 tvg-chno="27" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",Loading TV
+#EXTINF:-1 tvg-chno="28" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",Loading TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01/index.m3u8
 
 #EXTINF:-1 tvg-chno="29" tvg-id="Rci.br" tvg-name="Rewind TV" tvg-logo="https://imgur.com/G2fAHXu.png" group-title="TV",Rewind TV
