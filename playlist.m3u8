@@ -50,7 +50,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_3539/playlist.m3u8	
 
 #EXTINF:-1 tvg-chno="27" tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://imgur.com/c849FNd.png" tvg-shift="0" group-title="TV",CNN Brasil
-http://168.205.87.198:8555/live/elienecp/123456/28.ts
+http://srvtv.online:80/981AGHJ76/3846590345/7014
 
 #EXTINF:-1 tvg-chno="28" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",Loading TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01/index.m3u8
