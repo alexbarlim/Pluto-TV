@@ -23,7 +23,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Tvbahia.br" tvg-logo="https://imgur.com/g4Olb7O.png" group-title="TV", TV Bahia
-https://canal1.proxy.tokplay.com.br/videos/event1/auto.m3u8
+http://50.7.34.155:2200/BR/TV_Bahia_HD-br/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="11.2" tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/9gIiEvG.png" group-title="TV",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
@@ -44,13 +44,14 @@ https://canal1.proxy.tokplay.com.br/videos/event9/auto.m3u8
 https://origin-02.nxplay.com.br/TV_BRASIL_NX/index.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
-http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+http://50.7.34.155:2200/BR/Band_News_HD-br/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-id="Globonews.br" tvg-logo="https://imgur.com/AAUwtnk.png" group-title="TV",GloboNews
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_3539/playlist.m3u8	
 
 #EXTINF:-1 tvg-chno="27" tvg-id="CNNBrasil" tvg-name="CNN Brasil" tvg-logo="https://imgur.com/c849FNd.png" tvg-shift="0" group-title="TV",CNN Brasil
-http://srvtv.online:80/981AGHJ76/3846590345/7014
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="28" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",Loading TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01/index.m3u8
