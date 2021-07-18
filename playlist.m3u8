@@ -58,7 +58,7 @@ http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",LOADING TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01/index.m3u8
 
-#EXTINF:-1 tvg-chno="30 tvg-id="RedeUTV" tvg-logo="https://imgur.com/QeWCq65.png" group-title="TV", REDE UTV
+#EXTINF:-1 tvg-chno="30 tvg-id="RedeUTV" tvg-logo="https://imgur.com/QeWCq65.png" group-title="TV", REDE UTV BRASIL
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="TV",TV MANCHETE
