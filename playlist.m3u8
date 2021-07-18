@@ -37,8 +37,8 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/IZXPrli.png" tvg-shift="0" group-title="TV",RECORD NEWS
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="TvGazeta" tvg-logo="https://imgur.com/3zZVFPD.png" group-title="TV",TV GAZETA
-http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://imgur.com/3zZVFPD.png" group-title="TV",TV GAZETA
+http://origin-02.nxplay.com.br/TV_GAZETA_NX/index.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://imgur.com/MUdGsN0.png" group-title="TV",FUTURA
 https://canal1.proxy.tokplay.com.br/videos/event9/auto.m3u8
