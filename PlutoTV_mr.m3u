@@ -2258,6 +2258,27 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a12333d0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=375fdd79-e464-45fe-b7d0-baff0b1061f2&userId=&serverSideAds=true
 
+#EXTINF:0 channel-id="julia-child" tvg-logo="http://images.pluto.tv/channels/606b5ee42b54a100079dd593/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Julia Child
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/606b5ee42b54a100079dd593/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3a4db911-ed79-11eb-bdf0-7d9afd1dea87&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a075e397-6d45-42dc-b014-c9399e50570b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="ink-master" tvg-logo="http://images.pluto.tv/channels/60807fd5db701400078219c2/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Ink Master
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60807fd5db701400078219c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3a4e5550-ed79-11eb-bdf0-7d9afd1dea87&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bff540c1-1265-414a-8a22-2db6128abdc4&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="wanted-dead-or-alive" tvg-logo="http://images.pluto.tv/channels/6089788de5c8410007808e26/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Wanted: Dead or Alive
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3a4e7c60-ed79-11eb-bdf0-7d9afd1dea87&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=708bca87-d6d8-4712-ba02-42205990db98&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="jersey-shore" tvg-logo="http://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Jersey Shore
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609bfa51fbecc1000733152e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3a4eca80-ed79-11eb-bdf0-7d9afd1dea87&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bb51af9b-c5ab-485b-a411-9a4c6e56ac0e&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="bar-rescue" tvg-logo="http://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Bar Rescue
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3a4ef190-ed79-11eb-bdf0-7d9afd1dea87&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508cc52a-d3db-449d-b425-6a752326bf8e&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="cbsn-sacramento" tvg-logo="http://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", CBSN Sacramento
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3a4f18a0-ed79-11eb-bdf0-7d9afd1dea87&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1d6c5d9-23c2-4308-895a-6810fa8e5738&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pbr-ridepass" tvg-logo="http://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", PBR RidePass
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3a4f3fb0-ed79-11eb-bdf0-7d9afd1dea87&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f13b451c-e348-4a2c-8878-569ffcd747f9&userId=&serverSideAds=true
+
 #####
 
 #EXTINF:0 channel-id="bb119" tvg-logo="http://images.pluto.tv/channels/5e46ae801f347500099d461a/colorLogoPNG.png" group-title="PLUTO TV FRANÇA", Pluto TV Classic TV FR
