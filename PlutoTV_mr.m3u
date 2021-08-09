@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA GRATUITA!
 http://0.0.0.0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOVELAS",NOVELAS 24H
+https://stmv1.srvstm.com/lucas2884/lucas2884/playlist.m3u8
+
 ############################### STINGRAY ##############################################
 
 #EXTINF:-1 tvg-id="404StingrayGreatestHits.ca" tvg-name="404 Stingray Greatest Hits" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Greatest Hits
