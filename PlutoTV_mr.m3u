@@ -79,6 +79,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f
 #EXTINF:0 channel-id="pluto-tv-series-1" tvg-logo="https://imgur.com/SIUu1eO.png" group-title="PLUTO TV BRASIL", Pluto TV Séries
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
 
+#EXTINF:0 channel-id="jeannie-e-um-genio-ptv1" tvg-logo="http://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="PLUTO TV BRASIL", Jeannie é um Gênio
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ab6a80-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ad9304b-c000-489a-bfe8-f5446689b1a3&userId=&serverSideAds=true
+
 #EXTINF:0 channel-id="pluto-tv-retro-2" tvg-logo="https://imgur.com/Bxf8Gwu.png" group-title="PLUTO TV BRASIL", Pluto TV Retrô
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
 
@@ -111,6 +114,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c
 
 #EXTINF:0 channel-id="tokusato-ptv1" tvg-logo="http://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="PLUTO TV BRASIL", Tokusato
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="masterchef-ptv1" tvg-logo="http://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="PLUTO TV BRASIL", MasterChef
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="pluto-tv-investigacao-ptv1" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="PLUTO TV BRASIL", Pluto TV Investigação
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
@@ -183,6 +189,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d
 
 #EXTINF:0 channel-id="pluto-tv-karaoke-por-stingray" tvg-logo="http://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="PLUTO TV BRASIL", Pluto TV Karaokê por Stingray
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d75b870-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7876551-8061-467d-8397-c6677dbb61db&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="mtv-biggest-pop-ptv2" tvg-logo="http://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="PLUTO TV BRASIL", MTV Biggest Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
 
 #####
 
