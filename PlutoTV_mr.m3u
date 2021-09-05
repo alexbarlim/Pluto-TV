@@ -8,34 +8,34 @@ https://stmv1.srvstm.com/lucas2884/lucas2884/playlist.m3u8
 
 ############################### STINGRAY ##############################################
 
-#EXTINF:-1 tvg-id="404StingrayGreatestHits.ca" tvg-name="404 Stingray Greatest Hits" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Greatest Hits
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 
-#EXTINF:-1 tvg-id="405StingrayHitList.ca" tvg-name="405 Stingray Hit List" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Hit List
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
 
-#EXTINF:-1 tvg-id="406StingrayClassicRock.ca" tvg-name="406 Stingray Classic Rock" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Classic Rock
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
 
-#EXTINF:-1 tvg-id="407StingrayRockAlternative.ca" tvg-name="407 Stingray Rock Alternative" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Rock Alternative
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
 
-#EXTINF:-1 tvg-id="408StingrayPopAdult.ca" tvg-name="408 Stingray Pop Adult" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Pop Adult
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Pop Adult
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
 
-#EXTINF:-1 tvg-id="409StingrayUrbanBeat.ca" tvg-name="409 Stingray Urban Beat" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Urban Beat
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 
-#EXTINF:-1 tvg-id="410StingrayHotCountry.ca" tvg-name="410 Stingray Hot Country" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Hot Country
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Hot Country
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
 
-#EXTINF:-1 tvg-id="411StingrayFlashback70s.ca" tvg-name="411 Stingray Flashback 70s" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Flashback 70s
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
 
-#EXTINF:-1 tvg-id="412StingrayEverything80s.ca" tvg-name="412 Stingray Everything 80s" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Everything 80s
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Everything 80s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
 
-#EXTINF:-1 tvg-id="413StingrayTodaysLatinPop.ca" tvg-name="413 Stingray Today's Latin Pop" tvg-country="CA" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="STINGRAY MUSIC",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 
 ####
