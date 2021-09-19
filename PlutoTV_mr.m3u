@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA GRATUITA!
 http://0.0.0.0
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOVELAS",NOVELAS 24H
-https://stmv1.srvstm.com/lucas2884/lucas2884/playlist.m3u8
 
 ############################### STINGRAY ##############################################
 
@@ -2289,40 +2287,40 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6041236542d13a0007c
 ############################### ABERTOS #####################################
 
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="TV",Catve - TV Cultura (PR)
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="ABERTOS",Catve - TV Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT - TV Jornal (PE)
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="ABERTOS",SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="TV", RedeTV! TV Arapuan (PB)
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="ABERTOS", RedeTV! TV Arapuan (PB)
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", Band
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="ABERTOS", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 
-#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/zgBYura.png" group-title="TV", RBTV
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/zgBYura.png" group-title="ABERTOS", RBTV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/9gIiEvG.png" group-title="TV",Globo RJ
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/9gIiEvG.png" group-title="ABERTOS",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/HcdW6B4.png" tvg-shift="0" group-title="TV",RecordTV
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/HcdW6B4.png" tvg-shift="0" group-title="ABERTOS",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/IZXPrli.png" tvg-shift="0" group-title="TV",Record News
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/IZXPrli.png" tvg-shift="0" group-title="ABERTOS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://imgur.com/j4jnnL0.png" group-title="TV",TV Brasil
-http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
+#EXTINF:-1 tvg-id="ABERTOSbrasil.br" tvg-name="ABERTOS Brasil" tvg-logo="https://imgur.com/j4jnnL0.png" group-title="ABERTOS",TV Brasil
+https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="TV",Band News
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="TV",Loading TV
+#EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 	
-#EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="TV",TV Manchete
+#EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="ABERTOS",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 
 
@@ -2343,9 +2341,6 @@ http://216-155-149-152.webnow.com.br:80/mega.mp3
 
 #EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="RÁDIOS", Atlãndida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/qdu42QX.png" group-title="RÁDIOS", Transamerica
-http://transamerica.crossradio.com.br:9112/stream/1/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/e2am6KZ.png" group-title="RÁDIOS", Beat 98
 http://streaming13.hstbr.net:8072/live
@@ -2373,6 +2368,9 @@ http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
 
 
 ############################### WEB TV ######################################
+
+#EXTINF:-1 tvg-id="Istv" tvg-logo="https://imgur.com/gipkHUX.png" group-title="WebTV", ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Wham TV Classic" tvg-logo="https://imgur.com/ReKQeg6s.png" group-title="WebTV",Wham TV Classic
 https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
