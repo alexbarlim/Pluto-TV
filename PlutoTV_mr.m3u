@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA GRATUITA!
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://rtvc-es.cdn.ampproject.org/ii/AW/s/rtvc.es/storage/2021/03/RTVC272.png" group-title="NOTÍCIAS",RTVC
+https://rtvc-oca1.flumotion.com/playlist.m3u8
 
 ############################### STINGRAY ##############################################
 
