@@ -2326,6 +2326,12 @@ https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/IQxNV3s.png" group-title="ABERTOS",RTVC
+https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IQxNV3s.png" group-title="ABERTOS",RTVC 2
+https://rtvc-oca1.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 	
