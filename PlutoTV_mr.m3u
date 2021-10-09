@@ -535,8 +535,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6127e8914676bf00076e25
 #### 
 
 
-
-
 #EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-chno="725" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/solidLogoPNG.png" group-title="PLUTO TV ESPANHA",Big Time Rush
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -2299,6 +2297,26 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604123023ece0b0007a
 
 #EXTINF:0 channel-id="mtv-teen-mom-de-plus" tvg-logo="http://images.pluto.tv/channels/6041236542d13a0007c600f8/solidLogoPNG.png" group-title="PLUTO TV ALEMANHA", MTV Teen Mom+
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6041236542d13a0007c600f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d899f42-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2def5dd-e9d3-41ad-84a9-3b0d84d80abb&userId=&serverSideAds=true
+
+
+######
+
+
+#EXTINF:0 channel-id="pluto-tv-sport-it" tvg-logo="http://images.pluto.tv/channels/608030eff4b6f70007e1684c/solidLogoPNG.png" group-title="PLUTO TV ITÁLIA", Pluto TV Sport
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df40bfc0-2939-11ec-aee0-3b42d222447b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=867be1f9-e0ec-4a7e-9bde-f9675534d51b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-film-drama-it" tvg-logo="http://images.pluto.tv/channels/608aa42b5c2b8f0007197529/solidLogoPNG.png" group-title="PLUTO TV ITÁLIA", Pluto TV Film Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df4134f0-2939-11ec-aee0-3b42d222447b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=13807872-378a-4372-8a98-c01e35a8347b&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="pluto-tv-documentari-it" tvg-logo="http://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/solidLogoPNG.png" group-title="PLUTO TV ITÁLIA", Pluto TV Documentari
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df418310-2939-11ec-aee0-3b42d222447b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3055e814-26f0-426b-9270-c00d65addd15&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="super-spongebob-it" tvg-logo="http://images.pluto.tv/channels/6093f9281db477000759fce0/solidLogoPNG.png" group-title="PLUTO TV ITÁLIA", Super! SpongeBob
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df418311-2939-11ec-aee0-3b42d222447b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69896c0d-a318-426b-ab5b-05b4ead1cf6a&userId=&serverSideAds=true
+
+#EXTINF:0 channel-id="catfish-it" tvg-logo="http://images.pluto.tv/channels/6093f9ed2c75660007322bb7/solidLogoPNG.png" group-title="PLUTO TV ITÁLIA", Catfish
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df41aa20-2939-11ec-aee0-3b42d222447b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3f2c69c0-c334-429e-b9c8-704386b2ed3a&userId=&serverSideAds=true
+
 
 ############################### ABERTOS #####################################
 
