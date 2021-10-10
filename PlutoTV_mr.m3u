@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.liveiptv.net/epg.xml,https://raw.githubusercontent.com/Mart1nho/TV/main/epg.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,http://epg.liveiptv.net/epg.xml"
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VPwFA0g.png" group-title="Info",LISTA GRATUITA!
 http://0.0.0.0
