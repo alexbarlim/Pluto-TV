@@ -2625,8 +2625,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd81b1053ed2c6334ea08
 ############################### ABERTOS #############################################
 
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="ABERTOS",Catve - TV Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mpNEidr.png" group-title="ABERTOS",Amazon Sat
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tvebahia" tvg-logo="https://i.imgur.com/kLWg5sp.png" group-title="ABERTOS",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="ABERTOS",TV Cultura
+https://canal1.proxy.tokplay.com.br/streams/CULTURA/auto.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="ABERTOS",SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
@@ -2634,7 +2640,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="ABERTOS", RedeTV! TV Arapuan (PB)
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="ABERTOS", Band
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" group-title="ABERTOS", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/zgBYura.png" group-title="ABERTOS",RSC - Rede Brasil
@@ -2646,20 +2652,26 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/HcdW6B4.png" tvg-shift="0" group-title="ABERTOS",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/IZXPrli.png" tvg-shift="0" group-title="ABERTOS",Record News
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/IZXPrli.png" group-title="ABERTOS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF:-1 tvg-id="ABERTOSbrasil.br" tvg-name="ABERTOS Brasil" tvg-logo="https://imgur.com/j4jnnL0.png" group-title="ABERTOS",TV Brasil
+#EXTINF:-1 tvg-id="Tvgazeta.br" tvg-logo="https://imgur.com/j1IJco4.png" group-title="ABERTOS", TV Gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/j4jnnL0.png" group-title="ABERTOS",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8
+ 
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://imgur.com/m4wSfpZ.png" group-title="ABERTOS",,Canal Futura
+https://canal1.proxy.tokplay.com.br/streams/FUTURA/auto.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IQxNV3s.png" group-title="ABERTOS",RTVC
-https://rtvc-live1-rm.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://imgur.com/eGaXU5E.png" group-title="ABERTOS",EuroNews
+https://origin-02.nxplay.com.br/EURONEWS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IQxNV3s.png" group-title="ABERTOS",RTVC 2
-https://rtvc-oca1.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zGVOaA9.png" group-title="BRASIL",EU TV
+https://cdn.jmvstream.com/w/AVJ-10423/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading TV
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
