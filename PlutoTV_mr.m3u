@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA!
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 07.11.2021
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 21.11.2021
 
 
 ############################### STINGRAY ##############################################
@@ -2760,7 +2760,7 @@ https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8?MARTINTV
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?MARTINTV
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="ABERTOS",TV Cultura
-https://canal1.proxy.tokplay.com.br/streams/CULTURA/auto.m3u8?MARTINTV
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="ABERTOS",SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
@@ -2790,7 +2790,7 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8?MARTI
 https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8?MARTINTV
  
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://imgur.com/m4wSfpZ.png" group-title="ABERTOS",,Canal Futura
-https://canal1.proxy.tokplay.com.br/streams/FUTURA/auto.m3u8?MARTINTV
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?MARTINTV
@@ -2809,6 +2809,10 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?MARTINTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="ABERTOS",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jn1BPCz.png" group-title="ABERTOS",Rede UTV Brasil
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
 
 ############################### RADIOS ################################################
 
