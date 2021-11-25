@@ -2795,6 +2795,12 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?MARTINTV
 
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://imgur.com/yvXclpa.png" group-title="ABERTOS",CNN Brasil
+http://168.205.87.198:8555/live/1499/123456/28.m3u8MARTINTV
+
+#EXTINF:-1 tvg-id="tvi24" tvg-logo="https://imgur.com/8aMDizr.png" group-title="ABERTOS",CNN Portugal
+https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?MARTINTV
+
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="https://imgur.com/eGaXU5E.png" group-title="ABERTOS",EuroNews
 https://origin-02.nxplay.com.br/EURONEWS/tracks-v1a1/mono.m3u8?MARTINTV
 
