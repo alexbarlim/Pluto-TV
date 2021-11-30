@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA!
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 24.11.2021
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 30.11.2021
 
 
 ############################### STINGRAY ##############################################
@@ -2805,13 +2805,13 @@ https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3
 https://origin-02.nxplay.com.br/EURONEWS/tracks-v1a1/mono.m3u8?MARTINTV
 
 #EXTINF:-1 tvg-id="Tvjovempan" tvg-logo="https://imgur.com/2dlLVtS.png" group-title="ABERTOS",Jovem Pan News
-https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8?MARTINTV
+http://168.205.87.198:8555/live/1499/123456/161.m3u8
 
-#EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading TV
-https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8?MARTINTV
-	
-#EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="ABERTOS",TV Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?MARTINTV
+#EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading Web TV
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
+
+###EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="ABERTOS",TV Manchete
+###https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?MARTINTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="ABERTOS",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
