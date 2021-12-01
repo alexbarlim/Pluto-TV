@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA!
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 30.11.2021
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 01.12.2021
 
 
 ############################### STINGRAY ##############################################
@@ -71,6 +71,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba000070
 
 #EXTINF:0 channel-id="pluto-tv-cine-familia-ptv1" tvg-logo="https://imgur.com/fyEgJ1g.png" group-title="PLUTO TV BRASIL", Pluto TV Cine Família
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="pluto-tv-cine-natal" tvg-logo="http://images.pluto.tv/channels/5f8a11ce2a4559000782a583/solidLogoPNG.png" group-title="PLUTO TV BRASIL", Pluto TV Cine Natal
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8a11ce2a4559000782a583/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3ef65be0-528a-11ec-89ad-a5bbca9aea71&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86520723-e441-455d-b24b-5b80b7468c75&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="pluto-tv-clima-de-natal" tvg-logo="http://images.pluto.tv/channels/5f4fc5aeca824d000783d321/solidLogoPNG.png" group-title="PLUTO TV BRASIL", Clima de Natal
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fc5aeca824d000783d321/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3ef23d30-528a-11ec-89ad-a5bbca9aea71&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1a713006-b46f-4032-8524-7ba79f6e455a&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="musicas-de-natal" tvg-logo="http://images.pluto.tv/channels/5f8a12659ab0370008b177f4/solidLogoPNG.png" group-title="PLUTO TV BRASIL", Músicas de Natal
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8a12659ab0370008b177f4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3ef6d110-528a-11ec-89ad-a5bbca9aea71&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b84b9fb9-f3b9-4585-bcbc-7f88e58b8480&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="paramount-apresenta" tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/solidLogoPNG.png" group-title="PLUTO TV BRASIL", Paramount+ Apresenta
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&userId=&serverSideAds=true
