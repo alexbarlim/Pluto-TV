@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA!
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 07.12.2021
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 10.12.2021
 
 
 ############################### STINGRAY ##############################################
@@ -2811,7 +2811,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?MARTINTV
 http://168.205.87.198:8555/live/1499/123456/28.m3u8MARTINTV
 
 #EXTINF:-1 tvg-id="tvi24" tvg-logo="https://imgur.com/8aMDizr.png" group-title="ABERTOS",CNN Portugal
-https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?MARTINTV
+http://s1.showplustv.com:1997/iptvtree2021/Mc6VRbXCXhWuH9Mj/6419
 
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="https://imgur.com/eGaXU5E.png" group-title="ABERTOS",EuroNews
 https://origin-02.nxplay.com.br/EURONEWS/tracks-v1a1/mono.m3u8?MARTINTV
