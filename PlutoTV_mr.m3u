@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA!
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 10.12.2021
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 18.12.2021
 
 
 ############################### STINGRAY ##############################################
@@ -37,7 +37,7 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 
-####
+############################# PLUTO TV BRASIL
 
 #EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="PLUTO TV BRASIL", Guia de Canais
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
@@ -238,7 +238,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#####
+############################# PLUTO TV AMÉRICA LATINA 
+
 
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/solidLogoPNG.png" group-title="PLUTO TV AMÉRICA LATINA",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -550,7 +551,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f8b455ed5810007170b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6148ab7eb75aa60007ca07a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#### 
+############################### PLUTO TV ESPANHA
 
 
 #EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-chno="785" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/solidLogoPNG.png" group-title="PLUTO TV ESPANHA",Big Time Rush
@@ -814,7 +815,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173f
 #EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-chno="555" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/solidLogoPNG.png" group-title="PLUTO TV ESPANHA",Las Tortugas Ninja
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-####
+############################### PLUTO TV ESTADOS UNIDOS
 
 #EXTINF:0 channel-id="live-music-replay" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/solidLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Live Music Replay
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
@@ -866,8 +867,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007f
 
 #EXTINF:0 channel-id="hillsong-channel" tvg-logo="http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/solidLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Hillsong Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7f3021-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21744e45-9ad4-4bd4-a0af-1581ea5b1813&userId=&serverSideAds=true
-
-
 
 #EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f"  tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/solidLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS",Little Stars Universe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1761,7 +1760,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#####
+################################## PLUTO TV FRANÇA
 
 
 #EXTINF:-1 tvg-id="5f8eb66537867f0007146953" tvg-chno="510" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/solidLogoPNG.png" group-title="PLUTO TV FRANÇA",CATFISH TV
@@ -1960,7 +1959,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35a74c63c3c0008df6a
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#####
+########################## PLUTO TV CANADA
 
 #EXTINF:0 channel-id="slow-tv" tvg-logo="http://images.pluto.tv/channels/5317bfebff98025b3200ff99/solidLogoPNG.png" group-title="PLUTO TV CANADA", Slow TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71d5f90-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5a8d04a9-ca2b-4c18-8b41-43787c827a2e&userId=&serverSideAds=true
@@ -1995,7 +1994,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dd
 #EXTINF:0 channel-id="naturescape" tvg-logo="http://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/solidLogoPNG.png" group-title="PLUTO TV CANADA", Naturescape
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e71f5b60-6a72-11eb-87d7-6fba7c7cde7d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba9b450c-d1b5-4c17-834f-d4f4346b7905&userId=&serverSideAds=true
 
-#####
+#################################### PLUTO TV ALEMANHA
 
 #EXTINF:0 channel-id="pluto-tv-kids-de" tvg-logo="http://images.pluto.tv/channels/5ad9b648e738977e2c312131/solidLogoPNG.png" group-title="PLUTO TV ALEMANHA", Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d8384c0-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=359497e9-41b1-43dc-ba01-b962f7526aa9&userId=&serverSideAds=true
@@ -2331,7 +2330,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604123023ece0b0007a
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6041236542d13a0007c600f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d899f42-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2def5dd-e9d3-41ad-84a9-3b0d84d80abb&userId=&serverSideAds=true
 
 
-######
+################################# PLUTO TV ITÁLIA
 
 
 #EXTINF:-1 tvg-id="60801317a0ccef00072aaf75" tvg-chno="455" tvg-logo="https://images.pluto.tv/channels/60801317a0ccef00072aaf75/solidLogoPNG.png" group-title="PLUTO TV ITÁLIA",The Pet Collective
@@ -2804,7 +2803,7 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8?MARTI
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/j4jnnL0.png" group-title="ABERTOS",TV Brasil
 https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8?MARTINTV
  
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://imgur.com/m4wSfpZ.png" group-title="ABERTOS",,Canal Futura
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://imgur.com/m4wSfpZ.png" group-title="ABERTOS",Canal Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
@@ -2816,14 +2815,14 @@ http://pfsv.io:80/736837443/6704/513
 #EXTINF:-1 tvg-id="tvi24" tvg-logo="https://imgur.com/8aMDizr.png" group-title="ABERTOS",CNN Portugal
 https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?
 
-#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://imgur.com/eGaXU5E.png" group-title="ABERTOS",EuroNews
-https://origin-02.nxplay.com.br/EURONEWS/tracks-v1a1/mono.m3u8?MARTINTV
+###EXTINF:-1 tvg-id="Euronews" tvg-logo="https://imgur.com/eGaXU5E.png" group-title="ABERTOS",EuroNews
+###https://origin-02.nxplay.com.br/EURONEWS/tracks-v1a1/mono.m3u8?MARTINTV
 
 #EXTINF:-1 tvg-id="Tvjovempan" tvg-logo="https://imgur.com/2dlLVtS.png" group-title="ABERTOS",Jovem Pan News
 http://168.205.87.198:8555/live/1499/123456/161.m3u8
 
-#EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading Web TV
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
+###EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading Web TV
+###https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
 
 ###EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="ABERTOS",TV Manchete
 ###https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?MARTINTV
