@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA!
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 07.01.2022
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 10.01.2022
 
 
 ############################### STINGRAY ##############################################
@@ -101,6 +101,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f
 
 #EXTINF:0 channel-id="mtv-pluto-tv1" tvg-logo="https://imgur.com/Of1yJaj.png" group-title="PLUTO TV BRASIL", MTV Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-com-o-ex" tvg-logo="http://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="PLUTO TV BRASIL", MTV Com o Ex
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61a528267e1b8b0007357920/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=8c504e90-720c-11ec-babb-c979960c62e7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=edbf1e28-bf77-4ceb-a039-335941471dfd&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="mtv-are-you-the-one-ptv1" tvg-logo="https://imgur.com/u6zAeKw.png" group-title="PLUTO TV BRASIL", MTV Are you the One?
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
