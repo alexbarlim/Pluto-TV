@@ -2,7 +2,7 @@
 
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA! POR (MARTINHO ROCHA)
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 04.03.2022
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 05.03.2022
 
 
 
@@ -3386,7 +3386,6 @@ https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8?MARTINTV
 #EXTINF:-1 tvg-id="Tvebahia" tvg-logo="https://i.imgur.com/kLWg5sp.png" group-title="ABERTOS",TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?MARTINTV
 
-
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://imgur.com/c1XFUsl.png" group-title="ABERTOS",TV Cultura
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
@@ -3402,11 +3401,11 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8?MARTINTV
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/zgBYura.png" group-title="ABERTOS",BR Super TV - Rede Brasil
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?MARTINTV
 
-#EXTINF:-1 tvg-id="RPCuritiba" tvg-name="Globo" tvg-logo="https://imgur.com/9gIiEvG.png" group-title="ABERTOS",Globo RPC Curitiba
-http://45.226.83.14/live/RPCHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Globo sc" tvg-name="Globo" tvg-logo="https://imgur.com/9gIiEvG.png" group-title="ABERTOS",Globo SC
+http://179.125.119.154:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/HcdW6B4.png" tvg-shift="0" group-title="ABERTOS",RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8?MARTINTV
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News" tvg-logo="https://imgur.com/IZXPrli.png" group-title="ABERTOS",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?MARTINTV
@@ -3423,15 +3422,14 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?MARTINTV
 
-
-###EXTINF:-1 tvg-id="Euronews" tvg-logo="https://imgur.com/eGaXU5E.png" group-title="ABERTOS",EuroNews
-###https://origin-02.nxplay.com.br/EURONEWS/tracks-v1a1/mono.m3u8?MARTINTV
+#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://imgur.com/eGaXU5E.png" group-title="ABERTOS",EuroNews
+https://origin-02.nxplay.com.br/EURONEWS/tracks-v1a1/mono.m3u8?MARTINTV
 
 #EXTINF:-1 tvg-id="Tvjovempan" tvg-logo="https://imgur.com/2dlLVtS.png" group-title="ABERTOS",Jovem Pan News
 http://168.205.87.198:8555/live/1499/123456/161.m3u8
 
-###EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading Web TV
-###https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
+#EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading Web TV
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
 
 ###EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="ABERTOS",TV Manchete
 ###https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?MARTINTV
@@ -3439,8 +3437,8 @@ http://168.205.87.198:8555/live/1499/123456/161.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="ABERTOS",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/jn1BPCz.png" group-title="ABERTOS",Rede UTV Brasil
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+###EXTINF:-1 tvg-logo="https://imgur.com/jn1BPCz.png" group-title="ABERTOS",Rede UTV Brasil
+##https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
 
 ############################### RADIOS ################################################
