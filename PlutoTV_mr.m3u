@@ -1,9 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,http://epg.liveiptv.net/epg.xml"
 
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA! POR (MARTINHO ROCHA)
+http://10.0.0.1
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 05.03.2022
-
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 08.03.2022
+http://10.0.0.1
 
 
 ####################################### SOUL TV ###########################################################
@@ -384,6 +385,68 @@ https://cdn2.connectbr.com.br/oxtv/video.m3u8
 #EXTINF:1 group-title="SOUL TV" ,Canal Teste
 https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
 
+############################### 
+
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/nav_link/thumbnails/widescreen/366x206/guide_2.jpg" group-title="CANELA TV",CANALES EPG
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+
+#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="CANELA TV",CANELA.TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="CANELA TV",CANELA CLÁSSICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" group-title="CANELA TV",CINE ROMÁNTICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" group-title="CANELA TV",ACCIÓN MEXICANA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-el-rey-16x9.jpg" group-title="CANELA TV",EL REY
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="CANELA TV",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-tierra-16x9.jpg" group-title="CANELA TV",TIERRA DE AMOR Y VENGANZA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-talisman-16x9_2.jpg" group-title="CANELA TV",EL TALISMÁN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
+
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-real-madrid-v2-16x9_1.jpg" group-title="CANELA TV",REAL MADRID
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-combate-global.jpg" group-title="CANELA TV",COMBATE GLOBAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/img/canela-kids-white.png" group-title="CANELA TV",CANELA KIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/tg-en-espanol-rectangle-logo-option4.jpeg" group-title="CANELA TV",TOON GOGGLES EN ESPAÑOL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/canela-hits-16x9-v1_2.jpg" group-title="CANELA TV",CANELA HITS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=e82a21595e9ea0561c6c785f63f3ea95&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=ES&gender=M&yob=22&livestream=1&timestamp=1641731846&id=17366&ip=168.181.169.106&override_expiration=1500&auth_token=40e90e0a-c8bd-4678-8396-b93627fe2461&permissions=RU&sign=qeTbTKYzBAifsQD4%2B9bMaNEC2FssJQdj4OL5mJ2hyyA%3D
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/baile-picante-16x9-v1.jpg" group-title="CANELA TV",BAILE PICANTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/amor-para-todos-16x9-v1.jpg" group-title="CANELA TV",AMOR PARA TODOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/pop-pegajoso.jpeg" group-title="CANELA TV",POP PEGAJOSO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/regionales-16x9-v1.jpg" group-title="CANELA TV",REGIONALES PA' BAILAR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/ritmos-inolvidables-16x9-v1.jpg" group-title="CANELA TV",RITMOS INOLVIDABLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/rompe-tus-limites-16x9-v1.jpg" group-title="CANELA TV",ROMPE TUS LIMITES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+
 
 ############################### STINGRAY ##############################################
 
@@ -417,7 +480,7 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 tvg-logo="https://imgur.com/JKlk0ju.png" group-title="STINGRAY MUSIC",Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 
-############################# PLUTO TV BRASIL
+############################# PLUTO TV BRASIL #############################################################
 
 #EXTINF:0 channel-id="guia-de-canais" tvg-logo="https://imgur.com/JSs5V3b.png" group-title="PLUTO TV BRASIL", Guia de Canais
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
@@ -604,6 +667,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a
 
 #EXTINF:0 channel-id="a-vida-moderna-de-rocko" tvg-logo="https://imgur.com/iu4Xbjd.png" group-title="PLUTO TV BRASIL", A Vida moderna de Rocko
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="pluto-61f2c6969fcc3800076ef8af" tvg-id="61f2c6969fcc3800076ef8af" tvg-chno="732" tvg-logo="https://images.pluto.tv/channels/61f2c6969fcc3800076ef8af/solidLogoPNG.png" group-title="PLUTO TV BRASIL",Rugrats
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:0 channel-id="aventuras-jackie-chan-ptv1" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/solidLogoPNG.png" group-title="PLUTO TV BRASIL", As Aventuras de Jackie Chan
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&userId=&serverSideAds=true
