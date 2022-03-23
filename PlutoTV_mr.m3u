@@ -3,8 +3,18 @@
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA! POR (MARTINHO ROCHA)
 http://10.0.0.1
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 22.03.2022
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 23.03.2022
 http://10.0.0.1
+
+
+####################################### NOVELAS ###########################################################
+
+#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS" ,Novelisima
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS",Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
 
 
 ####################################### SOUL TV ###########################################################
