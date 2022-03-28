@@ -3,17 +3,29 @@
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA! POR (MARTINHO ROCHA)
 http://10.0.0.1
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 25.03.2022
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 28.03.2022
 http://10.0.0.1
 
 
 ####################################### NOVELAS ###########################################################
 
-#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS" ,Novelisima
+#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS",Novelisima
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/98VBTkT.png" group-title="NOVELAS",Sony Novelas
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS",Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/v5PHoNr.png" group-title="NOVELAS",BBC Drama
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgnS8fG.png" group-title="NOVELAS",RCN Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
 
 
 
