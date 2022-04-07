@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo="https://imgur.com/VPwFA0g.png",LISTA GRATUITA! POR (MARTINHO ROCHA)
 http://10.0.0.1
 
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 05.04.2022
+#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 07.04.2022
 http://10.0.0.1
 
 
@@ -3683,6 +3683,9 @@ http://168.205.87.198:8555/live/1499/123456/161.m3u8
 
 #EXTINF:-1 tvg-id="loading" tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="ABERTOS",Loading Web TV
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
+
+#EXTINF:-1 tvg-id="Tv Brasileira" tvg-logo="https://imgur.com/VE2QcDC.png" group-title="ABERTOS",TV Brasileira
+http://tca.tv.br//media/n/BZi1nZuZy2GXmdaYotG1/a/playlist.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NDkwMTA1ODksInN1YiI6ImRlZmF1bHQjMTYzMzcyMzc3MSIsImV4cCI6MTY1MTE1ODA3Mn0.A-DEBpMG2eMaH0bCwlOUS8oUF_Wf7SvT3lDYgg9eP0Y
 
 ###EXTINF:-1 tvg-id="Ideal TV HD" tvg-logo="https://imgur.com/oN5lTb9.png" group-title="ABERTOS",TV Manchete
 ###https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?MARTINTV
