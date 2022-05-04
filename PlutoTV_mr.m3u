@@ -1,10 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
-#EXTINF:0 tvg-logo="https://imgur.com/gCl5z00.png",LISTA DESCONTINUADA!
+#EXTINF:0 tvg-logo="https://imgur.com/gCl5z00.png" group-title="ATENÇÃO",LISTA DESCONTINUADA!
 http://0.0.0.0
-
-#EXTINF:0 tvg-logo="https://imgur.com/rBsqH2f.png", Atualizada 02.05.2022
-https://0.0.0.0
 
 
 ####################################### NOVELAS ###########################################################
