@@ -4,7 +4,10 @@
 http://0.0.0.0
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gCl5z00.png" group-title="PLUTO TV",LISTA PLUTO TV QR CODE 
+#EXTINF:-1 tvg-logo="https://imgur.com/2UdhUKW.png" group-title="PLUTO TV",QR CODE DA LISTA PLUTO TV! 
+https://imgur.com/2UdhUKW.png
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2UdhUKW.png" group-title="PLUTO TV",LINK M3U8 -> https://i.mjh.nz/PlutoTV/all.m3u8 
 https://imgur.com/2UdhUKW.png
 
 
