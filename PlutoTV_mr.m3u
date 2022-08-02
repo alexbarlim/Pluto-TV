@@ -23,6 +23,9 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
 #EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://imgur.com/56kCir9.png" group-title="TV Aberta",Rede TV!
 http://api.magiaiptv.com/live/800364/107211/m3_NF1sEbwngvMJk7fW9CRyOxQd_720p
 
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/8rT2c7K.png" group-title="TV Aberta",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-logo="https://imgur.com/K2nTYls.png" group-title="TV Aberta",BR Super TV
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
